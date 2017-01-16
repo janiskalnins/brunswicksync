@@ -1,0 +1,22 @@
+$ svn status Latvian.xml
+M	Latvian.xml
+$ svn commit --message "updated for Sync 2.0 Latvian translation"
+Sending        Latvian.xml
+Transmitting file data .
+Committed revision 2.1.
+
+
+# Edit Latvian.xml
+$ git status
+# Latvian.xml is listed under "Changes not staged for commit"
+$ git add Latvian.xml
+$ git status
+	# Latvian.xml is listed under "Changes to be committed"
+$ git commit -m "Latvian translation updated for Sync 2.0"
+	[master (root-commit) fedc3d3] Initial commit
+		1 file changed, 1 insertion(+)
+		create mode 100644 Latvian.xml
+$ git status
+	# nothing to commit (working directory clean)
+	
+janis$
