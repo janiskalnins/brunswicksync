@@ -1,1 +1,1 @@
-# brunswicksync
+# brunswick sync latvian translation
