@@ -5,3 +5,14 @@ ping responses
 client (iekārtas veids)
 server
 failu reģistrēšana - ??? pārbaudīt
+LAbojumi HORSE un EZ Bowling spēlei
+	a) Uzvarēja
+	b) turpināt spēli
+	c) skatīt rezultātus
+	d) netrāpīji mērķī
+	e) labs mēģinājums
+	f) izvēlaties ķegļu kombināciju ...
+	g) nākošais
+	h) lūdzu uzgaidiet
+	i) 
+service on the way????
