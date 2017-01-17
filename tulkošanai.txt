@@ -8,14 +8,14 @@ https://janiskalnins.github.io/brunswicksync/
 	server
 	failu reģistrēšana - ??? pārbaudīt
 	Labojumi HORSE un EZ Bowling spēlei
-		a) Uzvarēja
-		b) turpināt spēli
-		c) skatīt rezultātus
-		d) netrāpīji mērķī
-		e) labs mēģinājums
-		f) izvēlaties ķegļu kombināciju ...
-		g) nākošais
-		h) lūdzu uzgaidiet
+	*	a) Uzvarēja
+	*	b) turpināt spēli
+	*	c) skatīt rezultātus
+	*	d) netrāpīji mērķī
+	*	e) labs mēģinājums (ง •̀_•́)ง
+	*	f) izvēlaties ķegļu kombināciju ...
+	*	g) nākošais
+	*	h) lūdzu uzgaidiet
 		i) 
 		
-	service on the way????
+*	service on the way????

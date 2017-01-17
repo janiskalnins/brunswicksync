@@ -1481,7 +1481,7 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Global Video 1" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Global Video 1</string>
     <string name="Global Video 2" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Global Video 2</string>
     <string name="Good Shot!" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Good Shot!</string>
-    <string name="Good Try!" translator="jk" status="Complete" modifyDate="12.06.2016" istablet="false">Labs Mēģinājums!</string>
+    <string name="Good Try!" translator="jk" status="Complete" modifyDate="17.01.2017" istablet="false">(ง •̀_•́)ง</string>
     <string name="Grand Total" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Kopsumma</string>
     <string name="Grand Total Sales Items Not Taxed (All)" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Grand Total Sales Items Not Taxed (All)</string>
     <string name="Grand Total Sales Items Tax Exempted (x)" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Grand Total Sales Items Tax Exempted (x)</string>
@@ -2227,7 +2227,7 @@ katram</string>
     <string name="miss" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">netrāpījums</string>
     <string name="Miss" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Netrāpījums</string>
     <string name="Missed" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Netrāpīts</string>
-    <string name="Missed The Shot!" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Netrāpīji mērķī!</string>
+    <string name="Missed The Shot!" translator="jk" status="Complete" modifyDate="17.01.2017" istablet="false">:(</string>
     <string name="Missed the spare" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="false">Neaizvēra rāmi</string>
     <string name="Missing" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Iztrūkstošs</string>
     <string name="Missing Color" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Iztrūkstoša sk. krāsa</string>
@@ -2361,9 +2361,9 @@ katram</string>
     <string name="New Zone" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Jauna Zona</string>
     <string name="NewMap" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">NewMap</string>
     <string name="newplayer" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">jauns spēlētājs</string>
-    <string name="next" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">nākošais</string>
+    <string name="next" translator="jk" status="Complete" modifyDate="17.01.2017" istablet="true">=&gt;</string>
     <string name="Next" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Next</string>
-    <string name="Next Assignment" translator="Original Seed" status="Complete" modifyDate="2016.04.29." istablet="true">Nākošais celiņš</string>
+    <string name="Next Assignment" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">Nākošais celiņš</string>
     <string name="next bowler" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">nākošais spēlētājs</string>
     <string name="Next Bowler" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">Nākošais Spēlētājs</string>
     <string name="Next Player" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Nākošais Spēlētājs</string>
@@ -2707,7 +2707,7 @@ katram</string>
     <string name="Place a check next to the players that need to bowl out" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">Atzīmējiet spēlētājus, kuram ir jāizspēlē spēle ātrāk</string>
     <string name="Play" translator="jk" status="Complete" modifyDate="03.06.2016" istablet="false">Spēlēt</string>
     <string name="play again" translator="jk" status="Complete" modifyDate="12.06.2016" istablet="true">spēlēt vēl</string>
-    <string name="Play Again" translator="jk" status="Complete" modifyDate="2016.04.30." istablet="true">Turpināt spēli</string>
+    <string name="Play Again" translator="jk" status="Complete" modifyDate="17.01.2017" istablet="true">Spelet vel</string>
     <string name="PLAY AGAIN" translator="JK" status="Complete" modifyDate="2016.08.18." istablet="true">TURPINĀT</string>
     <string name="Play Again?" translator="jk" status="Complete" modifyDate="03.06.2016" istablet="false">Spēlēt vēl?</string>
     <string name="play begins in" translator="jk" status="Complete" modifyDate="03.06.2016" istablet="false">spēle sāksies pēc</string>
@@ -2748,7 +2748,7 @@ katram</string>
     <string name="Please sign in." translator="jk" status="Complete" modifyDate="2016.04.30." istablet="true">Lūdzu piesakieties</string>
     <string name="Please swipe the card" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Please swipe the card</string>
     <string name="Please swipe the card or enter the number manually" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Please swipe the card or enter the number manually</string>
-    <string name="please wait" translator="jk" status="Complete" modifyDate="2016.04.30." istablet="true">lūdzu uzgaidiet</string>
+    <string name="please wait" translator="jk" status="Complete" modifyDate="17.01.2017" istablet="true">uzgaidiet</string>
     <string name="Please wait while the transaction is processed..." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Please wait while the transaction is processed...</string>
     <string name="Point of Sale" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Pārdošanas punkts (POS)</string>
     <string name="Policies" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Drošības Politika</string>
@@ -3276,7 +3276,7 @@ priekšskatījums</string>
     <string name="Serial LAN" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Serial LAN</string>
     <string name="Series" translator="Original Seed" status="New" modifyDate="1/3/2017" istablet="false">Series</string>
     <string name="Serious Panels" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Serious Panels</string>
-    <string name="Server" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Server</string>
+    <string name="Server" translator="jk" status="Complete" modifyDate="17.01.2017" istablet="false">Serveris</string>
     <string name="Server Add Instance" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Server Add Instance</string>
     <string name="Server Delete Instance" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Server Delete Instance</string>
     <string name="Server Installation - New Installation/New Version" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Servera Sistēmas Uzstādīšana - Jauna Instalācija/Versija</string>
@@ -4055,7 +4055,7 @@ priekšskatījums</string>
     <string name="Use the same resource type for every zone." translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Izmantot to pašu Resursu Veidu visās Zonās</string>
     <string name="use the tablet to continue" translator="jk" status="Review" modifyDate="2016.04.29." istablet="false">izmantojiet planšetes ekrānu lai turpinātu spēli</string>
     <string name="use the tablet to continue or throw a ball to start next game" translator="jk" status="Complete" modifyDate="2016.05.04." istablet="false">izmantojiet planšetes ekrānu vai ripiniet bumbu lai turpinātu spēli</string>
-    <string name="use the tablet to pick a shot" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">izvēlaties ķegļu kombināciju uz planšetes ekrāna </string>
+    <string name="use the tablet to pick a shot" translator="jk" status="Complete" modifyDate="17.01.2017" istablet="false">izvelaties kombinaciju uz plansetes</string>
     <string name="Use the Team Track menu to follow teams on other lanes" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Izmantojiet "Sekot Komandai" izvēlni lai sekotu citas komandas spēles gaitai kas norisinās uz cita celiņa.</string>
     <string name="Use Validated Card" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Use Validated Card</string>
     <string name="Used" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Lietojums</string>
