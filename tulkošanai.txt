@@ -18,4 +18,4 @@ LAbojumi HORSE un EZ Bowling spēlei
 	h) lūdzu uzgaidiet
 	i) 
 service on the way????
-citi norādījumi
+citi norādījumi - master branch
