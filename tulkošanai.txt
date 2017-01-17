@@ -3,8 +3,8 @@ https://janiskalnins.github.io/brunswicksync/
 Customer interaction points - Klienta saskarsmes punkti
 digital signage - digitālās informatīvās norādes 
 logging - fiksē žurnālā 
-ping respons
-client (iekārtas veids) = ?
+ping response
+client (iekārtas veids) = klients
 server
 failu reģistrēšana - ??? pārbaudīt
 LAbojumi HORSE un EZ Bowling spēlei
@@ -18,5 +18,3 @@ LAbojumi HORSE un EZ Bowling spēlei
 	h) lūdzu uzgaidiet
 	i) 
 service on the way????
-
-Pārbaudam testa zaru
