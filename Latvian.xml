@@ -465,7 +465,7 @@
     <string name="Bumper" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Bortiņš</string>
     <string name="Bumper Choice At Lane" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Bumper Choice At Lane</string>
     <string name="Bumper Control" translator="jk" status="Complete" modifyDate="2016.05.05." istablet="false">Bortiņu vadība</string>
-    <string name="Bumper Restart" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Bumper Restart</string>
+    <string name="Bumper Restart" translator="jk" status="Complete" modifyDate="17.01.2017" istablet="false">Restartēt bortiņus</string>
     <string name="bumper type" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">bortiņu veids</string>
     <string name="Bumper Type" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Bortiņu veids</string>
     <string name="bumpers" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">bortiņi</string>
@@ -629,6 +629,7 @@
     <string name="click here to run analysis" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Klikšķināt šeit, lai palaisu sistēmas analīzi</string>
     <string name="CLICK TO" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">CLICK TO</string>
     <string name="Click to show details" translator="jk" status="Review" modifyDate="2016.05.21." istablet="false">Noklikšķināt lai redzētu detaļas</string>
+    <string name="Client" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Klienta dators</string>
     <string name="Client Installation" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Klienta Sistēmas Uzstādīšana</string>
     <string name="Clients Reboot Time" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Klientu restartēšanās laiks</string>
     <string name="Close" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Aizvērt</string>
@@ -3067,7 +3068,7 @@ priekšskatījums</string>
     <string name="Resources cannot be added due to a conflict of ports. There are Resources that are already using ports withing the specified range." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Resources cannot be added due to a conflict of ports. There are Resources that are already using ports withing the specified range.</string>
     <string name="Response Time Out" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Response Time Out</string>
     <string name="Responses" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Responses</string>
-    <string name="Restart Services" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Restart Services</string>
+    <string name="Restart Services" translator="jk" status="Complete" modifyDate="17.01.2017" istablet="false">Restartēt servisus</string>
     <string name="Restaurant Mode" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Restorānu režīms</string>
     <string name="Restore" translator="jk" status="Complete" modifyDate="2016.05.14." istablet="false">Atjaunot</string>
     <string name="Restore Database" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Atjaunot Datubāzi</string>

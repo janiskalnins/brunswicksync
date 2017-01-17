@@ -4,7 +4,7 @@ https://janiskalnins.github.io/brunswicksync/
 	digital signage - digitālās informatīvās norādes 
 	logging - fiksē žurnālā 
 	ping response
-	client (iekārtas veids) = klients
+*?	client (iekārtas veids) = klients
 	server
 	failu reģistrēšana - ??? pārbaudīt
 	Labojumi HORSE un EZ Bowling spēlei
