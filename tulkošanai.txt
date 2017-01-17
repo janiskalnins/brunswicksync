@@ -1,21 +1,21 @@
 https://janiskalnins.github.io/brunswicksync/ 
 
-Customer interaction points - Klienta saskarsmes punkti
-digital signage - digitālās informatīvās norādes 
-logging - fiksē žurnālā 
-ping response
-client (iekārtas veids) = klients
-server
-failu reģistrēšana - ??? pārbaudīt
-LAbojumi HORSE un EZ Bowling spēlei
-	a) Uzvarēja
-	b) turpināt spēli
-	c) skatīt rezultātus
-	d) netrāpīji mērķī
-	e) labs mēģinājums
-	f) izvēlaties ķegļu kombināciju ...
-	g) nākošais
-	h) lūdzu uzgaidiet
-	i) 
-service on the way????
-citi norādījumi - master branch
+	Customer interaction points - Klienta saskarsmes punkti
+	digital signage - digitālās informatīvās norādes 
+	logging - fiksē žurnālā 
+	ping response
+	client (iekārtas veids) = klients
+	server
+	failu reģistrēšana - ??? pārbaudīt
+	Labojumi HORSE un EZ Bowling spēlei
+		a) Uzvarēja
+		b) turpināt spēli
+		c) skatīt rezultātus
+		d) netrāpīji mērķī
+		e) labs mēģinājums
+		f) izvēlaties ķegļu kombināciju ...
+		g) nākošais
+		h) lūdzu uzgaidiet
+		i) 
+		
+	service on the way????

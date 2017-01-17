@@ -1,0 +1,90 @@
+﻿Welcome|Welcome
+Welcome|Tonight, We Bowl!
+Welcome|Let's Bowl!
+Welcome|Ladies and Gentlemen, Start Your Engines!
+Birthday|Happy Birthday!
+Birthday|Happy Birthday to You!
+Slow|Hello?.. Is Anybody Out There?..
+Slow|It's Your Turn!
+Slow|Hello? Please Bowl Now.
+Slow|Hurry Up and Bowl Already!
+Foul|Foul!
+Foul|Fail!
+Foul|Over the Line!
+Gutter|Gutter
+Gutter|Gutterball!
+Gutter|I Meant to Do That! - Gutter
+Gutter|Maybe You Need Bumpers.
+Open|Almost. Don't give up!
+Open|Nice Try!
+Open|You were so close!
+Open|Keep trying!
+Open|Better luck next time!
+Spare|Spare!
+Spare|Great Shot!
+Spare|Nice Cleanup!
+Spare|Way to pick up that Spare!!
+Spare|Those pins never stood a chance!
+Spare|Awesome Spare!
+Spare|No pin left standing! Nice job!
+Strike1|Strike!
+Strike1|Steeeeee-RIKE!
+Strike1|SPLASHER (That's a Strike for You Newbies)
+Strike1|Power Shot!
+Strike2|Double!
+Strike2|Two in a Row!
+Strike2|Double Time!
+Strike2|Deuces Wild!
+Strike3|Three in a Row!!!
+Strike3|Turkey!
+Strike3|Turkey! The Official Bird of Bowling
+Strike3|Gobble Gobble
+Strike4|Four Strikes in a Row!
+Strike4|Hambone!
+Strike4|Well Done!
+Strike4|Four Strikes and Counting!!
+Strike5|Five Strikes in a Row!
+Strike5|Five Bagger!
+Strike5|Gimme Five!
+Strike5|Five Strikes and Counting!
+Strike6|Six Strikes in a Row!
+Strike6|Six Bagger!
+Strike6|Six-Pack!!
+Strike6|Wild Turkeys!!
+Strike7|Seven Strikes in a Row!
+Strike7|Seven Strikes and Counting!
+Strike7|Ham & Turkey Dinner!
+Strike7|Lucky Number 7!!
+Strike8|Eight Strikes in a Row!
+Strike8|Eight Bagger!
+Strike8|Eight is Great!
+Strike8|Eight Strikes and Counting!!
+Strike9|Nine Strikes in a Row!
+Strike9|Nine Bagger!
+Strike9|Golden Turkeys!!!
+Strike9|Nine Strikes and Counting!!
+Strike10|Ten Strikes in a Row!
+Strike10|Ten Bagger!
+Strike10|Perfect 10!
+Strike10|Ten Strikes and Counting!!
+Strike11|Eleven Strikes in a Row!
+Strike11|Eleven Bagger!
+Strike11|Just One More!
+Strike11|Eleven Strikes and Counting!!!
+Strike12|300!!!
+Strike12|Perfect Game!!!
+Strike12|Picture Perfect!!!
+Strike12|Perfection!!!
+RHPWin|Red Pin Win!
+RHPChance|Red Pin Chance!
+Split|Split
+Split|Split Happens.
+Split|Splitting Headache!
+Split|Lickety-Split!
+SplitSpare|Split Conversion!
+SplitSpare|X-X-X-X Conversion. Amazing!
+SplitSpare|Nice Conversion!
+Stay|Where Are You Going? Stay and Bowl.
+Stay|Another Game, Perhaps?
+Stay|What's Your Rush? Play Again.
+Stay|Like You Really Have Something Better to Do. Play Again.
