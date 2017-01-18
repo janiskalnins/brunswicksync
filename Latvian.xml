@@ -68,7 +68,7 @@
     <string name="Account" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Konti</string>
     <string name="ACCOUNT" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">KONTS</string>
     <string name="Account Adjustment" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Kontu Koriģēšana</string>
-    <string name="Account Adjustment Added" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Account Adjustment Added</string>
+    <string name="Account Adjustment Added" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Pievienota konta korekcija</string>
     <string name="Account balance will be higher than maximum charge amount" translator="os" status="New" modifyDate="4/26/2016" istablet="false">Account balance will be higher than maximum charge amount</string>
     <string name="Account Categories" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Kontu Kategorijas</string>
     <string name="Account Category" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Konta Kategorija</string>
@@ -2902,7 +2902,7 @@ priekšskatījums</string>
     <string name="Raw Text" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Raw Text</string>
     <string name="Re:" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Re:</string>
     <string name="Read, send and delete your memos." translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Lasīt, Nosūtīt un Dzēst iekšējās sarakstes vēstules</string>
-    <string name="Reason" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Reason</string>
+    <string name="Reason" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Iemesls</string>
     <string name="Reboot" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Restartēt</string>
     <string name="Reboot Clients" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Restartēt Klientus</string>
     <string name="reboot device" translator="jk" status="Complete" modifyDate="2016.04.30." istablet="true">atkārtoti palaist</string>
@@ -2921,13 +2921,13 @@ priekšskatījums</string>
     <string name="Receipt Printer" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Čeku Printeris</string>
     <string name="Receipts Auto Printed" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Automātiski drukātie čeki</string>
     <string name="Recent Guests" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Nesenie Viesi</string>
-    <string name="Recent Maps" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Recent Maps</string>
-    <string name="Recipients" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Recipients</string>
-    <string name="Red" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Red</string>
-    <string name="Red Head Pin" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Red Head Pin</string>
-    <string name="Red Head Pin Chance Message" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Red Head Pin Chance Message</string>
-    <string name="Red Head Pin Win Message" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Red Head Pin Win Message</string>
-    <string name="Reference" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Reference</string>
+    <string name="Recent Maps" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Nesenās kartes</string>
+    <string name="Recipients" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Saņēmēji</string>
+    <string name="Red" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Sarkans</string>
+    <string name="Red Head Pin" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Sarkanais Ķeglis</string>
+    <string name="Red Head Pin Chance Message" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Sarkanā ķegļa iespējas ziņa</string>
+    <string name="Red Head Pin Win Message" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Vinnēta sarkanā ķegļa ziņa</string>
+    <string name="Reference" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Atsauce</string>
     <string name="Refresh" translator="jk" status="Complete" modifyDate="2016.08.18." istablet="false">Atsvaidzināt</string>
     <string name="Refresh Status" translator="jk" status="Complete" modifyDate="17.08.2016" istablet="false">Pārbaudīt Stāvokli</string>
     <string name="Refund" translator="jk" status="Complete" modifyDate="17.08.2016" istablet="false">Atgriezt</string>
@@ -2947,32 +2947,32 @@ priekšskatījums</string>
     <string name="Rehost Game Control" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Mainīt Spēļu uzturētāju</string>
     <string name="Rehost Game Control on the Server" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Uzturēt Spēļu Kontroli uz Servera</string>
     <string name="Rehost the game control on the server from a display controller that is broken." translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Uzturēt spēļu kontroli uz Servera datora no salūzušā Ekrānu Kontroliera.</string>
-    <string name="release bumper emergency" translator="Original Seed" status="New" modifyDate="8/17/2016" istablet="true">release bumper emergency</string>
-    <string name="Remaining Attempts" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Remaining Attempts</string>
+    <string name="release bumper emergency" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="true">atsaukt bortiņu avārijas režīmu</string>
+    <string name="Remaining Attempts" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Atlikušie mēģinājumi</string>
     <string name="Remote Order Printer Install" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Attālinātā Pasūtījumu Printera Uzstādīšana</string>
     <string name="Remote Order Printer Ticket Settings" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">APP pasūtījumu parametri</string>
     <string name="Remote Order Printing" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Attālināto Pasūtījumu Drukāšana</string>
     <string name="Remote Order Printing Custom Messages" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Attālināto Pasūtījuma Printeru Pielāgotās Ziņas</string>
     <string name="Remote Order Printing Ticket Settings" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">APP Pasūtījumu Drukāšanas Uzstādījumi</string>
-    <string name="Removal Reason" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Removal Reason</string>
+    <string name="Removal Reason" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Noņemšanas iemesls</string>
     <string name="Remove" translator="Original Seed" status="Complete" modifyDate="2016.05.14." istablet="false">Noņemt</string>
     <string name="Remove a check " translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Noņemt atzīmi</string>
-    <string name="Remove All Cities" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Remove All Cities</string>
+    <string name="Remove All Cities" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Noņemt visas pilsētas</string>
     <string name="Remove All Postal Codes" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Dzēst Visus Pasta kodus</string>
     <string name="Remove All States/Provinces" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Dzēst Visus Novadus</string>
     <string name="Remove Check" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Noņemt atzīmi</string>
     <string name="Remove City" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Nodzēst Pilsētu</string>
-    <string name="Remove Client" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Remove Client</string>
+    <string name="Remove Client" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Noņemt klientu</string>
     <string name="Remove from lineup" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Remove from lineup</string>
-    <string name="Remove guest list" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Remove guest list</string>
-    <string name="Remove Guest List" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Remove Guest List</string>
+    <string name="Remove guest list" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Dzēst viesu sarakstu</string>
+    <string name="Remove Guest List" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Dzēst viesu sarakstus</string>
     <string name="Remove Lanes Wizard" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Celiņu noņemšanas vednis</string>
     <string name="Remove Money from Drawer" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Izņemt Naudu no Kases</string>
     <string name="Remove Player" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Noņemt Spēlētāju</string>
     <string name="Remove Postal Code" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Dzēst Pasta indeksu</string>
     <string name="Remove State/Province" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Dzēst Novadu</string>
     <string name="Remove Zone" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Nodzēst Zonu</string>
-    <string name="Removed transaction" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Removed transaction</string>
+    <string name="Removed transaction" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Dzēstā transakcija</string>
     <string name="Rename a Device" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Pārdēvēt iekārtu</string>
     <string name="Rename Device" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Pārdēvēt iekārtu</string>
     <string name="Rent Due Date" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Rezervēts līdz:</string>
@@ -3002,15 +3002,15 @@ priekšskatījums</string>
     <string name="Repeat Amount Tax" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Repeat Amount Tax</string>
     <string name="Repeats" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Atkārtojas</string>
     <string name="Repeats On" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Atkārtojas:</string>
-    <string name="Reply" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Reply</string>
+    <string name="Reply" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Atkārtot</string>
     <string name="Report Error" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Atskaites kļūda</string>
     <string name="Reporting Hierarchy" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Reporting Hierarchy</string>
-    <string name="Reports" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Reports</string>
+    <string name="Reports" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Atskaites</string>
     <string name="RE-PRINT" translator="jk" status="Complete" modifyDate="2016.05.14." istablet="false">Drukāt Atkārtoti</string>
     <string name="Reprint All" translator="jk" status="Complete" modifyDate="2016.05.14." istablet="false">Drukāt Atkārtoti visu</string>
     <string name="Reprint Printed ROP Products" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Reprint Printed ROP Products</string>
     <string name="Reprint Ticket" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Atkārtoti drukāt pasūtījumu</string>
-    <string name="Requests" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Requests</string>
+    <string name="Requests" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Pieprasījumi</string>
     <string name="Require Credentials" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Pieprasīt akreditācijas datus</string>
     <string name="Required" translator="jk" status="Complete" modifyDate="2016.04.30." istablet="true">Obligāts</string>
     <string name="Required Modifiers Missing" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Obligāti Modifikatori nav norādīti</string>
@@ -3066,8 +3066,8 @@ priekšskatījums</string>
     <string name="Resource will be issued with no guests" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Resource will be issued with no guests</string>
     <string name="Resources" translator="jk" status="Complete" modifyDate="2016.08.18." istablet="false">Resursi</string>
     <string name="Resources cannot be added due to a conflict of ports. There are Resources that are already using ports withing the specified range." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Resources cannot be added due to a conflict of ports. There are Resources that are already using ports withing the specified range.</string>
-    <string name="Response Time Out" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Response Time Out</string>
-    <string name="Responses" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Responses</string>
+    <string name="Response Time Out" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Atbildes noildze</string>
+    <string name="Responses" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Atbildes</string>
     <string name="Restart Services" translator="jk" status="Complete" modifyDate="17.01.2017" istablet="false">Restartēt servisus</string>
     <string name="Restaurant Mode" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Restorānu režīms</string>
     <string name="Restore" translator="jk" status="Complete" modifyDate="2016.05.14." istablet="false">Atjaunot</string>
@@ -3110,7 +3110,7 @@ priekšskatījums</string>
     <string name="RS232" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">RS232</string>
     <string name="Run Backup Now (with Copy)" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Sākt Rezerves kopēšanu (bez kopijas)</string>
     <string name="Run Backup Now (without Copy)" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Sākt Rezerves kopēšanu (ar kopiju)</string>
-    <string name="Run Diagnostic" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Run Diagnostic</string>
+    <string name="Run Diagnostic" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Palaist diagnostiku</string>
     <string name="Run Mode" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Run Mode</string>
     <string name="Running Team Total" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Running Team Total</string>
     <string name="Russian" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Russian</string>
