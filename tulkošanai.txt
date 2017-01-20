@@ -1,12 +1,12 @@
 https://janiskalnins.github.io/brunswicksync/ 
 
-	Customer interaction points - Klienta saskarsmes punkti
+*	Customer interaction points - Klienta saskarsmes punkti
 	digital signage - digitālās informatīvās norādes 
-	logging - fiksē žurnālā 
+*	logging - fiksē žurnālā - Notikumu reģistrēšana
 	ping response
 *?	client (iekārtas veids) = klients
 	server
-	failu reģistrēšana - ??? pārbaudīt
+*	failu reģistrēšana - ??? pārbaudīt
 	Labojumi HORSE un EZ Bowling spēlei
 	*	a) Uzvarēja
 	*	b) turpināt spēli
