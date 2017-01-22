@@ -27,43 +27,43 @@ Spare|Way to pick up that Spare!!
 Spare|Those pins never stood a chance!
 Spare|Awesome Spare!
 Spare|No pin left standing! Nice job!
-Strike1|Strike!
-Strike1|Steeeeee-RIKE!
+Strike1|Straiks!
+Strike1|Straaaaaaaaaaa-IKS!
 Strike1|SPLASHER (That's a Strike for You Newbies)
 Strike1|Power Shot!
 Strike2|Double!
-Strike2|Two in a Row!
-Strike2|Double Time!
-Strike2|Deuces Wild!
-Strike3|Three in a Row!!!
-Strike3|Turkey!
-Strike3|Turkey! The Official Bird of Bowling
+Strike2|Divi pēc kārtas!
+Strike2|Dubult-(n)aiss!
+Strike2|Divtiklabi!
+Strike3|TRĪS!!!
+Strike3|Trīnītis!
+Strike3|Trīs lietas, labas lietas
 Strike3|Gobble Gobble
-Strike4|Four Strikes in a Row!
+Strike4|Četri straiki vienā rindā!
 Strike4|Hambone!
 Strike4|Well Done!
 Strike4|Four Strikes and Counting!!
-Strike5|Five Strikes in a Row!
+Strike5|Pieci straiki vienā rindā!
 Strike5|Five Bagger!
 Strike5|Gimme Five!
 Strike5|Five Strikes and Counting!
-Strike6|Six Strikes in a Row!
+Strike6|Seši straiki vienā rindā!
 Strike6|Six Bagger!
 Strike6|Six-Pack!!
 Strike6|Wild Turkeys!!
-Strike7|Seven Strikes in a Row!
+Strike7|Septiņi straiki vienā rindā!
 Strike7|Seven Strikes and Counting!
 Strike7|Ham & Turkey Dinner!
 Strike7|Lucky Number 7!!
-Strike8|Eight Strikes in a Row!
+Strike8|Astoņi straiki vienā rindā!
 Strike8|Eight Bagger!
 Strike8|Eight is Great!
 Strike8|Eight Strikes and Counting!!
-Strike9|Nine Strikes in a Row!
+Strike9|Deviņi straiki vienā rindā!
 Strike9|Nine Bagger!
 Strike9|Golden Turkeys!!!
 Strike9|Nine Strikes and Counting!!
-Strike10|Ten Strikes in a Row!
+Strike10|Desmit straiki vienā rindā!
 Strike10|Ten Bagger!
 Strike10|Perfect 10!
 Strike10|Ten Strikes and Counting!!

@@ -473,6 +473,7 @@
     <string name="Bumpers Down" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Bortiņi Lejā</string>
     <string name="Bumpers Up" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Bortiņi augšā</string>
     <string name="Calibration" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Kalibrācija</string>
+    <string name="Call in progress" translator="jk" status="Complete" modifyDate="2016.05.14." istablet="true">Zvana...</string>
     <string name="Call Lane" translator="jk" status="Complete" modifyDate="2016.05.14." istablet="false">Zvanīt Celiņam</string>
     <string name="Camera Calibration" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Kameras kalibrācija</string>
     <string name="Canadian" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Kanādiešu</string>
@@ -1554,6 +1555,7 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Handicap total" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="true">hdkp summa</string>
     <string name="Handicap Total" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="false">hdkp summa</string>
     <string name="Handle Pin out of Range" translator="jk" status="Complete" modifyDate="26.05.2016" istablet="false">Apstrādāt PO kļūdu</string>
+    <string name="Hangup" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">Beigt</string>
     <string name="Hard" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Grūti</string>
     <string name="HARD" translator="JK" status="Complete" modifyDate="12.06.2016" istablet="true">GRŪTI</string>
     <string name="Hardware" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Aparatūra</string>
@@ -1643,6 +1645,7 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Import/Export POS Items" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Importēt/Eksportēt POS vienumus</string>
     <string name="Import/Export POS items from/to a spreadsheet." translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Importēt/Eksportēt POS vienumus no/uz izklājlapu</string>
     <string name="Imported Data" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Importētie dati</string>
+    <string name="in a row!" translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">straikus pēc kārtas!</string>
     <string name="In Game" translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">Spēļu Laikā</string>
     <string name="In Process with server" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">In Process with server</string>
     <string name="Inactive" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Neaktīvs</string>
@@ -1850,7 +1853,7 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="just got a STRIKE" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="false">tu tikko dabūji STRAIKU</string>
     <string name="Just keep swimming" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Just keep swimming</string>
     <string name="just missed getting a spare" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="false">tikko neaizvēra rāmi :(</string>
-    <string name="just threw" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">just threw</string>
+    <string name="just threw" translator="jk" status="Complete" modifyDate="22.01.2017" istablet="false">tikko uzmeta</string>
     <string name="Just threw a PERFECT GAME" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Just threw a PERFECT GAME</string>
     <string name="Katakana (20290)" translator="Original Seed" status="Review" modifyDate="8/17/2016" istablet="false">Katakana (20290)</string>
     <string name="Keep Drawer Closed" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Paturēt Kases Lādi Aizvērtu</string>
@@ -2311,7 +2314,7 @@ katram</string>
     <string name="New" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Jauns</string>
     <string name="New Account" translator="jk" status="Complete" modifyDate="2016.05.14." istablet="false">Jauns Konts</string>
     <string name="New Account Category" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Jauna Kontu kategorija</string>
-    <string name="New Adjustment" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">New Adjustment</string>
+    <string name="New Adjustment" translator="jk" status="Complete" modifyDate="22.01.2017" istablet="false">Jauna korekcija</string>
     <string name="New Availability Level" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Jauns Pieejamības Periods</string>
     <string name="New Banking Item" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Jauns Kases vienums</string>
     <string name="New Configuration" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">New Configuration</string>
@@ -2495,7 +2498,7 @@ katram</string>
     <string name="Only Reserved" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Tikai rezervēts</string>
     <string name="Only Show Summary Data" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Only Show Summary Data</string>
     <string name="Only Show Total on Customer Display" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Uz klientu ekrāna rādīt tikai summu</string>
-    <string name="Only Show Transactions With Adjustments" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Only Show Transactions With Adjustments</string>
+    <string name="Only Show Transactions With Adjustments" translator="jk" status="Complete" modifyDate="22.01.2017" istablet="false">Rādīt tikai transakcijas ar Korekcijām</string>
     <string name="Only Show Transactions With Tender Exceeding" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Only Show Transactions With Tender Exceeding</string>
     <string name="ONLY THREE PIGS LEFT!" translator="Original Seed" status="New" modifyDate="8/17/2016" istablet="false">ONLY THREE PIGS LEFT!</string>
     <string name="ONLY TWO PIGS LEFT!" translator="Original Seed" status="New" modifyDate="8/17/2016" istablet="false">ONLY TWO PIGS LEFT!</string>
@@ -2675,7 +2678,7 @@ katram</string>
     <string name="Pin" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Pin</string>
     <string name="PIN" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">PIN</string>
     <string name="Pin Camera" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Pin Camera</string>
-    <string name="Pin Camera Adjustment" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Pin Camera Adjustment</string>
+    <string name="Pin Camera Adjustment" translator="jk" status="Complete" modifyDate="22.01.2017" istablet="false">Ķegļu kameras parametri</string>
     <string name="Pin left after first ball" translator="jk" status="Complete" modifyDate="2016.05.04." istablet="false">Ķegļi kas palikuši pēc 1. metiena</string>
     <string name="Pin Light Off" translator="jk" status="Complete" modifyDate="26.05.2016" istablet="false">Izslēgt ķegļu gaismu</string>
     <string name="Pin Light On" translator="jk" status="Complete" modifyDate="26.05.2016" istablet="false">Ieslēgt ķegļu gaismu</string>
@@ -3898,9 +3901,9 @@ priekšskatījums</string>
     <string name="Traditional Doubles" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Traditional Doubles</string>
     <string name="Training" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Apmācība</string>
     <string name="Transaction" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Transakcija</string>
-    <string name="Transaction Adjustment" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Transaction Adjustment</string>
-    <string name="Transaction Adjustment Added" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Transaction Adjustment Added</string>
-    <string name="Transaction Adjustments" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Transaction Adjustments</string>
+    <string name="Transaction Adjustment" translator="jk" status="Complete" modifyDate="22.01.2017" istablet="false">Transakcijas korekcija</string>
+    <string name="Transaction Adjustment Added" translator="jk" status="Complete" modifyDate="22.01.2017" istablet="false">Transakcijas korekcija ir pievienota</string>
+    <string name="Transaction Adjustments" translator="jk" status="Complete" modifyDate="22.01.2017" istablet="false">Transakciju korekcijas</string>
     <string name="Transaction Amount" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Transakcijas Summa</string>
     <string name="Transaction Amount In" translator="Original Seed" status="New" modifyDate="8/17/2016" istablet="false">Transaction Amount In</string>
     <string name="Transaction Amount:" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Transakcijas Summa:</string>
