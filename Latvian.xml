@@ -133,7 +133,7 @@
     <string name="Add Zone" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pievienot Zonu</string>
     <string name="Add/Remove Modifiers" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Pievienot/Noņemt Modifikatorus</string>
     <string name="Add/Remove Processes - You should know what you are getting into before you do this" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Pievienot/Noņemt procesus - Cerams ka tu saproti, ko tu dari...</string>
-    <string name="Added" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Added</string>
+    <string name="Added" translator="jk" status="Complete" modifyDate="24.01.2017" istablet="false">Pievienots</string>
     <string name="Added Only" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Added Only</string>
     <string name="Added or Subtracted" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Added or Subtracted</string>
     <string name="Added/Subtracted" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Pievienots/Noņemts</string>
