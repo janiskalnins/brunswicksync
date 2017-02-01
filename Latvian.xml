@@ -13,7 +13,7 @@
     <string name=".01 Discount on $10 Transaction" translator="Original Seed" status="Complete" modifyDate="25.01.2017" istablet="false">.01 Atlaide $10 Transakcijai</string>
     <string name=".01 Discount on TESTValueMeal Package" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">.01 Discount on TESTValueMeal Package</string>
     <string name="{0}% off" translator="Original Seed" status="Complete" modifyDate="2016.08.22." istablet="false">{0}% atlaide</string>
-    <string name="+1 Copies Products (instead of re-clicking)" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">+1 Copies Products (instead of re-clicking)</string>
+    <string name="+1 Copies Products (instead of re-clicking)" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">+1 Produkta kopija (nevis atkārtota klikšķināšana)</string>
     <string name="&lt;-&lt; Odd left Even right &gt;-&gt;" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">&lt;-&lt; Nepāra pa kreisi - Pāra pa labi &gt;-&gt;</string>
     <string name="1% Discount on TESTHamburger" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">1% Discount on TESTHamburger</string>
     <string name="10 or More" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">10 vai Vairāk</string>
@@ -87,9 +87,9 @@
     <string name="Account Name Changed" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Konta Nosaukums ir mainīts</string>
     <string name="Account names must be unique" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Kontu nosaukumiem jābūt unikāliem</string>
     <string name="Account Summary" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Kontu kopsavilkums</string>
+    <string name="Account Type" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Konta Veids</string>
     <string name="Account To Pay Open Tabs" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Neapmaksāto transakciju konts</string>
     <string name="Account Total" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Konta Summa</string>
-    <string name="Account Type" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Konta Veids</string>
     <string name="Account Wizard" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Konta vednis</string>
     <string name="Accounts" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Konti</string>
     <string name="ACCOUNTS/BANKING" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">KONTI/KASE</string>
@@ -113,11 +113,11 @@
     <string name="Add Custom Guests" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Pievienot Citus Viesus</string>
     <string name="Add Customer" translator="jk" status="Complete" modifyDate="2016.05.20." istablet="false">Pievienot Klientu</string>
     <string name="Add Default Guests" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Pievienot Noklusētos Viesus</string>
-    <string name="Add Dispenser Product" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Pievienot Dispensera Produktu</string>
+    <string name="Add Dispenser Product" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Pievienot Dozatora Produktu</string>
     <string name="Add Lanes" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Pievienot Celiņus</string>
     <string name="Add Lanes Wizard" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Celiņu pievienošanas vednis</string>
     <string name="Add Money to Drawer" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Ielikt Naudu Kasē</string>
-    <string name="Add New Level" translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="false">Add New Level</string>
+    <string name="Add New Level" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Pievienot jaunu līmeni</string>
     <string name="Add New Note" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Pievienot Jaunu Piezīmi</string>
     <string name="Add New Person" translator="Original Seed" status="Complete" modifyDate="2016.05.21." istablet="false">Pievienot Jaunu Personu</string>
     <string name="Add On Product" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Pievienojams Produkts</string>
@@ -128,7 +128,7 @@
     <string name="Add Process To Device" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Pievienot Procesu Iekārtai</string>
     <string name="Add Processes" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Pievienot Procesus</string>
     <string name="Add Product Manually" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Pievienot Produktu Manuāli</string>
-    <string name="Add Products To Receipt When Poured" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Add Products To Receipt When Poured</string>
+    <string name="Add Products To Receipt When Poured" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Pievienot produktus kvītij izsniegšanas gadījumā</string>
     <string name="Add State/Province" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Pievienot Novadu</string>
     <string name="Add Value" translator="jk" status="Complete" modifyDate="24.01.2017" istablet="false">Papildināt</string>
     <string name="Add Zone" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pievienot Zonu</string>
@@ -178,7 +178,7 @@
     <string name="All lanes must have an amount greater than 0" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">All lanes must have an amount greater than 0</string>
     <string name="All Open" translator="jk" status="Complete" modifyDate="26.05.2016" istablet="false">Visas Neaizvērtās</string>
     <string name="All players must have a name" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Visiem spēlētājiem ir jānorāda vārds</string>
-    <string name="All products and modifiers must be tax included." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">All products and modifiers must be tax included.</string>
+    <string name="All products and modifiers must be tax included." translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Visas produktu un modifikatoru cenām jāiekļauj nodokļus </string>
     <string name="All Selected Interests" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">All Selected Interests</string>
     <string name="All Subsets" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">All Subsets</string>
     <string name="All Up" translator="jk" status="Complete" modifyDate="26.05.2016" istablet="false">Visi ķegļi</string>
@@ -194,7 +194,7 @@
     <string name="American Express" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">American Express</string>
     <string name="AMF" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">AMF</string>
     <string name="AMF No Start Switch" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">AMF No Start Switch</string>
-    <string name="Amount" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Cena</string>
+    <string name="Amount" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Apjoms</string>
     <string name="Amount / Game" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Daudz. / Spēle</string>
     <string name="Amount Breakdown" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Amount Breakdown</string>
     <string name="Amount Cash Back:" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Amount Cash Back:</string>
@@ -218,10 +218,10 @@
     <string name="Angry Birds Bowling" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="true">Piktie Putni</string>
     <string name="Angry Birds Bowling is a furiously fast paced, bird flinging, pig smashing, ten pin bowling game. Join the flock as you race to dish out revenge on the greedy pigs who stole your eggs. Bring your “A” game" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="true">Pikto Putnu Boulings ir neganti strauja tempa, putnu mētājoša, cūku satriecoša, desmit ķegļu boulinga spēle. Pievienojies pulciņam kas triecās atriebties mantkārīgajām cūkām, kuras ir nozagušas olas. Parādi "A" klasi!!</string>
     <string name="Angry Birds Bowling is a furiously fast paced, bird flinging, pig smashing, ten pin bowling game. Join the flock as you race to dish out revenge on the greedy pigs who stole your eggs. Bring your “A” game." translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Pikto Putnu Boulings ir neganti strauja tempa, putnu mētājoša, cūku satriecoša, desmit ķegļu boulinga spēle. Pievienojies pulciņam kas triecās atriebties mantkārīgajām cūkām, kuras ir nozagušas olas. Parādi "A" klasi!!</string>
-    <string name="Annually" translator="jk" status="Complete" modifyDate="26.05.2016" istablet="false">Katru gadu</string>
-    <string name="Another System" translator="jk" status="Review" modifyDate="15.01.2017" istablet="false">Cita Sistēma</string>
     <string name="Any Sammie" translator="Original Seed" status="New" modifyDate="8/17/2016" istablet="false">Any Sammie</string>
     <string name="Any Selected Interests" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Any Selected Interests</string>
+    <string name="Annually" translator="jk" status="Complete" modifyDate="26.05.2016" istablet="false">Katru gadu</string>
+    <string name="Another System" translator="jk" status="Review" modifyDate="15.01.2017" istablet="false">Cita Sistēma</string>
     <string name="Application Access" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Pieeja lietotnei</string>
     <string name="Application is already running" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Lietotne jau darbojas</string>
     <string name="Application Log" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Lietotņu Žurnālfaili</string>
@@ -229,7 +229,7 @@
     <string name="Application Log Cleared" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Lietotņu žurnālfails iztīrīts</string>
     <string name="Application Log Entry Details" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Lietotnes žurnāla ierakstu detaļas</string>
     <string name="Application Type" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Piemērošanas veids</string>
-    <string name="Applied Before Taxes" translator="Original Seed" status="Complete" modifyDate="23.01.2017" istablet="false">Piemērots pirms nodokļiem</string>
+    <string name="Applied Before Taxes" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Piemērots pirms nodokļiem</string>
     <string name="Apply" translator="jk" status="Review" modifyDate="20.01.2017" istablet="false">Lietot</string>
     <string name="Apply Above Values to All Pinsetters of this Type" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Piemērot iepriekš norādītās vērtības visiem šāda tipa Pinseteriem</string>
     <string name="Apply Embed Bonus Rules" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Apply Embed Bonus Rules</string>
@@ -287,8 +287,8 @@
     <string name="Arrival" translator="jk" status="Complete" modifyDate="27.05.2016" istablet="false">Ieradās</string>
     <string name="Arriving Teams" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">Nākošās Komandas</string>
     <string name="Assign" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Assign</string>
-    <string name="Assign Gratuities" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Assign Gratuities</string>
-    <string name="Assign Gratuities for Other Users" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Assign Gratuities for Other Users</string>
+    <string name="Assign Gratuities" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Piešķirt pateicības</string>
+    <string name="Assign Gratuities for Other Users" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Piešķirt pateicības citiem lietotājiem</string>
     <string name="Assign Gratuity" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Assign Gratuity</string>
     <string name="Assign Prepaid Waiting List" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Assign Prepaid Waiting List</string>
     <string name="Assign Rental Unit" translator="jk" status="Complete" modifyDate="2016.08.31." istablet="false">Piešķirt īres resursu</string>
@@ -307,7 +307,7 @@
     <string name="Attached" translator="jk" status="Review" modifyDate="20.01.2017" istablet="false">Pievienots</string>
     <string name="Attached a Custom Background to a Reservation" translator="jk" status="Complete" modifyDate="2016.08.18." istablet="false">Pievienot rezervācijai pielāgotu fona attēlu</string>
     <string name="Attached Peripherals" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Pievienotās Perifēriskās ierīces</string>
-    <string name="Attached Requirements" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Attached Requirements</string>
+    <string name="Attached Requirements" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Pievienošanas prasības</string>
     <string name="Attachments" translator="jk" status="Review" modifyDate="20.01.2017" istablet="false">Pielikumi</string>
     <string name="Attempting to delete item" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Mēģina dzēst vienumus</string>
     <string name="Attempts" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Mēģinājumi</string>
@@ -326,8 +326,8 @@
     <string name="Auto print tournaments" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Turnīra spēļu automātiskā drukāšana</string>
     <string name="Auto Show Scoresheet" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Rezultātu tabula automātiski pēc:</string>
     <string name="Automatic" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Automātiska</string>
-    <string name="Automatic Batch" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Automatic Batch</string>
-    <string name="Automatic Overnight Batching" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Automātiskā nakts apstrāde</string>
+    <string name="Automatic Batch" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Automātiskā pakešu apstrāde</string>
+    <string name="Automatic Overnight Batching" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Automātiskā nakts apstrāde</string>
     <string name="Automatic Pin out of Range" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Automātiski apstrādāt POOR</string>
     <string name="Automatically Close Open Shifts at End of Day" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Automātiski aizvērt maiņas dienas beigās</string>
     <string name="Automatically Close Open Tabs at End of Day" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Automātiski noslēgt kvītis dienas beigās</string>
@@ -340,7 +340,7 @@
     <string name="Availability Map Associations Found" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Ir atrastas Pieejamības Kartes asociācijas</string>
     <string name="Availability Maps" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pieejamības Kartes</string>
     <string name="Available" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Pieejams</string>
-    <string name="Available Bulk Rates" translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="false">Available Bulk Rates</string>
+    <string name="Available Bulk Rates" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Pieejamas apjoma likmes</string>
     <string name="Available Devices" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Pieejamās iekārtas</string>
     <string name="Available Products" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Pieejamie Produkti</string>
     <string name="Available Tabs" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Pieejamās kvītis</string>
@@ -391,12 +391,12 @@
     <string name="Base" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Bāze</string>
     <string name="base handicap score" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="true">hdkp bāzes rezultāts</string>
     <string name="Base Product" translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="false">Base Product</string>
-    <string name="Batch Balance" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Batch Balance</string>
+    <string name="Batch Balance" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Pakešu apstrādes bilance</string>
     <string name="Batch Detail" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Pakešu apstrādes detaļas</string>
     <string name="Batch Number" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Pakešu apstrādes Nr.</string>
     <string name="Batch Processing" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Pakešu apstrāde</string>
     <string name="Batch Processing Special Functions" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Pakešu apstrāde - Speciālās f-jas</string>
-    <string name="Batch Settlement" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Batch Settlement</string>
+    <string name="Batch Settlement" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Pakešu apstrādes norēķini</string>
     <string name="Batch Status" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Pakešu statuss</string>
     <string name="Bcc" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Bcc</string>
     <string name="Beeps" translator="Original Seed" status="Complete" modifyDate="25.01.2017" istablet="false">pīkstieni</string>
@@ -408,8 +408,8 @@
     <string name="Best Frame" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="false">Labākais Rāmis</string>
     <string name="Better luck next time" translator="Original Seed" status="Complete" modifyDate="25.01.2017" istablet="false">Labs metiens!</string>
     <string name="Better Luck Next Time!!!" translator="Original Seed" status="Complete" modifyDate="25.01.2017" istablet="false">Labs metiens!</string>
-    <string name="Birthdate" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Dzimšanas Dat.</string>
     <string name="Birthday" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Dzimšanas Diena</string>
+    <string name="Birthdate" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Dzimšanas Dat.</string>
     <string name="Bi-weekly" translator="jk" status="Complete" modifyDate="26.05.2016" istablet="false">Katru otro nedēļu</string>
     <string name="Black Light Off" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">UV lampas izslēgtas</string>
     <string name="Black Light On" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">UV lampas ieslēgtas</string>
@@ -422,6 +422,7 @@
     <string name="Blue" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Zils</string>
     <string name="Blues" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Blūzs</string>
     <string name="Body" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Teksts</string>
+    <string name="Boys" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Zēni</string>
     <string name="Bonus Balance Receipt Label" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Bonus Balance Receipt Label</string>
     <string name="Bonus to Pay:" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Bonus to Pay:</string>
     <string name="BOOMSHAKALAKA" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">BOOMSHAKALAKA</string>
@@ -449,7 +450,6 @@
     <string name="Bowling Out" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Izspēlē spēli</string>
     <string name="Bowling Reports" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Boulinga atskaites</string>
     <string name="Bowlopolis" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">Bowlopolis</string>
-    <string name="Boys" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Zēni</string>
     <string name="Broadcast" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Apraide</string>
     <string name="Broken" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Salūzis
 :(</string>
@@ -464,11 +464,15 @@
     <string name="Build Product" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Izveidot produktu</string>
     <string name="Build Products" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Izveidot produktus</string>
     <string name="Building Configuration" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Izveido konfigurāciju</string>
-    <string name="Bulk Pricing for Count Up Game Bowling" translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="false">Bulk Pricing for Count Up Game Bowling</string>
-    <string name="Bulk Rate" translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="false">Bulk Rate</string>
-    <string name="Bulk Rate Level" translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="false">Bulk Rate Level</string>
-    <string name="Bulk Rates" translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="false">Bulk Rates</string>
-    <string name="Bulk Rates to Use" translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="false">Bulk Rates to Use</string>
+    <string name="Buy 1 TESTHamburger and 1 TESTHamburger Free" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Buy 1 TESTHamburger and 1 TESTHamburger Free</string>
+    <string name="Buy 1 TESTHamburger and 1% Off TESTHamburger" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Buy 1 TESTHamburger and 1% Off TESTHamburger</string>
+    <string name="Buy one, get one {0}% off" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Buy one, get one {0}% off</string>
+    <string name="Buy one, get one FREE" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Maksā par vienu, saņem otru Bez Maksas</string>
+    <string name="Bulk Pricing for Count Up Game Bowling" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Apjoma cenas Spēļu Uzskaites boulingam</string>
+    <string name="Bulk Rate" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Apjoma likme</string>
+    <string name="Bulk Rate Level" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Apjoma likmes līmenis</string>
+    <string name="Bulk Rates" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Apjoma likmes</string>
+    <string name="Bulk Rates to Use" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Izmantot apjoma likmes</string>
     <string name="Bumper" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Bortiņš</string>
     <string name="Bumper Choice At Lane" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Bortiņu izvēle uz celiņa</string>
     <string name="Bumper Control" translator="jk" status="Complete" modifyDate="2016.05.05." istablet="false">Bortiņu vadība</string>
@@ -479,10 +483,6 @@
     <string name="Bumpers" translator="jk" status="Complete" modifyDate="2016.05.05." istablet="false">Bortiņi</string>
     <string name="Bumpers Down" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Bortiņi Lejā</string>
     <string name="Bumpers Up" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Bortiņi augšā</string>
-    <string name="Buy 1 TESTHamburger and 1 TESTHamburger Free" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Buy 1 TESTHamburger and 1 TESTHamburger Free</string>
-    <string name="Buy 1 TESTHamburger and 1% Off TESTHamburger" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Buy 1 TESTHamburger and 1% Off TESTHamburger</string>
-    <string name="Buy one, get one {0}% off" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Buy one, get one {0}% off</string>
-    <string name="Buy one, get one FREE" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Maksā par vienu, saņem otru Bez Maksas</string>
     <string name="Calibration" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Kalibrācija</string>
     <string name="Call in progress" translator="jk" status="Complete" modifyDate="2016.05.14." istablet="true">Zvana...</string>
     <string name="Call Lane" translator="jk" status="Complete" modifyDate="2016.05.14." istablet="false">Zvanīt Celiņam</string>
@@ -520,7 +520,7 @@
     <string name="Cash Balance Receipt Label" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Cash Balance Receipt Label</string>
     <string name="Cash Drawer" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Kases lāde</string>
     <string name="Cash Out" translator="jk" status="Review" modifyDate="18.01.2017" istablet="false">Izmaksāt</string>
-    <string name="Cash Out Stored Value Card" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Cash Out Stored Value Card</string>
+    <string name="Cash Out Stored Value Card" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Izmaksāt no Elektroniskās kartes</string>
     <string name="Cash Payment" translator="jk" status="Review" modifyDate="2016.05.21." istablet="false">Sk.Naudas maksājums</string>
     <string name="Cash Payment Method" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Maksājuma veids</string>
     <string name="Cash Payment Methods" translator="jk" status="Review" modifyDate="2016.05.21." istablet="false">Sk.Naudas maksājumu veidi</string>
@@ -548,8 +548,8 @@
     <string name="Chance Message" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Iespējas ziņa</string>
     <string name="Chances" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Iespējas</string>
     <string name="Change" translator="jk" status="Complete" modifyDate="17.08.2016" istablet="false">Atlikums</string>
-    <string name="Change Batch Number" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Change Batch Number</string>
-    <string name="Change Bulk Rates" translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="false">Change Bulk Rates</string>
+    <string name="Change Batch Number" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Mainīt Pakešu apstrādes numuru</string>
+    <string name="Change Bulk Rates" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Mainīt apjoma likmes</string>
     <string name="Change Date" translator="jk" status="Complete" modifyDate="27.05.2016" istablet="false">Mainīt Datumu</string>
     <string name="Change Date/Time" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Mainīt Datumu/Laiku</string>
     <string name="Change Default Proration" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Mainīt noklusējuma pārrēķinu</string>
@@ -577,7 +577,7 @@
     <string name="Changing the Availability Map will reset all pricing for the package back to the product's default price with a quantity of 1. Are you sure?" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Mainot Pieejamības Karti, Komplekta produktu cenas tiks nomainītas uz to noklusētajām vērtībām un daudzums uz 1 vienību. Vai vēlaties turpināt?</string>
     <string name="Changing the Availability Map will reset all pricing for this product back to the default price. Are you sure?" translator="kl" status="Complete" modifyDate="2016.08.29." istablet="false">Mainot Pieejamības Karti, visas šī produkta cenas tiks mainītas uz noklusēto vērtību. Vai vēlaties turpināt?</string>
     <string name="Changing the Availability Map will reset all rates for the adjustment back to 0. Are you sure?" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Mainot Pieejamības Karti, visas šīs korekcijas likmes tiks mainītas uz 0. Vai vēlaties turpināt?</string>
-    <string name="Changing the Date/Time will change the Products/Packages available througout the application based on the selected Date/Time." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Changing the Date/Time will change the Products/Packages available througout the application based on the selected Date/Time.</string>
+    <string name="Changing the Date/Time will change the Products/Packages available througout the application based on the selected Date/Time." translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Mainot Datumu/Laiku tiks mainīta arī produktu/komplektu pieejamība lietotnēs balstoties uz norādīto Datumu/Laiku.</string>
     <string name="Changing the Rate Map will reset all pricing for this package back to the product's default price with a quantity of 1. Are you sure?" translator="jk" status="Review" modifyDate="2016.08.29." istablet="false">Mainot Tarifu Karti, Komplekta produktu cenas tiks nomainītas uz to noklusētajām vērtībām un daudzums uz 1 vienību. Vai vēlaties turpināt?</string>
     <string name="Changing the Rate Map will reset all pricing for this product back to the product's default price. Are you sure?" translator="jk" status="Review" modifyDate="2016.08.29." istablet="false">Mainot Tarifu Karti, visas šī produkta cenas tiks mainītas uz noklusēto vērtību. Vai vēlaties turpināt?</string>
     <string name="Channels" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Kanāli</string>
@@ -609,7 +609,7 @@
     <string name="Choose the image that will be displayed for this Payment Method from the existing images or browse for an image from the file system." translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Izvēlaties attēlu, kas tiks pievienots šim Maksāšanas Veidam, no esošajiem attēliem, vai izvēlaties no failu sistēmas jaunu.</string>
     <string name="Choose the Products that will be associated with this Category." translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Izvēlaties Produktus kuri tiks asociēti ar šo Kategoriju</string>
     <string name="Choose the Role for this User." translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Izvēlaties šī Lietotāja Lomu</string>
-    <string name="Choose the taxes that will be applied to this Modifier." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Choose the taxes that will be applied to this Modifier.</string>
+    <string name="Choose the taxes that will be applied to this Modifier." translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Norādiet nodokļus kas tiks piemēroti šim modifikatoram.</string>
     <string name="Choose the View Panels that show this Group." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Choose the View Panels that show this Group.</string>
     <string name="Chosen" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Izvēlēts</string>
     <string name="Chosen Product" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Izvēlēties Produktu</string>
@@ -626,7 +626,7 @@
     <string name="Clear All" translator="jk" status="Complete" modifyDate="2016.08.18." istablet="false">Nevienu</string>
     <string name="Clear Application Log" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Iztīrīt lietotņu žurnālfailu</string>
     <string name="Clear Assigned Gratuity" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Clear Assigned Gratuity</string>
-    <string name="Clear Current Batch" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Clear Current Batch</string>
+    <string name="Clear Current Batch" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Notīrīt tekošo Pakešu apstrādes sarakstu</string>
     <string name="Clear Filters" translator="jk" status="Complete" modifyDate="2016.08.18." istablet="false">Nodzēst filtrus</string>
     <string name="Clear Lane Numbers" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Nodzēst celiņu numurus</string>
     <string name="Clear Lanes" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Nodzēst celiņus</string>
@@ -676,7 +676,7 @@
     <string name="Combine Tabs" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Apvienot kvītis</string>
     <string name="Comma separated list of the custom values to display for the quick entry buttons" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Comma separated list of the custom values to display for the quick entry buttons</string>
     <string name="Comment" translator="jk" status="Complete" modifyDate="26.05.2016" istablet="false">Piezīme</string>
-    <string name="Comment Modifiers allow desk operators to add comments as line items to Products such as how it should be cooked." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Comment Modifiers allow desk operators to add comments as line items to Products such as how it should be cooked.</string>
+    <string name="Comment Modifiers allow desk operators to add comments as line items to Products such as how it should be cooked." translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Modifikatoru Komentāri ļauj operatoriem pievienot komentārus kā kvīts rindas Produktiem (piem. pagatavošanas veidu).</string>
     <string name="Comments" translator="jk" status="Complete" modifyDate="26.05.2016" istablet="false">Piezīmes</string>
     <string name="Commercial" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Reklāma</string>
     <string name="Commercial (Overhead)" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Reklāma Ekrānos (Starp spēlēm)</string>
@@ -713,7 +713,7 @@
     <string name="Configure Printer" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Konfigurēt printeri</string>
     <string name="Configure products available through online reservations" translator="jk" status="Complete" modifyDate="2016.08.18." istablet="false">Konfigurēt produktus, kas ir pieejami tiešsaites rezervācijas sistēmā</string>
     <string name="Configure Stand Alone" translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="false">Configure Stand Alone</string>
-    <string name="Configure stored value system related settings." translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Konfigurēt ar ārējo dāvanu karšu sistēmu saistītos parametrus</string>
+    <string name="Configure stored value system related settings." translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Konfigurēt ar elektronisko karšu sistēmu saistītos parametrus</string>
     <string name="Configure the connected dispenser system." translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Konfigurē savienojumu ar dozatora sistēmu</string>
     <string name="Configure the lanes controlled by the distribution boards." translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pārvaldīt celiņus, kurus kontrolē Perifērais Kontrolieris</string>
     <string name="Confirm Password" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Apstiprināt paroli</string>
@@ -763,7 +763,7 @@ Atskaitīšana</string>
     <string name="Coupon - Already Used Authorized" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Autorizēts iepriekš izmantots kupons</string>
     <string name="Coupon - Expired Authorized" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Kupons ar beigušos termiņu autorizēts</string>
     <string name="Coupon Identifier Not Found" translator="jk" status="Complete" modifyDate="2016.08.18." istablet="false">Kupona ID nav atrasts</string>
-    <string name="Coupon Must Be Validated Manually" translator="jk" status="Complete" modifyDate="2016.08.18." istablet="false">Kuponu nepieciešams validēt manuāli</string>
+    <string name="Coupon Must Be Validated Manually" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Kuponu nepieciešams apstiprināt manuāli</string>
     <string name="Coupon Used" translator="jk" status="Complete" modifyDate="2016.08.18." istablet="false">Kupons ir izmantots</string>
     <string name="Coupons" translator="jk" status="Complete" modifyDate="2016.08.18." istablet="false">Kuponi</string>
     <string name="Coupons can only be used on sales transactions, not refund transactions." translator="jk" status="Complete" modifyDate="2016.08.18." istablet="false">Kuponi var tikt izmantoti tikai pārdošanas transakcijās, bet nevar tikt izmantoti atgriešanas transakcijās.</string>
@@ -848,6 +848,11 @@ Atskaitīšana</string>
     <string name="Cut Paper" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Nogriezt papīru</string>
     <string name="Daily" translator="jk" status="Complete" modifyDate="26.05.2016" istablet="false">Katru dienu</string>
     <string name="Daily Free Games Balance Receipt Label" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Daily Free Games Balance Receipt Label</string>
+    <string name="Day" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Diena</string>
+    <string name="Day Level" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Dienas līmenis</string>
+    <string name="days" translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">dienām</string>
+    <string name="Days after Reservation Until Payment Due" translator="jk" status="Complete" modifyDate="2016.08.18." istablet="false">Apmaksas termiņš pēc Rezervācijas datuma</string>
+    <string name="Days To Save Transaction History" translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">Transakcijas tiks saglabātas n dienas</string>
     <string name="Daktronics Display Manager" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Daktronics Ekrānu Pārvaldnieks</string>
     <string name="Data 1" translator="Original Seed" status="Complete" modifyDate="25.01.2017" istablet="false">Dati 1</string>
     <string name="Data 2" translator="Original Seed" status="Complete" modifyDate="25.01.2017" istablet="false">Dati 2</string>
@@ -868,11 +873,6 @@ Atskaitīšana</string>
     <string name="Date Started" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Sākuma datums</string>
     <string name="Date/Time" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Datums/Laiks</string>
     <string name="Date:" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Datums:</string>
-    <string name="Day" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Diena</string>
-    <string name="Day Level" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Dienas līmenis</string>
-    <string name="days" translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">dienām</string>
-    <string name="Days after Reservation Until Payment Due" translator="jk" status="Complete" modifyDate="2016.08.18." istablet="false">Apmaksas termiņš pēc Rezervācijas datuma</string>
-    <string name="Days To Save Transaction History" translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">Transakcijas tiks saglabātas n dienas</string>
     <string name="Deadeye" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Deadeye</string>
     <string name="Debit" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Noņemt no Konta</string>
     <string name="Debit Account" translator="Original Seed" status="Complete" modifyDate="2016.05.13." istablet="false">Debeta Konts</string>
@@ -886,7 +886,7 @@ Atskaitīšana</string>
     <string name="Decide the Image you want to represent this Product." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Decide the Image you want to represent this Product.</string>
     <string name="Decide the Modifier Categories that will be associated with this Product." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Decide the Modifier Categories that will be associated with this Product.</string>
     <string name="Decide the Roles that have access to this View Panel." translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Norādiet Lietotāju Lomas, kurām būs pieeja šim Skata Panelim</string>
-    <string name="Decide the Taxes to apply to this Product." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Decide the Taxes to apply to this Product.</string>
+    <string name="Decide the Taxes to apply to this Product." translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Norādiet produkta nodokļus</string>
     <string name="Def. Price" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Noklusētā cena</string>
     <string name="Default" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Noklusējuma</string>
     <string name="Default Availability Map" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Noklusētā Pieejamības Karte</string>
@@ -936,7 +936,7 @@ Atskaitīšana</string>
     <string name="Deleting Old Transactions" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Dzēš vecās transakcijas</string>
     <string name="Deleting Resource Old Sessions" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Dzēš resursu vecās sesijas</string>
     <string name="Deleting this Availability Level will also remove any associations between products or packages." translator="jk" status="Review" modifyDate="4/26/2016" istablet="false">Dzēšot šo Pieejamības Periodu, tiks dzēstas jebkādas asociācijas starp Produktiem un Komplektiem.</string>
-    <string name="Deleting this resource will also remove any Control Panel Layouts associated with it." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Deleting this resource will also remove any Control Panel Layouts associated with it.</string>
+    <string name="Deleting this resource will also remove any Control Panel Layouts associated with it." translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Dzēšot šo resursu, tiks dzēsti arī visi skatu paneļu izkārtojumi, kas ir saistīti ar šo resursu.</string>
     <string name="Delivered" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Piegādāts</string>
     <string name="Department" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Nodaļa</string>
     <string name="Department Wizard" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Nodaļas vednis</string>
@@ -969,8 +969,8 @@ Atskaitīšana</string>
     <string name="Device Manager Response" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Iekārtu Pārvaldnieka atbilde</string>
     <string name="Device Name" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Iekārtas nosaukums</string>
     <string name="device test" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">iekārtas tests</string>
-    <string name="Device To Move Process To" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Ierīce uz kuru pārvietot procesu</string>
     <string name="Device Type" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Iekārtas Veids</string>
+    <string name="Device To Move Process To" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Ierīce uz kuru pārvietot procesu</string>
     <string name="Devices" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Iekārtas</string>
     <string name="Differing Fiscal Day Tabs" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Atšķirīgu fiskālo dienu kvītis</string>
     <string name="Digital Sign" translator="jk" status="Complete" modifyDate="24.01.2017" istablet="false">Digitālā norāde</string>
@@ -993,16 +993,16 @@ Atskaitīšana</string>
     <string name="discover" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">meklēt</string>
     <string name="Discover Card" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Discover Card</string>
     <string name="Dispening Method" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Dispening Method</string>
-    <string name="Dispenser" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Dispenser</string>
-    <string name="Dispenser Authorizations" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Dispenser Authorizations</string>
+    <string name="Dispenser" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Dozators</string>
+    <string name="Dispenser Authorizations" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Dozatora autorizācijas</string>
     <string name="Dispenser Configuration" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Dozatora konfigurācija</string>
-    <string name="Dispenser Control" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Dispenser Control</string>
-    <string name="Dispenser Mark as Poured" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Dispenser Mark as Poured</string>
-    <string name="Dispenser Product" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Dispenser Product</string>
-    <string name="Dispenser Products" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Dispenser Products</string>
-    <string name="Dispenser Provides Pricing on Pour" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Dispenser Provides Pricing on Pour</string>
+    <string name="Dispenser Control" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Dozatora Kontrole</string>
+    <string name="Dispenser Mark as Poured" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Dozators: atzīmēt kā izsniegtu</string>
+    <string name="Dispenser Product" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Dozatora produkts</string>
+    <string name="Dispenser Products" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Dozatora produkti</string>
+    <string name="Dispenser Provides Pricing on Pour" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Dozators nosaka cenu izliešanas brīdī</string>
     <string name="Dispenser System" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Dozatora Sistēma</string>
-    <string name="Dispenser Usage" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Dispenser Usage</string>
+    <string name="Dispenser Usage" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Dozatora lietojums</string>
     <string name="Display" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Attēlojums</string>
     <string name="Display adjustments made to transactions or line items." translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Rādīt transakciju vai kvīšu rindu korekcijas.</string>
     <string name="display controller" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="true">ekrānu kontrolieris</string>
@@ -1017,9 +1017,9 @@ Atskaitīšana</string>
     <string name="Display Power" translator="jk" status="Complete" modifyDate="17.08.2016" istablet="false">Ekrānu Kontroliera vadība</string>
     <string name="Display Settings" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Ekrānu Parametri</string>
     <string name="Display seven days of revenue by hour" translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">Rādīt 7 dienu ieņēmumus, grupētus pa stundām</string>
-    <string name="Display Taxed and Non-Taxed Product, Modifier, and Adjustment Sales over recent data." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Display Taxed and Non-Taxed Product, Modifier, and Adjustment Sales over recent data.</string>
+    <string name="Display Taxed and Non-Taxed Product, Modifier, and Adjustment Sales over recent data." translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Attēlo ar nodokli apliekamo un neapliekamo produktu, modifikatoru un korekciju pārdošanas atskaiti</string>
     <string name="Displays a detailed listing of all payment card transactions." translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Attēlo detalizētu maksājumu karšu transakciju atskaiti</string>
-    <string name="Displays a listing of gratuities paid in and paid out." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Displays a listing of gratuities paid in and paid out.</string>
+    <string name="Displays a listing of gratuities paid in and paid out." translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Attēlo sarakstu ar saņemtajām un izmaksātajām pateicībām</string>
     <string name="Displays a listing of locker details." translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Attēlo skapīšu detalizētu sarakstu</string>
     <string name="Displays a summary report of utilization by locker status." translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Attēlo skapīšu lietojuma summāro atskaiti pēc to stāvokļa.</string>
     <string name="Displays all data associated with a transaction" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Attēlo visu ar transakciju saistītos datus</string>
@@ -1042,7 +1042,7 @@ Atskaitīšana</string>
     <string name="Don't Print Credit Card Receipts" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Nedrukāt Kredītkartes darījumu čekus</string>
     <string name="Don't quit your day job" translator="jk" status="Review" modifyDate="2016.05.05." istablet="false">Nedomā aiziet no sava dienas darba</string>
     <string name="Don't Score Fouls" translator="jk" status="Complete" modifyDate="26.05.2016" istablet="false">Neskaitīt Sodus</string>
-    <string name="Don't use Bulk Rates" translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="false">Don't use Bulk Rates</string>
+    <string name="Don't use Bulk Rates" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Neizmantot apjoma likmes</string>
     <string name="Double" translator="jk" status="Complete" modifyDate="2016.05.05." istablet="false">Dubults Neplīst</string>
     <string name="Doubles" translator="jk" status="Review" modifyDate="2016.05.05." istablet="false">Divkārši</string>
     <string name="Doubles &amp; Singles" translator="jk" status="Complete" modifyDate="2016.05.05." istablet="false">Divkārši un Vienkārši</string>
@@ -1100,7 +1100,7 @@ Atskaitīšana</string>
     <string name="Edit Team" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Rediģēt komandu</string>
     <string name="Edit Team Info" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Rediģēt komandas info</string>
     <string name="Edit the availability and amount of this Adjustment." translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Rediģēt šīs Korekcijas apjomu un pieejamību</string>
-    <string name="Edit the bulk rate pricing for this product." translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="false">Edit the bulk rate pricing for this product.</string>
+    <string name="Edit the bulk rate pricing for this product." translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Rediģēt apjoma likmes šim produktam</string>
     <string name="Edit the general information about the Adjustment." translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Rediģēt vispārējo informāciju par Korekcijām</string>
     <string name="Edit the general information about the Banking Item." translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Rediģēt vispārējo informāciju par Bankas Posteni</string>
     <string name="Edit the general information about the Department." translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Rediģēt vispārējo informāciju par Nodaļu</string>
@@ -1161,7 +1161,7 @@ Atskaitīšana</string>
     <string name="Enable 3/6/9 By Default" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Iespējot 3/6/9 pēc noklusējuma</string>
     <string name="Enable All" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Iespējot visu</string>
     <string name="Enable All Logging" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Iespējot Reģistrēšanu visam</string>
-    <string name="Enable Automated Reboots" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Iespējot automātisko atsāknēšanu</string>
+    <string name="Enable Automated Reboots" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Iespējot automātisko restartēšanu</string>
     <string name="enable bowl out" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="true">iespējot "izspēlēt ātrāk"</string>
     <string name="enable change language" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="true">iespējot "valodas"</string>
     <string name="enable clear scores" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="true">iespējot "dzēst rezultātu"</string>
@@ -1216,8 +1216,9 @@ Atskaitīšana</string>
     <string name="English-US (437)" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">English-US (437)</string>
     <string name="enter" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">enter</string>
     <string name="Enter" translator="jk" status="Review" modifyDate="24.01.2017" istablet="false">Ievadīt</string>
-    <string name="Enter disconnected mode" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Enter disconnected mode</string>
+    <string name="Enter disconnected mode" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Sākt atvienoto režīmu</string>
     <string name="enter email" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">ievadiet e-pasta adresi</string>
+    <string name="enter your email to track scores and receive offers" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">ievadiet savu e-pasta adresi lai saņemtu spēļu rezultātus un īpašos piedāvājumus</string>
     <string name="enter left lane number" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">ievadīt kreisā celiņa numuru</string>
     <string name="Enter new password for config screen" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="true">Ievadiet jaunu paroli konfigurācijas logam</string>
     <string name="enter number of bowlers" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">ievadiet spēlētāju skaitu</string>
@@ -1228,7 +1229,6 @@ Atskaitīšana</string>
     <string name="enter the passcode to continue" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">lai turpinātu, ievadiet paroli </string>
     <string name="enter the stand alone password" translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="true">enter the stand alone password</string>
     <string name="enter the standing pins" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">norādiet stāvošos ķegļus</string>
-    <string name="enter your email to track scores and receive offers" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">ievadiet savu e-pasta adresi lai saņemtu spēļu rezultātus un īpašos piedāvājumus</string>
     <string name="Entered" translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="false">Entered</string>
     <string name="Enterprise ID" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Uzņēmuma ID</string>
     <string name="Entry Type" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Ieraksta Veids</string>
@@ -1398,8 +1398,8 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="First Tuesday" translator="jk" status="Complete" modifyDate="27.05.2016" istablet="false">Pirmo Otrdienu</string>
     <string name="First Wednesday" translator="jk" status="Complete" modifyDate="27.05.2016" istablet="false">Pirmo Trešdienu</string>
     <string name="Fiscal" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Fiskālais</string>
-    <string name="Fiscal Date" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Fiskālais datums</string>
     <string name="Fiscal Day Start" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Fiskālās dienas sākums</string>
+    <string name="Fiscal Date" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Fiskālais datums</string>
     <string name="Fiscal End Date" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Fiskālais beigu datums</string>
     <string name="Fiscal Start Date" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Fiskālais sākuma datums</string>
     <string name="Five" translator="jk" status="Complete" modifyDate="2016.05.05." istablet="false">Pieci</string>
@@ -1409,7 +1409,7 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Five Pin Red Head Pin" translator="Original Seed" status="Review" modifyDate="8/17/2016" istablet="false">Five Pin Red Head Pin</string>
     <string name="Fix Display Settings" translator="jk" status="Complete" modifyDate="2016.05.14." istablet="false">Salabot Ekrāna param.</string>
     <string name="Fixed" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Nemainīgs</string>
-    <string name="Fixed Amount" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Fiksēts daudzums</string>
+    <string name="Fixed Amount" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Fiksēts apjoms</string>
     <string name="Flash On Warning" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Blisnīt brīdinājuma gadījumā</string>
     <string name="FLING YOUR BIRD," translator="JK" status="Complete" modifyDate="25.01.2017" istablet="false">SVIED SAVU PUTNU,</string>
     <string name="FLING YOUR BIRD, AND SMASH THOSE PIGS!!!" translator="JK" status="Complete" modifyDate="25.01.2017" istablet="false">SVIED SAVU PUTNU UN SATRIEC TĀS CŪKAS!!!</string>
@@ -1522,8 +1522,8 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Good Shot!" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Labs metiens!</string>
     <string name="Good Try!" translator="jk" status="Complete" modifyDate="17.01.2017" istablet="false">(ง •̀_•́)ง</string>
     <string name="Grand Total" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Kopsumma</string>
-    <string name="Grand Total Sales Items Not Taxed (All)" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Grand Total Sales Items Not Taxed (All)</string>
-    <string name="Grand Total Sales Items Tax Exempted (x)" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Grand Total Sales Items Tax Exempted (x)</string>
+    <string name="Grand Total Sales Items Not Taxed (All)" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Ar nodokli neaplikto produktu Pārdošanas kopsumma  (visa)</string>
+    <string name="Grand Total Sales Items Tax Exempted (x)" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">No nodokļa atbrīvoto produktu Pārdošanas kopsumma (x)</string>
     <string name="Grand Total Tax Collected" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Iekasēto Nodokļu Kopsumma</string>
     <string name="Grand Totals" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Kopsummas</string>
     <string name="Gratuities" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Pateicības</string>
@@ -1533,8 +1533,8 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Gratuity Date Out" translator="Original Seed" status="New" modifyDate="8/17/2016" istablet="false">Gratuity Date Out</string>
     <string name="Gratuity In" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Gratuity In</string>
     <string name="Gratuity Out" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Gratuity Out</string>
-    <string name="Gratuity Reconciliation" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Gratuity Reconciliation</string>
-    <string name="Gratuity Total" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Gratuity Total</string>
+    <string name="Gratuity Reconciliation" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Pateicību bilance</string>
+    <string name="Gratuity Total" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Pateicības kopā</string>
     <string name="Great" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Satriecoši</string>
     <string name="GREAT" translator="JK" status="Complete" modifyDate="18.01.2017" istablet="false">SATRIECOŠI</string>
     <string name="Great Cover!" translator="Original Seed" status="Complete" modifyDate="25.01.2017" istablet="false">Labs metiens!</string>
@@ -1663,12 +1663,12 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Identify" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Identificēt</string>
     <string name="If checked, taxes will be reduced or increased when the adjustment is applied, if not checked, taxes will not be affected by the adjustment." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">If checked, taxes will be reduced or increased when the adjustment is applied, if not checked, taxes will not be affected by the adjustment.</string>
     <string name="If checked, the amount of adjustment to apply will be calculated against only adjustable items.  If unchecked, the amount of adjustment to apply will be calculated against all items but only allocated to adjustable items." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">If checked, the amount of adjustment to apply will be calculated against only adjustable items.  If unchecked, the amount of adjustment to apply will be calculated against all items but only allocated to adjustable items.</string>
+    <string name="If you edit the existing modifiers, all adjustments applied directly to modifiers will be deleted.  Are you sure you want to continue?" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">If you edit the existing modifiers, all adjustments applied directly to modifiers will be deleted.  Are you sure you want to continue?</string>
+    <string name="If you have an open batch, running this command may remove all items from the batch.  Are you sure you want to continue?" translator="jk" status="Review" modifyDate="01.02.2017" istablet="false">Pakešu apstrādes (-----)</string>
+    <string name="If you run the report in View mode, then you can open certain items to view additional transaction details." translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Ja atvērsiet atskaiti Skatīšanas režīmā, jūs varēsiet atvērt noteiktus ierakstus lai skatītu transakciju papildus detaļas.</string>
     <string name="If used, any transaction that can be assigned a gratuity must be assigned a gratuity. Only use if instructed by Brunswick to do so." translator="Original Seed" status="New" modifyDate="8/17/2016" istablet="false">If used, any transaction that can be assigned a gratuity must be assigned a gratuity. Only use if instructed by Brunswick to do so.</string>
     <string name="If used, client computers must be left on and logged in, but can be locked." translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Ja tiek izmantots, klienta datoriem ir jābūt ieslēgtiem un atvērtu pieteikšanos, bet tie var būt slēgti.</string>
     <string name="If used, you will need the original card used in order to void a sale/return. Only use if instructed by Brunswick to do so." translator="Original Seed" status="New" modifyDate="8/17/2016" istablet="false">If used, you will need the original card used in order to void a sale/return. Only use if instructed by Brunswick to do so.</string>
-    <string name="If you edit the existing modifiers, all adjustments applied directly to modifiers will be deleted.  Are you sure you want to continue?" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">If you edit the existing modifiers, all adjustments applied directly to modifiers will be deleted.  Are you sure you want to continue?</string>
-    <string name="If you have an open batch, running this command may remove all items from the batch.  Are you sure you want to continue?" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">If you have an open batch, running this command may remove all items from the batch.  Are you sure you want to continue?</string>
-    <string name="If you run the report in View mode, then you can open certain items to view additional transaction details." translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Ja atvērsiet atskaiti Skatīšanas režīmā, jūs varēsiet atvērt noteiktus ierakstus lai skatītu transakciju papildus detaļas.</string>
     <string name="Image In Use" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Šobrīd izmantotais attēls</string>
     <string name="Images" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Attēli</string>
     <string name="Import" translator="jk" status="Review" modifyDate="18.01.2017" istablet="false">Imports</string>
@@ -1746,7 +1746,7 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Interests" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Intereses</string>
     <string name="Interfaced Leagues" translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="false">Interfaced Leagues</string>
     <string name="Interfaced Tournaments" translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="false">Interfaced Tournaments</string>
-    <string name="Intermediate Steps Require a Reboot - Please reboot the computer and re-run the installation program." translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Uzstādīšanas starpposms pieprasa atsāknēšanu! Lūdzu atsāknēt datoru un atkārtoti palaist uzstādīšanas vedni.</string>
+    <string name="Intermediate Steps Require a Reboot - Please reboot the computer and re-run the installation program." translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Uzstādīšanas starpposms pieprasa restartēšanu! Lūdzu atsāknēt datoru un atkārtoti palaist uzstādīšanas vedni.</string>
     <string name="Internal Server Error – Call Provider" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Servera iekšējā kļūda - sazinaties ar piegādātāju</string>
     <string name="Introducing Matilda" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Iepazīstaties - Matilde</string>
     <string name="Introducing Silver" translator="jk" status="Review" modifyDate="18.01.2017" istablet="false">Iepazīstaties - Silver</string>
@@ -1832,16 +1832,16 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Item Discounts" translator="Original Seed" status="Complete" modifyDate="2016.05.14." istablet="false">Rindu Atlaides</string>
     <string name="Item Ended" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Item Ended</string>
     <string name="Item Flags*" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Item Flags*</string>
-    <string name="Item ID" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Item ID</string>
+    <string name="Item ID" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Vienuma ID</string>
     <string name="Item Open Priced" translator="jk" status="Complete" modifyDate="2016.05.14." istablet="false">Rindai Mainīta Cena</string>
     <string name="Item Rounded Down" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Noapaļots uz Leju</string>
     <string name="Item Rounded Up" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Noapaļots uz Augšu</string>
     <string name="Item Shift Number" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Item Shift Number</string>
     <string name="Item Sold During Time Warp" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Laika Mašīnas laikā pārdotie produkti</string>
     <string name="Item Surcharges" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Rindu Uzrēķini</string>
-    <string name="Item Tax" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Item Tax</string>
+    <string name="Item Tax" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Nodoklis</string>
     <string name="Item Tax Exempt" translator="jk" status="Complete" modifyDate="27.05.2016" istablet="false">Vien. bez PVN</string>
-    <string name="Item Taxes" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Item Taxes</string>
+    <string name="Item Taxes" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Nodokļi</string>
     <string name="Item Taxes Wizard" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Nodokļu vednis</string>
     <string name="Item Terminal" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Item Terminal</string>
     <string name="Item Ticket Reprinted" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Posteņa pasūtījums izdrukāts atkārtoti</string>
@@ -1851,10 +1851,36 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Item Voided" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Anulēts!</string>
     <string name="Items" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Vienumi</string>
     <string name="Items Moved" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Pārvietotās Vienības</string>
-    <string name="Items Not Taxed" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Items Not Taxed</string>
-    <string name="Items Not Taxed (All) Sales Total" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Items Not Taxed (All) Sales Total</string>
+    <string name="Items Not Taxed" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Ar nodokli neapliktā summa</string>
+    <string name="Items Not Taxed (All) Sales Total" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Ar nodokli neaplikto (visu) produktu kopsumma</string>
     <string name="Items Shown On Ticket" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Informācija kas tiek atainota uz pasūtījuma</string>
-    <string name="Items Tax Exempted (x) Sales Total" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Items Tax Exempted (x) Sales Total</string>
+    <string name="Items Tax Exempted (x) Sales Total" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">No nodokļa atbrīvoto produktu (x) kopsumma</string>
+    <string name="yes" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">jā</string>
+    <string name="Yes" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">Jā</string>
+    <string name="Yes. An external point-of-sale system will manage all cash. This system will only be used for resource control (lanes, billiards, etc.)" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Jā, tiks izmantota ārējā POS sistēma naudas uzskaitei un kontrolei. Šī sistēma tiks izmantota tikai resursu kontrolei (celiņiem, biljardam, utt)</string>
+    <string name="Yes. Customers may use personal accounts for deposit and withdrawl." translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Jā, Klienti var izmantot personīgos kontus depozītiem un līdzekļu izmaksai.</string>
+    <string name="Yes. Frameworx Scoring is in use." translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Jā. Frameworx Rezultātu sistēma tiek izmantota.</string>
+    <string name="Yes. Log-ins and passwords will be required for all application users." translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">Jā, Lietotājvārds un Parole būs nepieciešams visiem aplikācijas lietotājiem.</string>
+    <string name="Yes. Products are organized into Groups when displayed on the POS system." translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Jā. Produkti ir organizēti grupās kad tie tiek atainoti POS sistēmā</string>
+    <string name="Yes. Products can have different prices and availability at different times." translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Jā, Produktam var būt dažādas cenas un pieejamība dažādos laikos.</string>
+    <string name="Yes. Remote Order Printing is installed." translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Jā. Attālinātais Pasūtījumu printeris ir uzstādīts.</string>
+    <string name="Yes. Usage of resources like billiards or darts will be monitored by this system." translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Jā. Tādu resursu kā Biljarda vai Šautriņu lietojums tiks kontrolēts ar šo sistēmu.</string>
+    <string name="Yes. User accounts will expire after a set number of days forcing users to update passwords." translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Jā. Lietotāju kontiem izbeigsies termiņš pēc noteiktā dienu skaita, piespiežot tos atjaunināt paroles.</string>
+    <string name="Yes. Users may use fingerprint readers to log in." translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">Jā, Lietotāji var izmantot pirkstu nospiedumu lasītāju lai pieteiktos sistēmā.</string>
+    <string name="Yes. Users may use swipe cards to log in." translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">Jā, Lietotāji var izmantot magnētiskās kartes lai pieteiktos sistēmā.</string>
+    <string name="Yes. Vector Scoring is in use." translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Jā. Vector rezultātu uzskaites sistēma tiek izmantota</string>
+    <string name="Yesterday" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Vakardiena</string>
+    <string name="You do not have a Site defined. Would you like to do it now?" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Vietne šobrīd nav definēta. Vai vēlaties to izdarīt tagad?</string>
+    <string name="YOU GOT THEM ALL!" translator="JK" status="Complete" modifyDate="25.01.2017" istablet="false">TU NOTRIECI VISAS!!!</string>
+    <string name="You have moved players to a lane that was already issued.  Would you like to move some of the items from the original transaction to the transaction on the new lane?" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Spēlētāji tika pārvietoti uz jau ieslēgtu celiņu. Vai vēlaties pārvietot daļu produktu no oriģinālās transakcijas uz jaunā celiņa transakciju?</string>
+    <string name="You have moved players to a lane that was previously off.  Would you like to move some of the items from the original transaction to a new transaction?" translator="Original Seed" status="Complete" modifyDate="25.01.2017" istablet="false">Spēlētāji tika pārvietoti uz iepriekš neieslēgtu celiņu. Vai vēlaties pārvietot daļu produktu no oriģinālās transakcijas uz jaunā celiņa transakciju?</string>
+    <string name="You have thrown an unsequenced ball" translator="jk" status="Review" modifyDate="2016.05.05." istablet="false">Jūsu metiens netika ieskaitīts!!!</string>
+    <string name="You must have at least 1 product in a package. Please add another product to this package before attempting to remove this product again." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">You must have at least 1 product in a package. Please add another product to this package before attempting to remove this product again.</string>
+    <string name="You will lose your scores if you continue. Are you sure?" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="true">Jūs zaudēsiet jūsu spēļu rezultātus ja turpināsiet. Vai esat pārliecināts?</string>
+    <string name="You will not be able to cancel out of this process once it starts. Are you sure?" translator="jk" status="Complete" modifyDate="2016.05.04." istablet="false">Procesu nebūs iespējams atcelt līdz ko tas sāksies. Vai esat pārliecināts?</string>
+    <string name="You! Could! Go! All! The! Way!" translator="Original Seed" status="Complete" modifyDate="2016.05.05." istablet="false">Tu! Varētu! Vēl! Labāk!</string>
+    <string name="Your request has been sent." translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">Jūsu pieprasījums tika nosūtīts.</string>
+    <string name="Youth" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Jaunietis</string>
     <string name="Japanese" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Japanese</string>
     <string name="Japanese (932)" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Japanese (932)</string>
     <string name="JCB" translator="Original Seed" status="Complete" modifyDate="4/26/2016" istablet="false">JCB</string>
@@ -1873,7 +1899,7 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Keep Drawer Closed" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Paturēt Kases Lādi Aizvērtu</string>
     <string name="Keep Open After Full Payment" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Paturēt atvērtu pēc pilnas apmaksas saņemšanas</string>
     <string name="Keep Original Issued Rate" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Paturēt ieslēgšanas tarifu</string>
-    <string name="Keep Transaction Open After Full Payment" translator="jk" status="Review" modifyDate="2016.05.21." istablet="false">Paturēt Tranasakciju atvērtu pēc plnas apmaksas saņemšanas</string>
+    <string name="Keep Transaction Open After Full Payment" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Paturēt Tranasakciju atvērtu pēc pilnas apmaksas saņemšanas</string>
     <string name="Keypad" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Klaviatūra</string>
     <string name="Kids will love watching these two monsters wreak havoc throughout the bowling center. Great for families with children and openplay customers of all kinds." translator="jk" status="Complete" modifyDate="2016.05.06." istablet="true">Bērniem patiks šie divi dīvaiņi, kas plosās pa boulinga zāli un uzjautrina ar savām šausmīgi smieklīgajām ķibelēm.</string>
     <string name="kiosk configuration" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">kioska konfigurācija</string>
@@ -1881,6 +1907,9 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="kiosk management menu" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">kioska vadības izvēlne</string>
     <string name="kiosk updates" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">kioska atjaunināšana</string>
     <string name="Korean" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Korean</string>
+    <string name="Layout By Columns" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Izkārtojums pa kolonnām</string>
+    <string name="Layout By Scale" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">izkārtojums pēc mēroga</string>
+    <string name="Layout By Size" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Izkārtojums pēc izmēra</string>
     <string name="lane" translator="jk" status="Complete" modifyDate="2016.05.09." istablet="true">Celiņš Nr.</string>
     <string name="Lane" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="false">Celiņš</string>
     <string name="Lane #" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="false">Celiņš #</string>
@@ -1951,6 +1980,7 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Last Friday" translator="jk" status="Complete" modifyDate="27.05.2016" istablet="false">Pēdējo Piektdienu</string>
     <string name="Last Heartbeat" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Pēdējais sirdspuksts</string>
     <string name="Last Item:" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Pēdējā vienība:</string>
+    <string name="Last Year" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Pagājušais gads</string>
     <string name="Last Known Pins" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Pēdējie zināmie ķegļi</string>
     <string name="Last Lane:" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="false">Pēdējais Celiņš:</string>
     <string name="Last Login" translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">Pēdējā pieteikšanās</string>
@@ -1965,21 +1995,17 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Last Tuesday" translator="jk" status="Complete" modifyDate="27.05.2016" istablet="false">Pēdējo Otrdienu</string>
     <string name="Last Wednesday" translator="jk" status="Complete" modifyDate="27.05.2016" istablet="false">Pēdējo Trešdienu</string>
     <string name="Last Week" translator="jk" status="Complete" modifyDate="26.05.2016" istablet="false">Pagājusī nedēļa</string>
-    <string name="Last Year" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Pagājušais gads</string>
     <string name="Latest" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Jaunākais</string>
-    <string name="Layout By Columns" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Izkārtojums pa kolonnām</string>
-    <string name="Layout By Scale" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">izkārtojums pēc mēroga</string>
-    <string name="Layout By Size" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Izkārtojums pēc izmēra</string>
     <string name="leaderboard" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">līderu saraksts</string>
     <string name="Leaderboard" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Līderu saraksts</string>
     <string name="League" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Boulinga Līga</string>
     <string name="League file already in use by another product" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Līgas failu jau izmanto cits produkts</string>
     <string name="League file required" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Ir nepieciešams norādīt līgas failu</string>
     <string name="League Name" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Līgas Nosaukums</string>
-    <string name="League Panels" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Līgas paneļi</string>
     <string name="League Payment Product Quantity Changed" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">League Payment Product Quantity Changed</string>
     <string name="League Payments" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Sacensību Maksājumi</string>
     <string name="League Payments - Change Product Quantity" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Sacensību Maksājumi - Mainīt Produktu daudzumu</string>
+    <string name="League Panels" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Līgas paneļi</string>
     <string name="League product not available" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Līgas produkts nav pieejams</string>
     <string name="League week select" translator="jk" status="Complete" modifyDate="03.06.2016" istablet="false">Izvēlēties Līgas nedēļu</string>
     <string name="Leave Check Open" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Leave Check Open</string>
@@ -2090,6 +2116,17 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Manage Experience Settings" translator="jk" status="Complete" modifyDate="2016.05.14." istablet="false">Pārvaldīt Ekrānu Parametrus</string>
     <string name="Manage Holidays" translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">Pārvaldīt Brīvdienas</string>
     <string name="Manage Item Taxes" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pārvaldīt Nodokļus</string>
+    <string name="Manage your Accounts." translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pārvaldīt Kontus</string>
+    <string name="Manage your adjustments that are applied to Products, Packages, Transactions and Modifiers." translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pārvaldīt korekcijas ko piemēro Produktiem, Komplektiem, Modifikatoriem un Transakcijām.</string>
+    <string name="Manage your Availability Maps." translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pārvaldīt Pieejamības Kartes</string>
+    <string name="Manage your categories (groups) of Accounts." translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pārvaldīt Kontu Kategorijas</string>
+    <string name="Manage your check in information." translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Pārvaldīt CRM pieteikšanās informāciju</string>
+    <string name="Manage your experience settings." translator="jk" status="Complete" modifyDate="2016.05.14." istablet="false">Pārvaldīt Ekrānu Parametrus</string>
+    <string name="Manage your Item and Comment Modifiers that you apply to products." translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Pārvalda vienumu modifikatorus, kuri tiek pievienoti produktiem</string>
+    <string name="Manage your Packages." translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pārvaldīt Komplektus</string>
+    <string name="Manage your Products." translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pārvaldīt Produktus</string>
+    <string name="Manage your site information." translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Pārvaldīt Vietnes informāciju</string>
+    <string name="Manage your transactions." translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pārvaldīt Transakcijas</string>
     <string name="Manage Lanes" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pārvaldīt Celiņus</string>
     <string name="Manage Leagues" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Sacensību Pārvaldnieks</string>
     <string name="Manage Locker Banks" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pārvaldīt Skapīšu Grupas</string>
@@ -2120,10 +2157,10 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Manage Site Check Ins" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Pārvaldīt Vietnes Piereģistrēšanos</string>
     <string name="Manage Site Connections" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Pārvaldīt Vietnes Savienojumus</string>
     <string name="Manage Sites" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Pārvaldīt Vietnes</string>
-    <string name="Manage Stored Value Configuration" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pārvaldīt Klientu Karšu konfigurāciju</string>
-    <string name="Manage Sub Departments" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Pārvaldīt Sekcijas</string>
     <string name="Manage System Control" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pārvaldīt Sistēmas Konfigurāciju</string>
     <string name="Manage System Health" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Pārvaldīt Sistēmas Veselību</string>
+    <string name="Manage Stored Value Configuration" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Pārvaldīt Elektronisko Karšu konfigurāciju</string>
+    <string name="Manage Sub Departments" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Pārvaldīt Sekcijas</string>
     <string name="Manage Terminals" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pārvaldīt Termināļus</string>
     <string name="Manage the banking items you use." translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pārvaldīt izmantotos Kases Posteņus</string>
     <string name="Manage the cash-style payment methods available at the Point of Sale." translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pārvaldīt skaidras naudas tipa maksāšanas līdzekļus, kas ir pieejami operatoriem.</string>
@@ -2148,32 +2185,21 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Manage users that have access to the various applications throught the center." translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">Pārvaldīt lietotājus kuriem ir pieeja dažādām lietotnēm un funkcijām centrā.</string>
     <string name="Manage View Panels" translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">Pārvaldīt Skatu Paneļus</string>
     <string name="Manage Wait List" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pārvaldīt Gaidīšanas Sarakstu</string>
-    <string name="Manage your Accounts." translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pārvaldīt Kontus</string>
-    <string name="Manage your adjustments that are applied to Products, Packages, Transactions and Modifiers." translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pārvaldīt korekcijas ko piemēro Produktiem, Komplektiem, Modifikatoriem un Transakcijām.</string>
-    <string name="Manage your Availability Maps." translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pārvaldīt Pieejamības Kartes</string>
-    <string name="Manage your categories (groups) of Accounts." translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pārvaldīt Kontu Kategorijas</string>
-    <string name="Manage your check in information." translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Pārvaldīt CRM pieteikšanās informāciju</string>
-    <string name="Manage your experience settings." translator="jk" status="Complete" modifyDate="2016.05.14." istablet="false">Pārvaldīt Ekrānu Parametrus</string>
-    <string name="Manage your Item and Comment Modifiers that you apply to products." translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Pārvalda vienumu modifikatorus, kuri tiek pievienoti produktiem</string>
-    <string name="Manage your Packages." translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pārvaldīt Komplektus</string>
-    <string name="Manage your Products." translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pārvaldīt Produktus</string>
-    <string name="Manage your site information." translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Pārvaldīt Vietnes informāciju</string>
-    <string name="Manage your transactions." translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pārvaldīt Transakcijas</string>
     <string name="Manage Zones" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Pārvaldīt Zonas</string>
     <string name="Mandarin" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Mandarin</string>
     <string name="Manifest Name" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Manifesta Nosaukums</string>
     <string name="manual" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">manuāli</string>
     <string name="Manual" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Manuāls</string>
     <string name="Manual Cancel" translator="jk" status="Complete" modifyDate="2016.05.04." istablet="false">Atcelt Manuāli</string>
-    <string name="Manual Card Number Entry" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Manual Card Number Entry</string>
+    <string name="Manual Card Number Entry" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Kartes numura ievadīšana manuāli</string>
     <string name="Manual Entry" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Ievadīt manuāli</string>
     <string name="Manual Login" translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">Manuāla pieteikšanās</string>
     <string name="Manually Adjusted" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Manuāli koriģēts</string>
     <string name="Manually Adjusted Transactions" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Manuāli koriģētas transakcijas</string>
     <string name="Map" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Karte</string>
-    <string name="Map Selected Products" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Map Selected Products</string>
+    <string name="Map Selected Products" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Kartēt norādītos produktus</string>
     <string name="Mapped" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Mapped</string>
-    <string name="Mapped Products" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Mapped Products</string>
+    <string name="Mapped Products" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Kartētie produkti</string>
     <string name="Maps" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Kartes</string>
     <string name="Mark a rental unit as broken/disabled." translator="jk" status="Complete" modifyDate="2016.08.31." istablet="false">Atzīmēt īres resursu kā salūzušu/atspējotu</string>
     <string name="Mark as Missing" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Atzīmēt kā iztrūkstošu</string>
@@ -2182,7 +2208,7 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Mark as Poured" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Atzīmēt kā izsniegtu</string>
     <string name="Mark Lane Broken" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="false">Atzīmēt kā salūzušu</string>
     <string name="Mark Read" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Atzīmēt kā lasītu</string>
-    <string name="Mark Selected Gratuities as Paid Out" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Mark Selected Gratuities as Paid Out</string>
+    <string name="Mark Selected Gratuities as Paid Out" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Atzīmēt iezīmētās pateicības kā izmaksātas</string>
     <string name="Mark Unread" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Atzīmēt kā nelasītu</string>
     <string name="Marked as Paid" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Atzīmēts kā apmaksāts</string>
     <string name="Marketing Email" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Mārketinga e-pasti</string>
@@ -2215,7 +2241,7 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Media Failed To Load" translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">Nevarēja ielādēt mediju</string>
     <string name="Medium" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Vidēja</string>
     <string name="MEDIUM" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">VIDUVĒJI</string>
-    <string name="Medium Layout Pages" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Medium Layout Pages</string>
+    <string name="Medium Layout Pages" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Vidēja izkārtojuma paneļi</string>
     <string name="Member" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Biedrs</string>
     <string name="Memos" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Iekšējā Sarakste</string>
     <string name="Men" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Vīrieši</string>
@@ -2258,6 +2284,7 @@ katram</string>
     <string name="Missing" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Iztrūkstošs</string>
     <string name="Missing Color" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Iztrūkstoša sk. krāsa</string>
     <string name="Mixed Modes" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Mixed Modes</string>
+    <string name="My Shot" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Mans metiens</string>
     <string name="Mobile POS Sales" translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="false">Mobile POS Sales</string>
     <string name="Mode" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Režīms</string>
     <string name="Model" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Modelis</string>
@@ -2282,8 +2309,8 @@ katram</string>
     <string name="Monitor Type" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Ekrāna Veids</string>
     <string name="Monitors" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Ekrāni</string>
     <string name="Monster Mischief" translator="Original Seed" status="Complete" modifyDate="4/26/2016" istablet="true">Monster Mischief</string>
-    <string name="Monthly By Date" translator="jk" status="Complete" modifyDate="26.05.2016" istablet="false">Ik Mēnesi, pēc datuma</string>
     <string name="Monthly By Day" translator="jk" status="Complete" modifyDate="26.05.2016" istablet="false">Ik Mēnesi, pēc dienas</string>
+    <string name="Monthly By Date" translator="jk" status="Complete" modifyDate="26.05.2016" istablet="false">Ik Mēnesi, pēc datuma</string>
     <string name="More" translator="jk" status="Complete" modifyDate="17.08.2016" istablet="false">Vairāk Rīku</string>
     <string name="more options" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">vairāk iespēju</string>
     <string name="Move Down" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Pārvietot uz Leju</string>
@@ -2311,13 +2338,12 @@ katram</string>
     <string name="Multiple Competitions" translator="jk" status="Complete" modifyDate="03.06.2016" istablet="false">Vairākas Sacensības</string>
     <string name="Multiple rates in use - Please set pricing on Availability page" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Tiek izmantoti vairāki tarifi - Lūdzu norādīt cenas Pieejamības lapā</string>
     <string name="Multiple resource products are not allowed within a package" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Multiple resource products are not allowed within a package</string>
-    <string name="Multiple Resource Products Not Allowed" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Multiple Resource Products Not Allowed</string>
+    <string name="Multiple Resource Products Not Allowed" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Vairāki resursu produkti nav atļauti</string>
     <string name="Multiple Servers Found" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Multiple Servers Found</string>
     <string name="Multiple Sites" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Vairākas Vietnes</string>
     <string name="Multiply the fun with our easy to play bowling games." translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Sareiziniet jautrību ar mūsu viegli spēlējamajām boulinga spēlēm</string>
     <string name="Mute" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Izslēgt skaņu</string>
     <string name="Mute Global Audio" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Izslēgt kopējo skaņu</string>
-    <string name="My Shot" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Mans metiens</string>
     <string name="name" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="true">vārds</string>
     <string name="Name" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Nosaukums</string>
     <string name="Name Already in Use" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Šāds nosaukums jau tiek izmantots</string>
@@ -2327,7 +2353,7 @@ katram</string>
     <string name="Name Styles" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Name Styles</string>
     <string name="Name:" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Vārds:</string>
     <string name="name@gmail.com" translator="Original Seed" status="Complete" modifyDate="2016.08.18." istablet="true">vards@pasts.lv</string>
-    <string name="Narrow Layout Pages" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Narrow Layout Pages</string>
+    <string name="Narrow Layout Pages" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Šaura izkārtojuma paneļi</string>
     <string name="negative handicap percent" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="true">negatīvā hdkp procenti</string>
     <string name="Net Amount" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Net Amount</string>
     <string name="Net Amount Due:" translator="jk" status="Review" modifyDate="2016.05.21." istablet="false">Gala Summa Apmaksai:</string>
@@ -2364,8 +2390,8 @@ katram</string>
     <string name="New Owner" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Jauns Īpašnieks</string>
     <string name="New Package" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Jauns komplekts</string>
     <string name="New Package:" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Jauns komplekts:</string>
-    <string name="New Password" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Jaunā parole</string>
     <string name="New Payment Method" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Jauns Maksāšanas Veids</string>
+    <string name="New Password" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Jaunā parole</string>
     <string name="New Person" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Jauna Persona</string>
     <string name="new player" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">jauns spēlētājs</string>
     <string name="New Printer" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Jauns printeris</string>
@@ -2408,7 +2434,7 @@ katram</string>
     <string name="Nightly Tasks Deleting Log Entries" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Nakts Uzdevumi dzēš reģistra ierakstus</string>
     <string name="Nightly Tasks Error" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Nakts Uzdevumu Kļūda</string>
     <string name="Nightly Tasks Information" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Nakts Uzdevumu Informācija</string>
-    <string name="Nightly Tasks Run Time" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Nakts Uzdevumu Laiks</string>
+    <string name="Nightly Tasks Run Time" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Nakts uzdevumu laiks</string>
     <string name="Nightly Tasks Started" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Nakts Uzdevumi Sākas</string>
     <string name="Nightly Tasks Warning" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Nakts Uzdevumu Brīdinājums</string>
     <string name="Nine So Fine" translator="jk" status="Review" modifyDate="2016.05.05." istablet="false">Deviņvīru Spēks</string>
@@ -2456,14 +2482,14 @@ katram</string>
     <string name="No. Users will not be able to use swipe cards to log in." translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Nē. Lietotājiem nebūs iespējams lietot magnētiskās kartes lai pieteiktos sistēmā.</string>
     <string name="No. Vector Scoring is not in use." translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Nē. Vector rezultātu uzskaites sistēma netiek izmantota.</string>
     <string name="Nobody is selected to be issued" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Nobody is selected to be issued</string>
-    <string name="Non Sales" translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">Bez Pārdošanas darījumi</string>
-    <string name="Non Sales Total" translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">Bez Pārdošanas Kopsumma</string>
+    <string name="Non Sales" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Darījumi</string>
+    <string name="Non Sales Total" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Darījumu Kopsumma</string>
     <string name="Non-Chargeable Time" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Neapmaksājamais laiks</string>
     <string name="none" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="true">nav</string>
     <string name="None" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="true">-------</string>
     <string name="Non-Existant Map File" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Non-Existant Map File</string>
-    <string name="NonSales" translator="jk" status="Review" modifyDate="2016.08.25." istablet="false">Bez Pārdošanas</string>
-    <string name="Non-Sales" translator="jk" status="Review" modifyDate="2016.08.25." istablet="false">Bez Pārdošanas</string>
+    <string name="NonSales" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Darījumi</string>
+    <string name="Non-Sales" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Darījumi</string>
     <string name="Nordic (865)" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Nordic (865)</string>
     <string name="Normal" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Parasts</string>
     <string name="Not Applicable" translator="jk" status="Complete" modifyDate="27.05.2016" istablet="false">-------</string>
@@ -2522,7 +2548,7 @@ katram</string>
     <string name="Only Show Summary Data" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Rādīt tikai kopsavilkumu</string>
     <string name="Only Show Total on Customer Display" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Uz klientu ekrāna rādīt tikai summu</string>
     <string name="Only Show Transactions With Adjustments" translator="jk" status="Complete" modifyDate="22.01.2017" istablet="false">Rādīt tikai transakcijas ar Korekcijām</string>
-    <string name="Only Show Transactions With Tender Exceeding" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Only Show Transactions With Tender Exceeding</string>
+    <string name="Only Show Transactions With Tender Exceeding" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Rādīt transakcijas kuru kopsumma pārsniedz</string>
     <string name="ONLY THREE PIGS LEFT!" translator="JK" status="Complete" modifyDate="24.01.2017" istablet="false">PALIKUŠAS TIKAI TRĪS CŪKAS!!!</string>
     <string name="ONLY TWO PIGS LEFT!" translator="JK" status="Complete" modifyDate="24.01.2017" istablet="false">PALIKUŠAS TIKAI DIVAS CŪKAS!!!</string>
     <string name="On-Screen Keyboard" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Ekrāna klaviatūra</string>
@@ -2576,7 +2602,7 @@ katram</string>
     <string name="Overhead" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Ekrāni</string>
     <string name="Overhead Device" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Ekrānu iekārta</string>
     <string name="Overhead Devices" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Ekrānu iekārtas</string>
-    <string name="Overnight Close Open Tabs with Validated Card" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Overnight Close Open Tabs with Validated Card</string>
+    <string name="Overnight Close Open Tabs with Validated Card" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Nakts uzdevumu laikā aizvērt neaizvērtās kvītis ar apstiprinātajām kartēm</string>
     <string name="Override" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Pārņemt</string>
     <string name="Override All" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Pārņemt visu</string>
     <string name="Override Login" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Pārņemt Pieteikšanos</string>
@@ -2598,16 +2624,45 @@ katram</string>
     <string name="Paid In" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Iemaksāts</string>
     <string name="Paid Out" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Izmaksāts</string>
     <string name="Paid/Due Date" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Apmaksas datums</string>
+    <string name="Pay All Later" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Maksāt Visu Vēlāk</string>
+    <string name="Pay By Bowler" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Maksāt par Spēlētāju</string>
+    <string name="Pay In" translator="jk" status="Complete" modifyDate="17.08.2016" istablet="false">Iemaksāt kasē</string>
+    <string name="Pay Later" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Maksāt Vēlāk</string>
+    <string name="Pay Now" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Maksāt tagad</string>
+    <string name="Pay Out" translator="jk" status="Complete" modifyDate="17.08.2016" istablet="false">Izmaksāt no kases</string>
+    <string name="Pay Out Gratuities" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Izmaksāt pateicības</string>
+    <string name="Pay Out Gratuities for Other Users" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Izmaksāt pateicības citiem lietotājiem</string>
+    <string name="Pay Out Selected Gratuities" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Izmaksāt iezīmētās pateicības</string>
+    <string name="Pay with Bonus" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Maksāt ar Bonusu</string>
+    <string name="Pay with Credit Card" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Maksāt ar Kredītkarti</string>
+    <string name="Pay with Stored Value Card" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Maksāt ar elektronisko karti</string>
+    <string name="Payment" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Maksājums</string>
+    <string name="Payment Amount" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Maksājuma apmērs</string>
+    <string name="Payment Card" translator="jk" status="Complete" modifyDate="24.01.2017" istablet="false">Maksājumu karte</string>
+    <string name="Payment Card Detail" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Maksājumu kartes detaļas</string>
+    <string name="Payment Card Return" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Maksājumu karte - atgriezts</string>
+    <string name="Payment Card Sale" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Maksājumu karte - pārdošanas kopsumma</string>
+    <string name="Payment Details" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Maksājuma Detaļas</string>
+    <string name="Payment Method" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Maksāšanas metode</string>
+    <string name="Payment Method Wizard" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Maksāšanas metodes vednis</string>
+    <string name="Payment Methods" translator="jk" status="Complete" modifyDate="26.05.2016" istablet="false">Apmaksas Veidi</string>
+    <string name="Payment Terminal" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Apmaksas Terminālis</string>
+    <string name="Payment Type" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Maksāšanas veids</string>
+    <string name="Payment Total" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Maksājuma summa</string>
+    <string name="Payment User" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Apmaksas Lietotājs</string>
+    <string name="Payments" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Maksājumi</string>
+    <string name="Payments Total" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Maksājumi kopā</string>
+    <string name="Payout" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Izmaksas</string>
     <string name="Panel Name" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Paneļa nosaukums</string>
     <string name="Panel Type" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Paneļa Veids</string>
     <string name="Parallel" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Parallel</string>
     <string name="Partial Sales Report (Detail)" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Daļēja pārdošanas atskaite (Detalizēta)</string>
     <string name="Partial Sales Report (Summary)" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Daļējā pārdošanas atskaite (kopsavilkums)</string>
     <string name="Particular Character" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Particular Character</string>
-    <string name="PartnerTech CD7220" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">PartnerTech CD7220</string>
     <string name="Party" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Viesības</string>
     <string name="Party Name" translator="jk" status="Complete" modifyDate="27.05.2016" istablet="false">Rezerv. nos.</string>
     <string name="Party Size" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Viesu skaits</string>
+    <string name="PartnerTech CD7220" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">PartnerTech CD7220</string>
     <string name="passcode" translator="jk" status="Complete" modifyDate="2016.04.30." istablet="true">parole</string>
     <string name="Passcode" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Parole</string>
     <string name="Password" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Parole</string>
@@ -2626,38 +2681,9 @@ katram</string>
     <string name="paused" translator="jk" status="Complete" modifyDate="2016.04.30." istablet="true">pauzēts</string>
     <string name="Paused" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Pauzēts</string>
     <string name="paused for your convenience" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="false">celiņš ir pauzēts jūsu ērtībai </string>
-    <string name="Pay All Later" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Maksāt Visu Vēlāk</string>
-    <string name="Pay By Bowler" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Maksāt par Spēlētāju</string>
-    <string name="Pay In" translator="jk" status="Complete" modifyDate="17.08.2016" istablet="false">Iemaksāt kasē</string>
-    <string name="Pay Later" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Maksāt Vēlāk</string>
-    <string name="Pay Now" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Maksāt tagad</string>
-    <string name="Pay Out" translator="jk" status="Complete" modifyDate="17.08.2016" istablet="false">Izmaksāt no kases</string>
-    <string name="Pay Out Gratuities" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Izmaksāt pateicības</string>
-    <string name="Pay Out Gratuities for Other Users" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Pay Out Gratuities for Other Users</string>
-    <string name="Pay Out Selected Gratuities" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Pay Out Selected Gratuities</string>
-    <string name="Pay with Bonus" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Pay with Bonus</string>
-    <string name="Pay with Credit Card" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Maksāt ar Kredītkarti</string>
-    <string name="Pay with Stored Value Card" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Pay with Stored Value Card</string>
-    <string name="Payment" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Maksājums</string>
-    <string name="Payment Amount" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Maksājuma apmērs</string>
-    <string name="Payment Card" translator="jk" status="Complete" modifyDate="24.01.2017" istablet="false">Maksājumu karte</string>
-    <string name="Payment Card Detail" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Payment Card Detail</string>
-    <string name="Payment Card Return" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Payment Card Return</string>
-    <string name="Payment Card Sale" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Payment Card Sale</string>
-    <string name="Payment Details" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Maksājuma Detaļas</string>
-    <string name="Payment Method" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Maksāšanas metode</string>
-    <string name="Payment Method Wizard" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Maksāšanas metodes vednis</string>
-    <string name="Payment Methods" translator="jk" status="Complete" modifyDate="26.05.2016" istablet="false">Apmaksas Veidi</string>
-    <string name="Payment Terminal" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Apmaksas Terminālis</string>
-    <string name="Payment Total" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Maksājuma summa</string>
-    <string name="Payment Type" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Maksāšanas veids</string>
-    <string name="Payment User" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Apmaksas Lietotājs</string>
-    <string name="Payments" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Maksājumi</string>
-    <string name="Payments Total" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Maksājumi kopā</string>
-    <string name="Payout" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Izmaksas</string>
     <string name="Pecking Order" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Knābāšanas secība</string>
     <string name="Pending" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Pending</string>
-    <string name="Pending Gratuities" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Pending Gratuities</string>
+    <string name="Pending Gratuities" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Neizmaksātās pateicības</string>
     <string name="Pentagons are AWESOME" translator="jk" status="Review" modifyDate="2016.05.05." istablet="false">Pentaedri ir KOLOSĀLI</string>
     <string name="per" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">par</string>
     <string name="Per Game" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Pa spēlei</string>
@@ -2699,17 +2725,17 @@ katram</string>
     <string name="pick me" translator="jk" status="Complete" modifyDate="2016.04.30." istablet="true">izvēlies mani</string>
     <string name="PIGS!!!" translator="JK" status="Complete" modifyDate="23.01.2017" istablet="false">CŪKAS!!!</string>
     <string name="Pin" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Ķeglis</string>
-    <string name="PIN" translator="JK" status="Complete" modifyDate="23.01.2017" istablet="false">ĶEGLIS</string>
-    <string name="Pin Camera" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Pin Camera</string>
+    <string name="PIN" translator="JK" status="Complete" modifyDate="01.02.2017" istablet="false">PIN kods</string>
+    <string name="Pin Camera" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Ķegļu kamera</string>
     <string name="Pin Camera Adjustment" translator="jk" status="Complete" modifyDate="22.01.2017" istablet="false">Ķegļu kameras parametri</string>
     <string name="Pin left after first ball" translator="jk" status="Complete" modifyDate="2016.05.04." istablet="false">Ķegļi kas palikuši pēc 1. metiena</string>
     <string name="Pin Light Off" translator="jk" status="Complete" modifyDate="26.05.2016" istablet="false">Izslēgt ķegļu gaismu</string>
     <string name="Pin Light On" translator="jk" status="Complete" modifyDate="26.05.2016" istablet="false">Ieslēgt ķegļu gaismu</string>
-    <string name="Pin out of Range" translator="jk" status="Complete" modifyDate="26.05.2016" istablet="false">Neaizsniedzams Keglis PO</string>
+    <string name="Pin out of Range" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Neaizsniedzams Ķeglis PO</string>
     <string name="Pin Pals" translator="jk" status="Complete" modifyDate="2016.04.30." istablet="true">Ķegļu Čomi</string>
-    <string name="Pin Pals (Candle Pin)" translator="Original Seed" status="Complete" modifyDate="4/26/2016" istablet="true">Pin Pals (Candle Pin)</string>
-    <string name="Pin Pals (Five Pin)" translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="false">Pin Pals (Five Pin)</string>
-    <string name="PIN Verified" translator="Original Seed" status="New" modifyDate="8/17/2016" istablet="false">PIN Verified</string>
+    <string name="Pin Pals (Candle Pin)" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="true">Pin Pals (Candle Pin)</string>
+    <string name="Pin Pals (Five Pin)" translator="Original Seed" status="Review" modifyDate="1/31/2017" istablet="false">Pin Pals (Five Pin)</string>
+    <string name="PIN Verified" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">PIN apstiprināts</string>
     <string name="Pin(s) are out of range. Please choose the pins that should be standing." translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Nevar noteikt stāvošos ķegļus. Lūdzu norādiet stāvošos ķegļus.</string>
     <string name="Ping Responses" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">PING atbildes</string>
     <string name="Pinpad" translator="Original Seed" status="New" modifyDate="8/17/2016" istablet="false">Pinpad</string>
@@ -2747,9 +2773,9 @@ katram</string>
     <string name="PLAYER 1 WINS!!!" translator="JK" status="Complete" modifyDate="2016.04.29." istablet="true">1. SPĒLĒTĀJS UZVAR!!!</string>
     <string name="Player Input Display" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Player Input Display</string>
     <string name="Player select" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Spēlētāja izvēle</string>
+    <string name="player type" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">spēlētāja tips</string>
     <string name="player track" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">sekot spēlētājam</string>
     <string name="Player Track" translator="jk" status="Complete" modifyDate="2016.05.20." istablet="false">Sekot spēlētājam!</string>
-    <string name="player type" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">spēlētāja tips</string>
     <string name="Player Up!" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Nākošais!</string>
     <string name="Player:" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Spēlētājs:</string>
     <string name="Players" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Spēlētāji</string>
@@ -2818,7 +2844,7 @@ katram</string>
     <string name="Previous Shift(s)" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Iepriekšējā maiņa(s)</string>
     <string name="Previously Used" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Iepriekš lietots</string>
     <string name="Price" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Cena</string>
-    <string name="Price After Bulk Rates" translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="false">Price After Bulk Rates</string>
+    <string name="Price After Bulk Rates" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Cena pēc apjoma likmēm</string>
     <string name="Prices" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Cenas</string>
     <string name="Primary Phone" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Primārais Tālr.</string>
     <string name="Print" translator="jk" status="Complete" modifyDate="2016.05.14." istablet="false">Drukāt</string>
@@ -2867,7 +2893,7 @@ priekšskatījums</string>
     <string name="Prize Fund Contribution" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Balvu fonda devums</string>
     <string name="Prize Fund Quantity" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Balvu fonda daudzums</string>
     <string name="Process" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Apstrādāt</string>
-    <string name="Process Assigned Gratuities" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Process Assigned Gratuities</string>
+    <string name="Process Assigned Gratuities" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Apstrādāt piešķirtās pateicības</string>
     <string name="Process Batch" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Apstrādāt paketi</string>
     <string name="Process Exists" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Process jau eksistē</string>
     <string name="Process Information" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Procesu Informācija</string>
@@ -2908,10 +2934,10 @@ priekšskatījums</string>
     <string name="Purge Old Transactions" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Dzēst vecās transakcijas</string>
     <string name="Purge Result" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Dzēšanas rezultāti</string>
     <string name="Purple" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Purpura</string>
-    <string name="Put a rental unit on hold" translator="jk" status="Complete" modifyDate="2016.08.31." istablet="false">Uzlikt īres resursu uz pauzes</string>
+    <string name="Put a rental unit on hold" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Pauzēt īres resursu</string>
     <string name="Quantity" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Daudz.</string>
     <string name="Quantity Asssigned" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Quantity Asssigned</string>
-    <string name="Quantity of Gratuities Assigned:" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Quantity of Gratuities Assigned:</string>
+    <string name="Quantity of Gratuities Assigned:" translator="kl" status="Complete" modifyDate="01.02.2017" istablet="false">Piešķirto pateicību summa:</string>
     <string name="Quantity Remaining" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Atlikušais Daudzums</string>
     <string name="Quantity Remaining to Allocate" translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="false">Quantity Remaining to Allocate</string>
     <string name="Quantity to Move" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Pārvietojamais Daudzums</string>
@@ -2993,8 +3019,8 @@ priekšskatījums</string>
     <string name="Remote Order Printing Custom Messages" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Attālināto Pasūtījuma Printeru Pielāgotās Ziņas</string>
     <string name="Remote Order Printing Ticket Settings" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">APP Pasūtījumu Drukāšanas Uzstādījumi</string>
     <string name="Removal Reason" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Noņemšanas iemesls</string>
-    <string name="Remove" translator="Original Seed" status="Complete" modifyDate="2016.05.14." istablet="false">Noņemt</string>
-    <string name="Remove a check " translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Noņemt atzīmi</string>
+    <string name="Remove" translator="jk" status="Complete" modifyDate="2016.05.14." istablet="false">Noņemt</string>
+    <string name="Remove a check " translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Noņemt pārbaudi</string>
     <string name="Remove All Cities" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Noņemt visas pilsētas</string>
     <string name="Remove All Postal Codes" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Dzēst Visus Pasta kodus</string>
     <string name="Remove All States/Provinces" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Dzēst Visus Novadus</string>
@@ -3133,7 +3159,7 @@ priekšskatījums</string>
     <string name="Role Deleted" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Lietotāju Loma ir dzēsta</string>
     <string name="Role Edited" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Lietotāju Loma ir veiktas izmaiņas</string>
     <string name="Role Item" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Lietotāju Lomas punkti</string>
-    <string name="Role Wizard" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Lietotāju Loma Vednis</string>
+    <string name="Role Wizard" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Lietotāju Lomas Vednis</string>
     <string name="Roles" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Lietotāju Lomas</string>
     <string name="ROP Printing Options" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">APP Drukāšanas opcijas</string>
     <string name="Rotate" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Rotēt</string>
@@ -3373,14 +3399,14 @@ priekšskatījums</string>
     <string name="Shift Management" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Maiņu Pārvaldnieks</string>
     <string name="Shift Management Failed" translator="Original Seed" status="Complete" modifyDate="24.01.2017" istablet="false">Maiņa noslēgta neveiksmīgi</string>
     <string name="Shift Management Successful" translator="jk" status="Complete" modifyDate="24.01.2017" istablet="false">Maiņa noslēgta veiksmīgi</string>
-    <string name="Shifts" translator="Original Seed" status="Complete" modifyDate="23.01.2017" istablet="false">Maiņas</string>
+    <string name="Shifts" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Maiņas</string>
     <string name="Shoe Size" translator="jk" status="Complete" modifyDate="26.05.2016" istablet="false">Kurpju izmērs</string>
     <string name="Show Activity Grid" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Rādīt aktivitātes režģi</string>
     <string name="Show All Assigned Persons" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Show All Assigned Persons</string>
     <string name="Show All Help" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Rādīt visu palīdzību</string>
     <string name="Show All Reports Sequentially" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Show All Reports Sequentially</string>
     <string name="Show All Terminals" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Rādīt visus Termināļus</string>
-    <string name="Show All Unpaid Gratuities" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Show All Unpaid Gratuities</string>
+    <string name="Show All Unpaid Gratuities" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Rādīt visas neizmaksātās pateicības</string>
     <string name="Show All Users" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Rādīt Visus Lietotājus</string>
     <string name="Show Audit Detail" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Attēlo audita detalizētu atskaiti</string>
     <string name="Show Balances Only" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Rādīt tikai bilances</string>
@@ -3399,7 +3425,7 @@ priekšskatījums</string>
     <string name="Show Detail By Lane" translator="jk" status="Review" modifyDate="2016.05.21." istablet="false">Skatīt detalizēti pa celiņam</string>
     <string name="Show Details" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Rādīt detaļas</string>
     <string name="Show Dispensing Detail" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Show Dispensing Detail</string>
-    <string name="Show Dispensing Totals" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Show Dispensing Totals</string>
+    <string name="Show Dispensing Totals" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Rādīt izsniegšanas kopsummas</string>
     <string name="Show Drawer Summary" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Rādīt Kases Kopsavilkumu</string>
     <string name="Show Individual Errors" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Rādīt atsevišķas kļūdas</string>
     <string name="Show Logo" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Rādīt Logo</string>
@@ -3424,7 +3450,7 @@ priekšskatījums</string>
     <string name="Show Welcome Logo" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Rādīt Sveiciena Logo</string>
     <string name="Show Welcome Message" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Rādīt Sveiciena Ziņu</string>
     <string name="Show Welcome Party Info" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Rādīt Sveiciena Viesību Info</string>
-    <string name="Shows batch settlement totals for each batch run.  Note that, depending on the processor, not all card transactions are included in the batch total." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Shows batch settlement totals for each batch run.  Note that, depending on the processor, not all card transactions are included in the batch total.</string>
+    <string name="Shows batch settlement totals for each batch run.  Note that, depending on the processor, not all card transactions are included in the batch total." translator="jk" status="Review" modifyDate="01.02.2017" istablet="false">Pakešu apstrādes atskaite (-------)</string>
     <string name="Shows detail of individual sessions for resources." translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Attēlo resursu individuālo sesiju detalizētu atskaiti</string>
     <string name="Shows information about authorizationed dispensed items." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Shows information about authorizationed dispensed items.</string>
     <string name="Shows information about errors/frequency for pinsetters, and if applicable, keypads and bumpers." translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Ataino informāciju par pinsetera, bortiņu un klaviatūras kļūdām un to biežumu.</string>
@@ -3450,6 +3476,26 @@ priekšskatījums</string>
     <string name="Six" translator="jk" status="Review" modifyDate="2016.05.05." istablet="false">Seši</string>
     <string name="Six Shooter" translator="jk" status="Review" modifyDate="2016.05.05." istablet="false">Seši nav Sveši</string>
     <string name="Size" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Izmērs</string>
+    <string name="Sync" translator="JK" status="Complete" modifyDate="15.01.2017" istablet="false">SYNC</string>
+    <string name="Sync Backups" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Sync Rezerves Kopijas</string>
+    <string name="Sync Bowling" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">SYNC boulings</string>
+    <string name="Sync Help" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Sync Palīdzība</string>
+    <string name="SYNC INSTALLATION" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">SYNC uzstādīšana</string>
+    <string name="Sync Installation - Select Installation Type" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Sync Uzstādīšana - Norādiet Uzstādīšanas Veidu</string>
+    <string name="Sync Keypad" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Sync klaviatūra</string>
+    <string name="Sync Package" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Sync komplekts</string>
+    <string name="Sync Product" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Sync produkts</string>
+    <string name="Sync Products" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Sync produkti</string>
+    <string name="System" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Sistēma</string>
+    <string name="System Analysis" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Sistēmas analīze</string>
+    <string name="System Control" translator="Original Seed" status="Complete" modifyDate="15.01.2017" istablet="false">Sistēmas Konfigurācija</string>
+    <string name="System Critical" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Kritisks Sistēmai</string>
+    <string name="System Display" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">System Display</string>
+    <string name="System Going Offline" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Sistēma dodas bezsaitē</string>
+    <string name="System Health" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Sistēmas Veselība</string>
+    <string name="System Manager" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Sistēmas pārvaldnieks</string>
+    <string name="System Manager Service Error" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Sync Sistēmas Pārvaldnieka Servisa kļūda</string>
+    <string name="System Name" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Sistēmas nosaukums</string>
     <string name="skip bowler" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">izlaist spēlētāju</string>
     <string name="Skip Bowler" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">Izlaist Spēlētāju</string>
     <string name="Skip Player" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Izlaist Spēlētāju</string>
@@ -3562,19 +3608,19 @@ priekšskatījums</string>
     <string name="Statistics (completed frames only)" translator="jk" status="Complete" modifyDate="2016.05.01." istablet="false">Statistika (tikai izspēlēti rāmji)</string>
     <string name="Statistics (completed games only)" translator="jk" status="Complete" modifyDate="03.06.2016" istablet="false">Statistika (tikai pabeigtās spēles)</string>
     <string name="Statistics:" translator="jk" status="Complete" modifyDate="03.06.2016" istablet="false">Rādīt statistiku:</string>
-    <string name="Stats King" translator="jk" status="New" modifyDate="4/26/2016" istablet="true">Stats King</string>
+    <string name="Stats King" translator="jk" status="Review" modifyDate="4/26/2016" istablet="true">Stats King</string>
     <string name="Stats King (Candle Pin)" translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="false">Stats King (Candle Pin)</string>
     <string name="Stats King (Five Pin)" translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="false">Stats King (Five Pin)</string>
     <string name="Status" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Statuss</string>
     <string name="Status Sales Error" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Status Sales Error</string>
     <string name="Storage" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Noliktava</string>
     <string name="Storage Color" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Noliktavas sk. krāsa</string>
-    <string name="Stored Value" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Stored Value</string>
+    <string name="Stored Value" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Elektroniskās kartes</string>
     <string name="Stored Value Configuration" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Elektronisko karšu konfigurācija</string>
-    <string name="Stored Value Payment" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Stored Value Payment</string>
-    <string name="Stored Value Sale" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Stored Value Sale</string>
+    <string name="Stored Value Payment" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Elektroniskās kartes maksājums</string>
+    <string name="Stored Value Sale" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Elektronisko karšu pārdošana</string>
     <string name="Stored Value System" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Elektronisko karšu sistēma</string>
-    <string name="Stored Value Total" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Stored Value Total</string>
+    <string name="Stored Value Total" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Elektronisko karšu kopsumma</string>
     <string name="strike" translator="jk" status="Complete" modifyDate="2016.04.30." istablet="true">straiks</string>
     <string name="Strike" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="false">Straiks</string>
     <string name="STRIKE" translator="JK" status="Complete" modifyDate="2016.05.02." istablet="false">STRAIKS</string>
@@ -3621,31 +3667,11 @@ priekšskatījums</string>
     <string name="Switch to Backup Printer" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Pārslēgties uz rezerves printeri</string>
     <string name="Switch To Selected Instance" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Switch To Selected Instance</string>
     <string name="Switching to New Version" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Notiek pārslēgšanās uz Jauno Versiju</string>
-    <string name="Sync" translator="JK" status="Complete" modifyDate="15.01.2017" istablet="false">SYNC</string>
-    <string name="Sync Backups" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Sync Rezerves Kopijas</string>
-    <string name="Sync Bowling" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">SYNC boulings</string>
-    <string name="Sync Help" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Sync Palīdzība</string>
-    <string name="SYNC INSTALLATION" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">SYNC uzstādīšana</string>
-    <string name="Sync Installation - Select Installation Type" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Sync Uzstādīšana - Norādiet Uzstādīšanas Veidu</string>
-    <string name="Sync Keypad" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Sync klaviatūra</string>
-    <string name="Sync Package" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Sync komplekts</string>
-    <string name="Sync Product" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Sync produkts</string>
-    <string name="Sync Products" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Sync produkti</string>
-    <string name="System" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Sistēma</string>
-    <string name="System Analysis" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Sistēmas analīze</string>
-    <string name="System Control" translator="Original Seed" status="Complete" modifyDate="15.01.2017" istablet="false">Sistēmas Konfigurācija</string>
-    <string name="System Critical" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Kritisks Sistēmai</string>
-    <string name="System Display" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">System Display</string>
-    <string name="System Going Offline" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Sistēma dodas bezsaitē</string>
-    <string name="System Health" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Sistēmas Veselība</string>
-    <string name="System Manager" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Sistēmas pārvaldnieks</string>
-    <string name="System Manager Service Error" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Sync Sistēmas Pārvaldnieka Servisa kļūda</string>
-    <string name="System Name" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Sistēmas nosaukums</string>
     <string name="Tab Analysis" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Kvīts Analīze</string>
     <string name="Tab ID and Customer Name" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Kvīts Nr. un Klienta vārds</string>
     <string name="Tab Name" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Kvīts Nosaukums</string>
     <string name="Tab To Combine" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Kvīts ar ko apvienot</string>
-    <string name="Table" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Galdiņš</string>
+    <string name="Table" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Tabula</string>
     <string name="Tables" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Galdiņi</string>
     <string name="Tables Total" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Galdiņi kopā</string>
     <string name="Tablet" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Planšete</string>
@@ -3663,11 +3689,11 @@ priekšskatījums</string>
     <string name="Tax Exempt" translator="jk" status="Complete" modifyDate="27.05.2016" istablet="false">Bez PVN</string>
     <string name="Tax Exempt Items" translator="jk" status="Complete" modifyDate="27.05.2016" istablet="false">Vienības bez PVN</string>
     <string name="Tax Included" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Iekļauj nodokļus</string>
-    <string name="Tax Item" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Tax Item</string>
-    <string name="Tax Total" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Nodokļu kopsumma</string>
+    <string name="Tax Item" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Nodoklis</string>
     <string name="Tax Type" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Nodokļu Veids</string>
-    <string name="Taxable Amount" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Taxable Amount</string>
-    <string name="Taxable Item Sales Total" translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">Ar nodokli apliekamo preču Pārdošanas Kopsumma</string>
+    <string name="Tax Total" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Nodokļu kopsumma</string>
+    <string name="Taxable Amount" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Ar nodokli apliekamā summa</string>
+    <string name="Taxable Item Sales Total" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Ar nodokli apliekamo preču kopsumma</string>
     <string name="Taxes" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Nodokļi</string>
     <string name="TCP/IP Failed to Initialize" translator="jk" status="Complete" modifyDate="24.01.2017" istablet="false">Neizdevās inicializēt TCP/IP</string>
     <string name="Team" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">Komanda</string>
@@ -3696,9 +3722,9 @@ priekšskatījums</string>
     <string name="Terminal In" translator="Original Seed" status="New" modifyDate="8/17/2016" istablet="false">Terminal In</string>
     <string name="Terminal Name" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Termināļa nosaukums</string>
     <string name="Terminal Number is required." translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Termināļa numurs obligāti ir jānorāda</string>
-    <string name="Terminal Opened" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Atvērts uz Termināļa</string>
-    <string name="Terminal Sold" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Pārdots uz Termināļa</string>
-    <string name="Terminal Total" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Termināļa kopsumms</string>
+    <string name="Terminal Opened" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Atvēršanas terminālis</string>
+    <string name="Terminal Sold" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Pārdošanas terminālis</string>
+    <string name="Terminal Total" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Termināļa kopsumma</string>
     <string name="Terminal Wizard" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Termināļa vednis</string>
     <string name="Terminals" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Termināļi</string>
     <string name="Terminals to Ignore" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Ignorēt Termināļus</string>
@@ -3766,10 +3792,10 @@ priekšskatījums</string>
     <string name="The numbers don’t lie! Stat King combines the fun of open play experience with the intensity of league play. Packed with stats for competitive bowlers looking to improve their game or brag it up with friends. Let’s get rolling!" translator="jk" status="Complete" modifyDate="2016.05.04." istablet="true">Šie skaitļi nemelo! Stats King apvieno ikdienas spēles jautrību ar sacensību spriedzi.  Grafika pārpildīta ar statistisku informāciju azartiskiem spēlētājiem, kas vēlas uzlabot savu sniegumu vai palielīties draugiem. Uzripinam?!</string>
     <string name="The offer type is not recognized." translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Īpašā Piedāvājuma veids nav atpazīts.</string>
     <string name="The other lane is in use" translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="false">The other lane is in use</string>
-    <string name="The password was used too recently." translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Parole nesen jau tika izmantota</string>
-    <string name="The password you entered is invalid" translator="jk" status="Complete" modifyDate="2016.05.05." istablet="false">Nepareiza parole</string>
     <string name="The payments listed below are still pending gratuity assignment.  If you continue, you will not be able to add a gratuity to these transactions.  Do you want to continue?" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">The payments listed below are still pending gratuity assignment.  If you continue, you will not be able to add a gratuity to these transactions.  Do you want to continue?</string>
     <string name="The payments listed below are still pending gratuity assignment.  You must assign a gratuity, even if it is zero, for these transactions before proceeding." translator="Original Seed" status="New" modifyDate="8/17/2016" istablet="false">The payments listed below are still pending gratuity assignment.  You must assign a gratuity, even if it is zero, for these transactions before proceeding.</string>
+    <string name="The password you entered is invalid" translator="jk" status="Complete" modifyDate="2016.05.05." istablet="false">Nepareiza parole</string>
+    <string name="The password was used too recently." translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Parole nesen jau tika izmantota</string>
     <string name="The players differ between linked squads" translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="false">The players differ between linked squads</string>
     <string name="The product/package to which this coupon applies costs less than the coupon adjustment so the coupon can not be applied." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">The product/package to which this coupon applies costs less than the coupon adjustment so the coupon can not be applied.</string>
     <string name="The response received was invalid." translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Saņemtā atbilde bija nederīga</string>
@@ -3812,8 +3838,8 @@ priekšskatījums</string>
     <string name="There was an error importing the data.  Please make sure all files are in the correct format.  Do you want to see additional error information?" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Radās kļūda importējot datus. Lūdzu pārliecināties ka visi faili ir atbalstītā formātā. Vai vēlaties skatīt papildinformāciju par radušos kļūdu?</string>
     <string name="There was an error reading the card." translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Radās kļūda nolasot karti.</string>
     <string name="There was no error." translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Nebija nevienas kļūdas</string>
-    <string name="There was no response from the stored value system." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">There was no response from the stored value system.</string>
     <string name="There was no response from the Sync System Manager service." translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Nav saiknes ar Sync Sistēmas Pārvaldnieka servisu.</string>
+    <string name="There was no response from the stored value system." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">There was no response from the stored value system.</string>
     <string name="There’s nothing like a little rivalry among friends. The Rivalry combines the fun of open play experience with the intensity of competitive play. Loaded with facts and stats to fuel your rivalry for years to come." translator="jk" status="Complete" modifyDate="2016.05.04." istablet="true">Neliela sāncensība draugu starpā nekaitēs. The Rivalry ir spēle ar sacensību noskaņu. Iespējams, tā sniegs jums iemeslu draudzīgam jokam un jautrām atmiņām, kas saglabāsies vēl ilgus gadus.</string>
     <string name="These lovable and mischievous Pin Pals deliver frame after frame of giggles and grins with their offbeat antics and a penchant for mayhem, all animated in eye-popping 3D." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="true">These lovable and mischievous Pin Pals deliver frame after frame of giggles and grins with their offbeat antics and a penchant for mayhem, all animated in eye-popping 3D.</string>
     <string name="Third Friday" translator="jk" status="Complete" modifyDate="27.05.2016" istablet="false">Trešo Piektdienu</string>
@@ -3858,9 +3884,9 @@ priekšskatījums</string>
     <string name="This reservation type has reservations associated with it. Deleting this type will also delete the reservations associated with it. Are you sure?" translator="jk" status="Complete" modifyDate="2016.08.18." istablet="false">Ar šo Rezervāciju veidu ir saistītas rezervācijas. Nodzēšot to tiks dzēstas arī visas saistītās rezervācijas. Vai esat pārliecināts, ka vēlaties to darīt?</string>
     <string name="This resoure type has one or more waiting lists associated with it.  Are you sure you want to delete it and the associated waiting lists?" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">This resoure type has one or more waiting lists associated with it.  Are you sure you want to delete it and the associated waiting lists?</string>
     <string name="This silly, fun cartoon is loaded with lovable undersea characters and scenes that will delight small children and grown-ups alike." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="true">This silly, fun cartoon is loaded with lovable undersea characters and scenes that will delight small children and grown-ups alike.</string>
-    <string name="This SubDepartment cannot be deleted because there are Banking items, Products or Modifiers associated with it. Please remove these associations before attempting to delete this Sub Department" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Šī Sekcija nevar tikt dzēsta jo ar to ir saistīts kāds Bankas Postenis, Produkts  vai Modifikators. Lūdzu noņemt šīs saistības pirms nodzēst so Sekciju.</string>
     <string name="This System" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Šī Sistēma</string>
-    <string name="This tax is assigned to one or more products or modifiers. If you delete it they will no longer be assessed this tax. Are you sure you want to delete this tax?" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">This tax is assigned to one or more products or modifiers. If you delete it they will no longer be assessed this tax. Are you sure you want to delete this tax?</string>
+    <string name="This SubDepartment cannot be deleted because there are Banking items, Products or Modifiers associated with it. Please remove these associations before attempting to delete this Sub Department" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Šī Sekcija nevar tikt dzēsta jo ar to ir saistīts kāds Bankas Postenis, Produkts  vai Modifikators. Lūdzu noņemt šīs saistības pirms nodzēst so Sekciju.</string>
+    <string name="This tax is assigned to one or more products or modifiers. If you delete it they will no longer be assessed this tax. Are you sure you want to delete this tax?" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Šis nodoklis ir saistīts ar vienu vai vairākiem produktiem vai modifikatoriem. Ja to dzēsīsiet, tie produkti vairāk netiks saistīts ar šo nodokli. Vai vēlaties turpināt?</string>
     <string name="This transaction contains credit card items that must be manually voided in Desk after it is cancelled.  Are you sure you want to continue?" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">This transaction contains credit card items that must be manually voided in Desk after it is cancelled.  Are you sure you want to continue?</string>
     <string name="This user account has been locked out of the system. Please see a system administrator to resolve this issue." translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">Šī Lietotāja konts ir bloķēts. Lūdzu sazināties ar sistēmas administratoru lai atjaunotu piekļuvi.</string>
     <string name="This user account is inactive. Please see a system administrator to resolve this issue." translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">Šis lietotāja konts ir deaktivizēts noilguma dēļ. Lūdzu sazināties ar sistēmas administratoru lai atjaunotu piekļuvi.</string>
@@ -3884,7 +3910,7 @@ priekšskatījums</string>
     <string name="This will set the password for all tablets that are currently running. Any tablet that is not running will not be affected by this change. Are you sure?" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Ar šo darbību tiks mainīta parole visām strādājošajām planšetēm. Tās planšetes, kas nestrādā, šīs izmaiņas neietekmēs. Vai vēlaties turpināt?</string>
     <string name="Threaded Auth Started Expect Response Event (Note it is possible the event could fire before the function returns.)" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Threaded Auth Started Expect Response Event (Note it is possible the event could fire before the function returns.)</string>
     <string name="Threw the ball in the gutter" translator="jk" status="Complete" modifyDate="2016.05.05." istablet="false">iemeti bumbu renē</string>
-    <string name="Through" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Cauri</string>
+    <string name="Through" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Līdz</string>
     <string name="Thursday" translator="jk" status="Complete" modifyDate="27.05.2016" istablet="false">Ceturtdienu</string>
     <string name="Ticket Date/Time" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Pasūtījuma datums/laiks</string>
     <string name="Ticket Footer" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Pasūtījuma Kājene</string>
@@ -3908,6 +3934,8 @@ priekšskatījums</string>
     <string name="Timeout on Response" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Noildze gaidot atbildi</string>
     <string name="Times: " translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Reizes: </string>
     <string name="Title" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Virsraksts</string>
+    <string name="Type" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Veids</string>
+    <string name="Type:" translator="Original Seed" status="Complete" modifyDate="2016.05.21." istablet="false">Veids:</string>
     <string name="to" translator="jk" status="Complete" modifyDate="03.06.2016" istablet="false">     līdz</string>
     <string name="To" translator="jk" status="Complete" modifyDate="03.06.2016" istablet="false">Līdz</string>
     <string name="To get Sync, contact your Brunswick representative." translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Lai iegūtu SYNC, sazinaties ar savu Brunswick pārstāvi</string>
@@ -3940,8 +3968,8 @@ priekšskatījums</string>
     <string name="Total Score" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Kopējais rezultāts</string>
     <string name="Total Score:" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Kopējais rezultāts:</string>
     <string name="Total Tax" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Nodokļu kopsumma</string>
-    <string name="Total Tax Collected For Terminal" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Total Tax Collected For Terminal</string>
-    <string name="Total To Add" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Total To Add</string>
+    <string name="Total Tax Collected For Terminal" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Kopējie nodokļu ieņēmumi uz termināļa</string>
+    <string name="Total To Add" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Pievienot kopā</string>
     <string name="Total to Pay:" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Summa apmaksai:</string>
     <string name="Total:" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Kopsumma:</string>
     <string name="Totals" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Kopsummas</string>
@@ -3981,7 +4009,7 @@ priekšskatījums</string>
     <string name="Transaction Log" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Transakciju Žurnāls</string>
     <string name="Transaction Manually Cancelled" translator="jk" status="Complete" modifyDate="2016.05.04." istablet="false">Transakcija Atcelta Manuāli</string>
     <string name="Transaction Marked Paid" translator="jk" status="Review" modifyDate="2016.05.21." istablet="false">Transakcija Atzīmēta kā Apmaksāta</string>
-    <string name="Transaction No Sale" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Transakcija bez pārdošanas</string>
+    <string name="Transaction No Sale" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Darījuma Transakcija</string>
     <string name="Transaction Notes" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Transakcijas Piezīmes</string>
     <string name="Transaction Number" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Transakcijas Numurs</string>
     <string name="Transaction Owner Changed" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Tika nomainīts Transakcijas īpašnieks</string>
@@ -3997,15 +4025,15 @@ priekšskatījums</string>
     <string name="Transaction Surcharges" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Transakciju Uzrēķini</string>
     <string name="Transaction Tax" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Transakcijas Nodokļi</string>
     <string name="Transaction Terminal" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Transakcijas Terminālis</string>
-    <string name="Transaction Total" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Transakcijas Summa</string>
     <string name="Transaction Type" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Transakcijas Tips</string>
+    <string name="Transaction Total" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Transakcijas Summa</string>
     <string name="Transaction User" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Transakcijas lietotājs</string>
     <string name="Transactional Email" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Transakciju e-pasti</string>
     <string name="Transactions Combined" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Transakcijas apvienotas</string>
     <string name="Transactions Purged" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Transakcijas ir dzēstas</string>
     <string name="Transfer" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Pārcelt</string>
     <string name="Transfer a rental unit" translator="jk" status="Complete" modifyDate="2016.08.18." istablet="false">Pārcelt īres resursu</string>
-    <string name="Transfer Cash Between Stored Value Cards" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Transfer Cash Between Stored Value Cards</string>
+    <string name="Transfer Cash Between Stored Value Cards" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Pārvietot naudu starp elektroniskajām kartēm</string>
     <string name="Transfer Players" translator="jk" status="Complete" modifyDate="17.08.2016" istablet="false">Pārcelt Spēlētājus</string>
     <string name="Transfer Tables" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Pārcelt Galdiņus</string>
     <string name="Triples" translator="jk" status="Review" modifyDate="2016.05.05." istablet="false">Trīnīši</string>
@@ -4036,8 +4064,6 @@ priekšskatījums</string>
     <string name="Turn On Power" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Ieslēgt Gaismu</string>
     <string name="Turn On Rental Unit" translator="jk" status="Complete" modifyDate="2016.08.31." istablet="false">Ieslēgt īres resursu</string>
     <string name="Twitter" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Twitter</string>
-    <string name="Type" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Veids</string>
-    <string name="Type:" translator="Original Seed" status="Complete" modifyDate="2016.05.21." istablet="false">Veids:</string>
     <string name="UChoose Themes" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Spēļu noformējumi</string>
     <string name="Unable to Parse Response from Global (Indistinguishable)" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Unable to Parse Response from Global (Indistinguishable)</string>
     <string name="Unassignable Items" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Unassignable Items</string>
@@ -4066,7 +4092,7 @@ priekšskatījums</string>
     <string name="Unused" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Neizmantots</string>
     <string name="up" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">augšup</string>
     <string name="Up" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Uz Augšu</string>
-    <string name="Up Time" translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="false">Up Time</string>
+    <string name="Up Time" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Darba stundas</string>
     <string name="update" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">atjaunināt</string>
     <string name="Update" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Atjaunināt</string>
     <string name="Update Card Details" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Atjaunināt Kartes Detaļas</string>
@@ -4126,7 +4152,7 @@ priekšskatījums</string>
     <string name="use the tablet to continue or throw a ball to start next game" translator="jk" status="Complete" modifyDate="2016.05.04." istablet="false">izmantojiet planšetes ekrānu vai ripiniet bumbu lai turpinātu spēli</string>
     <string name="use the tablet to pick a shot" translator="jk" status="Complete" modifyDate="17.01.2017" istablet="false">izvelaties kombinaciju uz plansetes</string>
     <string name="Use the Team Track menu to follow teams on other lanes" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Izmantojiet "Sekot Komandai" izvēlni lai sekotu citas komandas spēles gaitai kas norisinās uz cita celiņa.</string>
-    <string name="Use Validated Card" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Use Validated Card</string>
+    <string name="Use Validated Card" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Izmantot apstiprināto karti</string>
     <string name="Used" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Lietojums</string>
     <string name="User" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Lietotājs</string>
     <string name="User Account Activated" translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">Lietotāja konts ir aktivizēts</string>
@@ -4159,19 +4185,19 @@ priekšskatījums</string>
     <string name="Vacant Color" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Brīvā sk. krāsa</string>
     <string name="Vacants" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Brīvie</string>
     <string name="Valid" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Derīgs</string>
-    <string name="Validate" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Validate</string>
-    <string name="Validate Card" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Validate Card</string>
-    <string name="Validate Card (Preauthorization)" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Validate Card (Preauthorization)</string>
-    <string name="Validate Card (Preauthorization) Enabled" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Validate Card (Preauthorization) Enabled</string>
+    <string name="Validate" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Apstiprināt</string>
+    <string name="Validate Card" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Apstiprināt karti</string>
+    <string name="Validate Card (Preauthorization)" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Apstiprināt karti (Pilnvarojums)</string>
+    <string name="Validate Card (Preauthorization) Enabled" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Apstiprināt karti (Pilnvarojums) - iespējots</string>
     <string name="Validated Card Description" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Apstiprināts Kartes Apraksts</string>
     <string name="Value" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Vērtība</string>
     <string name="Vector Bowling" translator="jk" status="Complete" modifyDate="2016.05.03." istablet="false">Vector Boulings</string>
     <string name="Vector Keypad" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Vector Klaviatūra</string>
-    <string name="Verify Batches Have Run" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Verify Batches Have Run</string>
+    <string name="Verify Batches Have Run" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Pārbaudīt Pakešu apstrādes rezultātus</string>
     <string name="Version" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Versija</string>
     <string name="Version Unknown" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Nezināma Versija</string>
     <string name="View" translator="jk" status="Complete" modifyDate="03.06.2016" istablet="false">Skatīt</string>
-    <string name="View a listing of tabs that are still open, automatically closed, and those closed on a different fiscal day than they were opened on." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">View a listing of tabs that are still open, automatically closed, and those closed on a different fiscal day than they were opened on.</string>
+    <string name="View a listing of tabs that are still open, automatically closed, and those closed on a different fiscal day than they were opened on." translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Skatīt neaizvērto, automātiski aizvērto un citā datumā aizvērto kvīšu saraksts</string>
     <string name="View a summary of account collections or individual account detail." translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Skatīt vairāku kontu kopsavilkumu vai individuāla konta detalizētu informāciju</string>
     <string name="View Credit Card Logs" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Skatīt kredītkaršu žurnālfailu</string>
     <string name="View Current Sales" translator="jk" status="Review" modifyDate="2016.05.13." istablet="false">Skatīties Pašreizējo Pārdošanu</string>
@@ -4188,7 +4214,7 @@ priekšskatījums</string>
     <string name="View Recently Dispensed Items" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">View Recently Dispensed Items</string>
     <string name="View Reports" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Skatīt atskaites</string>
     <string name="VIEW SCORES" translator="jk" status="Review" modifyDate="2016.08.18." istablet="true">REZULTATI</string>
-    <string name="View Tabs of others" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Skatīt Kvītis no citiem</string>
+    <string name="View Tabs of others" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Skatīt citu lietotāju kvītis</string>
     <string name="View the Application Log." translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Skatīt Lietotņu Žurnālfailu</string>
     <string name="View the details for this Account." translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Skatīt šī konta detaļas</string>
     <string name="View the log of credit card transactions." translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Skatīt kredītkaršu transakciju žurnālfailu</string>
@@ -4208,8 +4234,8 @@ priekšskatījums</string>
     <string name="Void Line Item" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Anulēt kvīts rindu</string>
     <string name="Void Payment" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Anulēt Apmaksu</string>
     <string name="Void Payments" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Anulēt Maksājumus</string>
-    <string name="Void Stored Value" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Void Stored Value</string>
-    <string name="Void Stored Value Sales/Payments" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Void Stored Value Sales/Payments</string>
+    <string name="Void Stored Value" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Anulēt elektronisko karti</string>
+    <string name="Void Stored Value Sales/Payments" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Anulēt elektroniskās kartes maksājumus/pārdošanu</string>
     <string name="Voided" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Anulēts</string>
     <string name="Voided Items" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Anulētie produkti</string>
     <string name="Voids Require the Voided Card" translator="Original Seed" status="New" modifyDate="1/3/2017" istablet="false">Voids Require the Voided Card</string>
@@ -4258,7 +4284,7 @@ priekšskatījums</string>
     <string name="WELL DONE!" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">LIELISKI!</string>
     <string name="Western Europe (1252)" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Western Europe (1252)</string>
     <string name="Which transaction would you like to open?" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Kuras transakcijas jūs vēlaties atvērt?</string>
-    <string name="Wide Layout Pages" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Wide Layout Pages</string>
+    <string name="Wide Layout Pages" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Plata izkārtojuma paneļi</string>
     <string name="Width" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Platums</string>
     <string name="Wild" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Wild</string>
     <string name="Win Message" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Ziņa uzvaras gadījumā</string>
@@ -4276,32 +4302,6 @@ priekšskatījums</string>
     <string name="X-Bowling" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">X-Bowling</string>
     <string name="XML Files" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">XML Datnes</string>
     <string name="XML Parse Error" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">XML apstrādes kļūda</string>
-    <string name="yes" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">jā</string>
-    <string name="Yes" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">Jā</string>
-    <string name="Yes. An external point-of-sale system will manage all cash. This system will only be used for resource control (lanes, billiards, etc.)" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Jā, tiks izmantota ārējā POS sistēma naudas uzskaitei un kontrolei. Šī sistēma tiks izmantota tikai resursu kontrolei (celiņiem, biljardam, utt)</string>
-    <string name="Yes. Customers may use personal accounts for deposit and withdrawl." translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Jā, Klienti var izmantot personīgos kontus depozītiem un līdzekļu izmaksai.</string>
-    <string name="Yes. Frameworx Scoring is in use." translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Jā. Frameworx Rezultātu sistēma tiek izmantota.</string>
-    <string name="Yes. Log-ins and passwords will be required for all application users." translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">Jā, Lietotājvārds un Parole būs nepieciešams visiem aplikācijas lietotājiem.</string>
-    <string name="Yes. Products are organized into Groups when displayed on the POS system." translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Jā. Produkti ir organizēti grupās kad tie tiek atainoti POS sistēmā</string>
-    <string name="Yes. Products can have different prices and availability at different times." translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Jā, Produktam var būt dažādas cenas un pieejamība dažādos laikos.</string>
-    <string name="Yes. Remote Order Printing is installed." translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Jā. Attālinātais Pasūtījumu printeris ir uzstādīts.</string>
-    <string name="Yes. Usage of resources like billiards or darts will be monitored by this system." translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Jā. Tādu resursu kā Biljarda vai Šautriņu lietojums tiks kontrolēts ar šo sistēmu.</string>
-    <string name="Yes. User accounts will expire after a set number of days forcing users to update passwords." translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Jā. Lietotāju kontiem izbeigsies termiņš pēc noteiktā dienu skaita, piespiežot tos atjaunināt paroles.</string>
-    <string name="Yes. Users may use fingerprint readers to log in." translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">Jā, Lietotāji var izmantot pirkstu nospiedumu lasītāju lai pieteiktos sistēmā.</string>
-    <string name="Yes. Users may use swipe cards to log in." translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">Jā, Lietotāji var izmantot magnētiskās kartes lai pieteiktos sistēmā.</string>
-    <string name="Yes. Vector Scoring is in use." translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Jā. Vector rezultātu uzskaites sistēma tiek izmantota</string>
-    <string name="Yesterday" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Vakardiena</string>
-    <string name="You do not have a Site defined. Would you like to do it now?" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Vietne šobrīd nav definēta. Vai vēlaties to izdarīt tagad?</string>
-    <string name="YOU GOT THEM ALL!" translator="JK" status="Complete" modifyDate="25.01.2017" istablet="false">TU NOTRIECI VISAS!!!</string>
-    <string name="You have moved players to a lane that was already issued.  Would you like to move some of the items from the original transaction to the transaction on the new lane?" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Spēlētāji tika pārvietoti uz jau ieslēgtu celiņu. Vai vēlaties pārvietot daļu produktu no oriģinālās transakcijas uz jaunā celiņa transakciju?</string>
-    <string name="You have moved players to a lane that was previously off.  Would you like to move some of the items from the original transaction to a new transaction?" translator="Original Seed" status="Complete" modifyDate="25.01.2017" istablet="false">Spēlētāji tika pārvietoti uz iepriekš neieslēgtu celiņu. Vai vēlaties pārvietot daļu produktu no oriģinālās transakcijas uz jaunā celiņa transakciju?</string>
-    <string name="You have thrown an unsequenced ball" translator="jk" status="Review" modifyDate="2016.05.05." istablet="false">Jūsu metiens netika ieskaitīts!!!</string>
-    <string name="You must have at least 1 product in a package. Please add another product to this package before attempting to remove this product again." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">You must have at least 1 product in a package. Please add another product to this package before attempting to remove this product again.</string>
-    <string name="You will lose your scores if you continue. Are you sure?" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="true">Jūs zaudēsiet jūsu spēļu rezultātus ja turpināsiet. Vai esat pārliecināts?</string>
-    <string name="You will not be able to cancel out of this process once it starts. Are you sure?" translator="jk" status="Complete" modifyDate="2016.05.04." istablet="false">Procesu nebūs iespējams atcelt līdz ko tas sāksies. Vai esat pārliecināts?</string>
-    <string name="You! Could! Go! All! The! Way!" translator="Original Seed" status="Complete" modifyDate="2016.05.05." istablet="false">Tu! Varētu! Vēl! Labāk!</string>
-    <string name="Your request has been sent." translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">Jūsu pieprasījums tika nosūtīts.</string>
-    <string name="Youth" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Jaunietis</string>
     <string name="Zone" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Zona</string>
     <string name="Zone Configuration" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Zonas Konfigurācija</string>
     <string name="Zone Name" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Zonas nosaukums</string>
