@@ -568,7 +568,7 @@
     <string name="Change Rental Expiration Date" translator="jk" status="Complete" modifyDate="2016.08.31." istablet="false">Mainīt īres resursa derīguma termiņu</string>
     <string name="Change Renter of Rented Locker" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Mainīt īrnieku vai izīrēto skapīti</string>
     <string name="Change Reservation" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Mainīt rezervāciju</string>
-    <string name="Change Returned" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Izdots atlikums</string>
+    <string name="Change Returned" translator="jk" status="Complete" modifyDate="07.02.2017" istablet="false">Izdot atlikumu:</string>
     <string name="Change Scoring Mode" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Punktu Skaitīšanas Veids</string>
     <string name="Change Tab Owner" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Nomainīt Kvīts Īpašnieku</string>
     <string name="Change Tablet Password" translator="jk" status="Complete" modifyDate="17.08.2016" istablet="false">Nomainīt Planšetes Paroli</string>
@@ -617,7 +617,7 @@
     <string name="Citizen S2000 (Japan)" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Citizen S2000 (Japan)</string>
     <string name="City" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Pilsēta</string>
     <string name="City:" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Pilsēta:</string>
-    <string name="Cleaning Up Old Active Guest Lists" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Cleaning Up Old Active Guest Lists</string>
+    <string name="Cleaning Up Old Active Guest Lists" translator="jk" status="Complete" modifyDate="07.02.2017" istablet="false">Dzēš vecos, aktīvos viesu sarakstus</string>
     <string name="Cleaning Up Old Reservations" translator="jk" status="Complete" modifyDate="2016.08.18." istablet="false">Tiek dzēstas vecās rezervācijas</string>
     <string name="Cleaning Up Old ROP Tickets" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Dzēša vecos APP pasūtījumus</string>
     <string name="clear" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">notīrīt</string>
@@ -896,7 +896,7 @@ Atskaitīšana</string>
     <string name="Default Enable Pay by Bowler" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Pēc noklusējuma iespējot maksāšanu par spēlētāju</string>
     <string name="Default Method" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Noklusējuma metode</string>
     <string name="Default Name" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Noklusējuma nosaukums</string>
-    <string name="Default Payment Method" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Noklusējuma maksāšanas metode</string>
+    <string name="Default Payment Method" translator="jk" status="Complete" modifyDate="07.02.2017" istablet="false">Ar noklusējuma maksāšanas metodi</string>
     <string name="Default Per Guest" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Pēc noklusējuma par viesi</string>
     <string name="Default Per Lane" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Pēc noklusējuma par celiņu</string>
     <string name="Default Per Pair" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Pēc noklusējuma par pāri</string>
@@ -1875,7 +1875,7 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="You have moved players to a lane that was already issued.  Would you like to move some of the items from the original transaction to the transaction on the new lane?" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Spēlētāji tika pārvietoti uz jau ieslēgtu celiņu. Vai vēlaties pārvietot daļu produktu no oriģinālās transakcijas uz jaunā celiņa transakciju?</string>
     <string name="You have moved players to a lane that was previously off.  Would you like to move some of the items from the original transaction to a new transaction?" translator="Original Seed" status="Complete" modifyDate="25.01.2017" istablet="false">Spēlētāji tika pārvietoti uz iepriekš neieslēgtu celiņu. Vai vēlaties pārvietot daļu produktu no oriģinālās transakcijas uz jaunā celiņa transakciju?</string>
     <string name="You have thrown an unsequenced ball" translator="jk" status="Review" modifyDate="2016.05.05." istablet="false">Jūsu metiens netika ieskaitīts!!!</string>
-    <string name="You must have at least 1 product in a package. Please add another product to this package before attempting to remove this product again." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">You must have at least 1 product in a package. Please add another product to this package before attempting to remove this product again.</string>
+    <string name="You must have at least 1 product in a package. Please add another product to this package before attempting to remove this product again." translator="jk" status="Complete" modifyDate="07.02.2017" istablet="false">Komplektā jābūt vismaz vienam produktam. Lūdzu pievienojiet citu produktu, pirms mēģinat dzēst šo produktu atkārtoti.</string>
     <string name="You will lose your scores if you continue. Are you sure?" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="true">Jūs zaudēsiet jūsu spēļu rezultātus ja turpināsiet. Vai esat pārliecināts?</string>
     <string name="You will not be able to cancel out of this process once it starts. Are you sure?" translator="jk" status="Complete" modifyDate="2016.05.04." istablet="false">Procesu nebūs iespējams atcelt līdz ko tas sāksies. Vai esat pārliecināts?</string>
     <string name="You! Could! Go! All! The! Way!" translator="Original Seed" status="Complete" modifyDate="2016.05.05." istablet="false">Tu! Varētu! Vēl! Labāk!</string>
@@ -1896,7 +1896,7 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="just threw" translator="jk" status="Complete" modifyDate="22.01.2017" istablet="false">tikko uzmeta</string>
     <string name="Just threw a PERFECT GAME" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">PERFEKTA SPĒLE</string>
     <string name="Katakana (20290)" translator="Original Seed" status="Review" modifyDate="8/17/2016" istablet="false">Katakana (20290)</string>
-    <string name="Keep Drawer Closed" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Paturēt Kases Lādi Aizvērtu</string>
+    <string name="Keep Drawer Closed" translator="jk" status="Complete" modifyDate="07.02.2017" istablet="false">Paturēt kases lādi aizvērtu</string>
     <string name="Keep Open After Full Payment" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Paturēt atvērtu pēc pilnas apmaksas saņemšanas</string>
     <string name="Keep Original Issued Rate" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Paturēt ieslēgšanas tarifu</string>
     <string name="Keep Transaction Open After Full Payment" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Paturēt Tranasakciju atvērtu pēc pilnas apmaksas saņemšanas</string>
@@ -3903,9 +3903,9 @@ priekšskatījums</string>
     <string name="This will immediately reduce the amount remaining on the lane or turn it off if all remaining bowling was refunded.  Are you sure you want to continue?" translator="jk" status="Complete" modifyDate="2016.05.20." istablet="false">Šī darbība nekavējoties samazinās uz celiņa pieejamo laiku/spēles vai izslēgs celiņu pavisam ja tiks atgriezts viss atlikušais boulings. Vai vēlaties turpināt?</string>
     <string name="This will immediately reduce the amount remaining on the rental unit or turn it off if all remaining usage was refunded.  Are you sure you want to continue?" translator="jk" status="Review" modifyDate="2016.05.20." istablet="false">Šī darbība nekavējoties samazinās pieejamo laiku izīrētajai vienībai vai izslēgs to pavisam ja tiks atgriezts viss atlikušais daudzums. Vai vēlaties turpināt?</string>
     <string name="This will permanently close out all credit, debit, and gift transactions for this terminal and may take some time.  Are you sure you want to continue?" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">This will permanently close out all credit, debit, and gift transactions for this terminal and may take some time.  Are you sure you want to continue?</string>
-    <string name="This will permanently delete the account and all of its activity records.  Are you sure you want to do this?" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">This will permanently delete the account and all of its activity records.  Are you sure you want to do this?</string>
-    <string name="This will permanently delete the Account Category, all attached accounts, and all of the activity records for those accounts.  Are you sure you want to do this?" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">This will permanently delete the Account Category, all attached accounts, and all of the activity records for those accounts.  Are you sure you want to do this?</string>
-    <string name="This will permanently delete the accounts and all of their activity records.  Are you sure you want to do this?" translator="Original Seed" status="New" modifyDate="8/17/2016" istablet="false">This will permanently delete the accounts and all of their activity records.  Are you sure you want to do this?</string>
+    <string name="This will permanently delete the account and all of its activity records.  Are you sure you want to do this?" translator="jk" status="Complete" modifyDate="07.02.2017" istablet="false">Ar šo neatgriezeniski tiks dzēsts konts un visa ar tiem saistītās darbības. Vai tiešām vēlaties veikt šo darbību?</string>
+    <string name="This will permanently delete the Account Category, all attached accounts, and all of the activity records for those accounts.  Are you sure you want to do this?" translator="kl" status="Complete" modifyDate="07.02.2017" istablet="false">Ar šo neatgriezeniski tiks dzēsta kontu kategorija, visi ar to saistītie konti un visa ar tiem saistītās darbības. Vai tiešām vēlaties veikt šo darbību?</string>
+    <string name="This will permanently delete the accounts and all of their activity records.  Are you sure you want to do this?" translator="jk" status="Complete" modifyDate="07.02.2017" istablet="false">Ar šo neatgriezeniski tiks dzēsts konts(i) un visa ar tiem saistītās darbības. Vai tiešām vēlaties veikt šo darbību?</string>
     <string name="This will put every lane in the center into emergency.  Are you sure you want to continue?" translator="jk" status="Complete" modifyDate="2016.05.20." istablet="false">Šī darbība pārslēgs visas iekārtas Avārijas režīmā. Vai esat pārliecināts(a) ka vēlaties turpināt?</string>
     <string name="This will set the password for all tablets that are currently running. Any tablet that is not running will not be affected by this change. Are you sure?" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Ar šo darbību tiks mainīta parole visām strādājošajām planšetēm. Tās planšetes, kas nestrādā, šīs izmaiņas neietekmēs. Vai vēlaties turpināt?</string>
     <string name="Threaded Auth Started Expect Response Event (Note it is possible the event could fire before the function returns.)" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Threaded Auth Started Expect Response Event (Note it is possible the event could fire before the function returns.)</string>
@@ -4238,7 +4238,7 @@ priekšskatījums</string>
     <string name="Void Stored Value Sales/Payments" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Anulēt elektroniskās kartes maksājumus/pārdošanu</string>
     <string name="Voided" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Anulēts</string>
     <string name="Voided Items" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Anulētie produkti</string>
-    <string name="Voids Require the Voided Card" translator="Original Seed" status="New" modifyDate="1/3/2017" istablet="false">Voids Require the Voided Card</string>
+    <string name="Voids Require the Voided Card" translator="jk" status="Review" modifyDate="07.02.2017" istablet="false">Atceltajiem maksājumiem ir nepieciešama atceltā karte</string>
     <string name="Voip Client" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">VOIP Klients</string>
     <string name="Vol -" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Skaņa -</string>
     <string name="Vol +" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Skaņa +</string>
@@ -4286,7 +4286,7 @@ priekšskatījums</string>
     <string name="Which transaction would you like to open?" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Kuras transakcijas jūs vēlaties atvērt?</string>
     <string name="Wide Layout Pages" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Plata izkārtojuma paneļi</string>
     <string name="Width" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Platums</string>
-    <string name="Wild" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Wild</string>
+    <string name="Wild" translator="jk" status="Complete" modifyDate="07.02.2017" istablet="false">Mežonīgs</string>
     <string name="Win Message" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Ziņa uzvaras gadījumā</string>
     <string name="WinBEBBS" translator="Original Seed" status="Review" modifyDate="8/17/2016" istablet="false">WinBEBBS</string>
     <string name="Winner Winner Turkey Dinner" translator="jk" status="Complete" modifyDate="2016.05.05." istablet="false">Svētā Straiku Trīsvienība</string>

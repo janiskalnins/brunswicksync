@@ -1,0 +1,12 @@
+Need definition:
+
+Allow Overtender
+Maximum Overtender
+Lane Status Lane Useage By Game Display Mode
+
+
+
+Correction: Modifikatoram = apjoms (amount), bet vajadzētu cenu (price)
+
+ADD TO XML (make translatable):
+Please enter the email address
