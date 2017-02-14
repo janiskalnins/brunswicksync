@@ -226,7 +226,7 @@
     <string name="Application is already running" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Lietotne jau darbojas</string>
     <string name="Application Log" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Lietotņu Žurnālfaili</string>
     <string name="Application Log Clear Date" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Lietotņu žurnālfaila iztīrīšanas datums</string>
-    <string name="Application Log Cleared" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Lietotņu žurnālfails iztīrīts</string>
+    <string name="Application Log Cleared" translator="jk" status="Complete" modifyDate="14.02.2017" istablet="false">Lietotņu žurnālfails dzēsts</string>
     <string name="Application Log Entry Details" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Lietotnes žurnāla ierakstu detaļas</string>
     <string name="Application Type" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Piemērošanas veids</string>
     <string name="Applied Before Taxes" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Piemērots pirms nodokļiem</string>
@@ -621,12 +621,12 @@
     <string name="Cleaning Up Old Reservations" translator="jk" status="Complete" modifyDate="2016.08.18." istablet="false">Tiek dzēstas vecās rezervācijas</string>
     <string name="Cleaning Up Old ROP Tickets" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Dzēša vecos APP pasūtījumus</string>
     <string name="clear" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">notīrīt</string>
-    <string name="Clear" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Notīrīt</string>
+    <string name="Clear" translator="jk" status="Complete" modifyDate="14.02.2017" istablet="false">Dzēst</string>
     <string name="CLEAR" translator="JK" status="Complete" modifyDate="2016.05.02." istablet="true">notīrīt</string>
     <string name="Clear All" translator="jk" status="Complete" modifyDate="2016.08.18." istablet="false">Nevienu</string>
-    <string name="Clear Application Log" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Iztīrīt lietotņu žurnālfailu</string>
+    <string name="Clear Application Log" translator="jk" status="Complete" modifyDate="14.02.2017" istablet="false">Dzēst lietotņu žurnālfailu</string>
     <string name="Clear Assigned Gratuity" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Clear Assigned Gratuity</string>
-    <string name="Clear Current Batch" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Notīrīt tekošo Pakešu apstrādes sarakstu</string>
+    <string name="Clear Current Batch" translator="jk" status="Complete" modifyDate="14.02.2017" istablet="false">Dzēst tekošo Pakešu apstrādes sarakstu</string>
     <string name="Clear Filters" translator="jk" status="Complete" modifyDate="2016.08.18." istablet="false">Nodzēst filtrus</string>
     <string name="Clear Lane Numbers" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Nodzēst celiņu numurus</string>
     <string name="Clear Lanes" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Nodzēst celiņus</string>
@@ -2786,6 +2786,7 @@ katram</string>
     <string name="Please Close The Drawer" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Aizvērt kases lādi</string>
     <string name="Please enter a description:" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Lūdzu ievadīt aprakstu:</string>
     <string name="Please enter the account PIN" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Lūdzu ievadiet konta PIN kodu</string>
+    <string name="Please enter the email address" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Lūdzu ievadiet e-pasta adresi</string>
     <string name="Please enter the instance name:" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Lūdzu ievadiet instances nosaukumu:</string>
     <string name="Please enter the new name for the copied product." translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Lūdzu ievadiet kopētā produkta jauno nosaukumu</string>
     <string name="Please enter the server's computer name:" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Lūdzu ievadiet servera datora nosaukumu</string>
@@ -3739,6 +3740,7 @@ priekšskatījums</string>
     <string name="Thai (874)" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Thai (874)</string>
     <string name="Thanks for calling. We're on our way" translator="jk" status="Complete" modifyDate="2016.05.14." istablet="false">Paldies par zvanu. Mēs esam jau ceļā!</string>
     <string name="The Active Manifest has changed." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">The Active Manifest has changed.</string>
+    <string name="The backup operation was successful." translator="jk" status="Complete" modifyDate="14.02.2017" istablet="false">Rezerves kopijas izveide noritēja veiksmīgi.</string>
     <string name="The Buzz" translator="Original Seed" status="Complete" modifyDate="4/26/2016" istablet="true">The Buzz</string>
     <string name="The Buzz (Candle Pin)" translator="Original Seed" status="Complete" modifyDate="4/26/2016" istablet="true">The Buzz (Candle Pin)</string>
     <string name="The Buzz (Five Pin)" translator="Original Seed" status="Review" modifyDate="8/17/2016" istablet="false">The Buzz (Five Pin)</string>
@@ -3792,7 +3794,7 @@ priekšskatījums</string>
     <string name="The number of pages to show in the rotation." translator="jk" status="Complete" modifyDate="13.02.2017" istablet="false">Attēlojamo lppušu skaits celiņu maiņā</string>
     <string name="The numbers don’t lie! Stat King combines the fun of open play experience with the intensity of league play. Packed with stats for competitive bowlers looking to improve their game or brag it up with friends. Let’s get rolling!" translator="jk" status="Complete" modifyDate="2016.05.04." istablet="true">Šie skaitļi nemelo! Stats King apvieno ikdienas spēles jautrību ar sacensību spriedzi.  Grafika pārpildīta ar statistisku informāciju azartiskiem spēlētājiem, kas vēlas uzlabot savu sniegumu vai palielīties draugiem. Uzripinam?!</string>
     <string name="The offer type is not recognized." translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Īpašā Piedāvājuma veids nav atpazīts.</string>
-    <string name="The other lane is in use" translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="false">The other lane is in use</string>
+    <string name="The other lane is in use" translator="jk" status="Complete" modifyDate="14.02.2017" istablet="false">Mākošais maiņas celiņš šobrīd ir lietošanā</string>
     <string name="The payment was successfully voided." translator="jk" status="Complete" modifyDate="13.02.2017" istablet="false">Maksājums tika veiksmīgi anulēts</string>
     <string name="The payments listed below are still pending gratuity assignment.  If you continue, you will not be able to add a gratuity to these transactions.  Do you want to continue?" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">The payments listed below are still pending gratuity assignment.  If you continue, you will not be able to add a gratuity to these transactions.  Do you want to continue?</string>
     <string name="The payments listed below are still pending gratuity assignment.  You must assign a gratuity, even if it is zero, for these transactions before proceeding." translator="Original Seed" status="Review" modifyDate="8/17/2016" istablet="false">The payments listed below are still pending gratuity assignment.  You must assign a gratuity, even if it is zero, for these transactions before proceeding.</string>
@@ -3835,6 +3837,7 @@ priekšskatījums</string>
     <string name="There are potential reservation conflicts" translator="jk" status="Complete" modifyDate="2016.08.18." istablet="false">Iespējams te ir rezervāciju konflikts</string>
     <string name="there is an update available" translator="jk" status="Complete" modifyDate="2016.04.30." istablet="true">ir pieejami jauninājumi</string>
     <string name="There is more than one terminal in the system with this name" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Sistēmā ir vairāk nekā viens terminālis ar šādu nosaukumu</string>
+    <string name="There is no open transaction associated with the selected lane(s)." translator="jk" status="Complete" modifyDate="14.02.2017" istablet="false">Sistēmā nav neaizvērtu transakciju, kas būtu saistītas ar šo celiņu (celiņiem)</string>
     <string name="There was a problem refreshing the campaign information" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Radās problēma atsvaidzinot Kampaņu informāciju</string>
     <string name="There was a problem refreshing the cloud campaign information" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Radās kļūda atsvaidzinot Mākoņa Kampaņu informāciju</string>
     <string name="There was an error importing the data.  Please make sure all files are in the correct format.  Do you want to see additional error information?" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Radās kļūda importējot datus. Lūdzu pārliecināties ka visi faili ir atbalstītā formātā. Vai vēlaties skatīt papildinformāciju par radušos kļūdu?</string>
