@@ -1330,6 +1330,7 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Export Scores" translator="jk" status="Complete" modifyDate="2016.05.14." istablet="false">Eksportēt Rezultātus</string>
     <string name="Export Success" translator="jk" status="Complete" modifyDate="2016.05.14." istablet="false">Eksports Veiksmīgs</string>
     <string name="Export Successful" translator="jk" status="Complete" modifyDate="2016.05.14." istablet="false">Eksports Veiksmīgs</string>
+    <string name="Export successful." translator="jk" status="Complete" modifyDate="2016.05.14." istablet="false">Eksports Veiksmīgs</string>
     <string name="Export To File" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Eksportēt uz failu</string>
     <string name="Extend" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Pagarināt</string>
     <string name="Extend Lane(s)" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Pagarināt celiņu(s)</string>
@@ -1516,7 +1517,7 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Global API Not Initialized" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Global API Not Initialized</string>
     <string name="Global Audio" translator="jk" status="Complete" modifyDate="2016.05.14." istablet="false">Audio Vadība</string>
     <string name="Global Response Length Error (Too Short)" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Global Response Length Error (Too Short)</string>
-    <string name="Global String Error" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Global String Error</string>
+    <string name="Global String Error" translator="jk" status="Complete" modifyDate="15.02.2017" istablet="false">Vispārējā rindas kļūda</string>
     <string name="Global Video 1" translator="Original Seed" status="Complete" modifyDate="23.01.2017" istablet="false">Video 1</string>
     <string name="Global Video 2" translator="Original Seed" status="Complete" modifyDate="23.01.2017" istablet="false">Video 2</string>
     <string name="Good Shot!" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Labs metiens!</string>
@@ -1666,9 +1667,9 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="If you edit the existing modifiers, all adjustments applied directly to modifiers will be deleted.  Are you sure you want to continue?" translator="Original Seed" status="Complete" modifyDate="01.02.2017" istablet="false">Ja rediģēsiet esošos modifikatorus, visas modifikatoriem tieši piemērotās korekcijas tiks dzēstas. Vai tiešām vēlaties turpināt?</string>
     <string name="If you have an open batch, running this command may remove all items from the batch.  Are you sure you want to continue?" translator="jk" status="Review" modifyDate="01.02.2017" istablet="false">Pakešu apstrādes (-----)</string>
     <string name="If you run the report in View mode, then you can open certain items to view additional transaction details." translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Ja atvērsiet atskaiti Skatīšanas režīmā, jūs varēsiet atvērt noteiktus ierakstus lai skatītu transakciju papildus detaļas.</string>
-    <string name="If used, any transaction that can be assigned a gratuity must be assigned a gratuity. Only use if instructed by Brunswick to do so." translator="Original Seed" status="New" modifyDate="8/17/2016" istablet="false">If used, any transaction that can be assigned a gratuity must be assigned a gratuity. Only use if instructed by Brunswick to do so.</string>
+    <string name="If used, any transaction that can be assigned a gratuity must be assigned a gratuity. Only use if instructed by Brunswick to do so." translator="Original Seed" status="Review" modifyDate="8/17/2016" istablet="false">If used, any transaction that can be assigned a gratuity must be assigned a gratuity. Only use if instructed by Brunswick to do so.</string>
     <string name="If used, client computers must be left on and logged in, but can be locked." translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Ja tiek izmantots, klienta datoriem ir jābūt ieslēgtiem un atvērtu pieteikšanos, bet tie var būt slēgti.</string>
-    <string name="If used, you will need the original card used in order to void a sale/return. Only use if instructed by Brunswick to do so." translator="Original Seed" status="New" modifyDate="8/17/2016" istablet="false">If used, you will need the original card used in order to void a sale/return. Only use if instructed by Brunswick to do so.</string>
+    <string name="If used, you will need the original card used in order to void a sale/return. Only use if instructed by Brunswick to do so." translator="Original Seed" status="Review" modifyDate="8/17/2016" istablet="false">If used, you will need the original card used in order to void a sale/return. Only use if instructed by Brunswick to do so.</string>
     <string name="Image In Use" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Šobrīd izmantotais attēls</string>
     <string name="Images" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Attēli</string>
     <string name="Import" translator="jk" status="Review" modifyDate="18.01.2017" istablet="false">Imports</string>
@@ -1683,7 +1684,7 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Imported Data" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Importētie dati</string>
     <string name="in a row!" translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">straikus pēc kārtas!</string>
     <string name="In Game" translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">Spēļu Laikā</string>
-    <string name="In Process with server" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">In Process with server</string>
+    <string name="In Process with server" translator="jk" status="Complete" modifyDate="15.02.2017" istablet="false">Procesā ar serveri</string>
     <string name="Inactive" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Neaktīvs</string>
     <string name="Inactivity Timeout" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Neaktivitātes noildze</string>
     <string name="Include Departments" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Iekļaut Nodaļas</string>
@@ -1945,7 +1946,7 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Lane Service Request Pending" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="false">Celiņa pieprasījums gaida darbību</string>
     <string name="Lane Settings" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Celiņu parametri</string>
     <string name="Lane Status Error" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Celiņu stāvokļa kļūda</string>
-    <string name="Lane Status Lane Useage By Game Display Mode" translator="Original Seed" status="New" modifyDate="1/3/2017" istablet="false">Lane Status Lane Useage By Game Display Mode</string>
+    <string name="Lane Status Lane Useage By Game Display Mode" translator="jk" status="Complete" modifyDate="15.02.2017" istablet="false">Spēļu statusa attēlojums</string>
     <string name="Lane Transferred" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Celiņš Pārcelts</string>
     <string name="Lane Turn Off No Refund" translator="jk" status="Complete" modifyDate="2016.05.20." istablet="false">Izslēgt Celiņu, Neatgriezt </string>
     <string name="Lane Turn Off Pay Later" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Celiņš izslēgts - maksāt vēlāk</string>
@@ -2223,7 +2224,7 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Materials" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Materiāli</string>
     <string name="Max Amount:" translator="jk" status="Complete" modifyDate="13.02.2017" istablet="false">Maksimālais apjoms:</string>
     <string name="Max Capacity" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Maksimālā Kapacitāte</string>
-    <string name="Max Charge" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Maksimālā ∑</string>
+    <string name="Max Charge" translator="jk" status="Complete" modifyDate="15.02.2017" istablet="false">Maksimālā konta (negatīvā) summa</string>
     <string name="Max Debit Cash Back" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Max Debit Cash Back</string>
     <string name="Max Players Per Lane" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Maksimālais spēlētāju skaits uz celiņa</string>
     <string name="Max Tab Amount" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Maksimālā kvīts summa</string>
@@ -2791,6 +2792,7 @@ katram</string>
     <string name="Please enter the new name for the copied product." translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Lūdzu ievadiet kopētā produkta jauno nosaukumu</string>
     <string name="Please enter the server's computer name:" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Lūdzu ievadiet servera datora nosaukumu</string>
     <string name="Please enter the server's IP address:" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Lūdzu ievadīt servera datora IP adresi:</string>
+    <string name="Please input the guest's email address" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Lūdzu ievadiet klienta e-pasta adresi</string>
     <string name="Please make sure the Desk application is closed before proceeding.  This operation may take some time to complete." translator="jk" status="Complete" modifyDate="2016.08.25." istablet="false">Pirms turpināt, lūdzu pārliecināties ka Operatoru Lietotne (Desk) ir aizvērta. Šai darbībai ir nepieziešams laiks lai pabeigtu visas operācijas.</string>
     <string name="Please run Office on the server to install updates" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Lūdzu palaist atjauninājumu uzstādīšanu no Ofisa lietotnes uz Servera datora</string>
     <string name="Please scan the barcode now." translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Tagad skenējiet svītrukodu</string>
