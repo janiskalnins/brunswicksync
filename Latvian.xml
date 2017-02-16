@@ -389,7 +389,7 @@
     <string name="Banking Wizard" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Kases vednis</string>
     <string name="base" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">bāze</string>
     <string name="Base" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Bāze</string>
-    <string name="base handicap score" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="true">hdkp bāzes rezultāts</string>
+    <string name="base handicap score" translator="jk" status="Complete" modifyDate="16.02.2017" istablet="true">hdkp bāze</string>
     <string name="Base Product" translator="jk" status="Review" modifyDate="01.02.2017" istablet="false">Bāzes produkts</string>
     <string name="Batch Balance" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Pakešu apstrādes bilance</string>
     <string name="Batch Detail" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Pakešu apstrādes detaļas</string>
@@ -2231,7 +2231,7 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Maximize Usage Multiple" translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="false">Maximize Usage Multiple</string>
     <string name="Maximize Usage Single" translator="Original Seed" status="New" modifyDate="1/31/2017" istablet="false">Maximize Usage Single</string>
     <string name="Maximum" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Maksimums</string>
-    <string name="maximum handicap" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="true">maks. hdkp</string>
+    <string name="maximum handicap" translator="jk" status="Complete" modifyDate="16.02.2017" istablet="true">maksimālais hdkp</string>
     <string name="Maximum number of guests exceeded" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Ir pārsniegts maksimālais viesu skaits</string>
     <string name="Maximum Overtender" translator="jk" status="Complete" modifyDate="13.02.2017" istablet="false">Maksimālā saņemšanas summa</string>
     <string name="Mechanic" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Mehāniķis</string>
@@ -3248,15 +3248,15 @@ priekšskatījums</string>
     <string name="Scoring Service" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Rezultātu skaitīšanas serviss</string>
     <string name="Scoring Settings" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Rezultātu Uzskaites parametri</string>
     <string name="Scoring Tablet" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Konsole - Planšete</string>
-    <string name="scratch" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="true">rez.</string>
-    <string name="Scratch" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="true">Rez.</string>
-    <string name="Scratch average" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="true">Rez. Vidējais</string>
-    <string name="Scratch avg." translator="jk" status="Complete" modifyDate="2016.05.02." istablet="false">Rez. Vid.</string>
+    <string name="scratch" translator="jk" status="Complete" modifyDate="16.02.2017" istablet="true">bez hdkp</string>
+    <string name="Scratch" translator="jk" status="Complete" modifyDate="16.02.2017" istablet="true">Bez hdkp</string>
+    <string name="Scratch average" translator="jk" status="Complete" modifyDate="16.02.2017" istablet="true">Rez. Vidējais bez hdkp</string>
+    <string name="Scratch avg." translator="jk" status="Complete" modifyDate="16.02.2017" istablet="false">Vid. rezultāts bez hdkp</string>
     <string name="Scratch Leaderboard" translator="jk" status="Complete" modifyDate="2016.05.03." istablet="false">Rezultātu līderu sar.</string>
     <string name="scratch leaders" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="false">rezultātu līderi</string>
-    <string name="scratch total" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="false">rez. summa</string>
-    <string name="Scratch total" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="true">Rez. summa</string>
-    <string name="Scratch Total" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="false">Rez. Summa</string>
+    <string name="scratch total" translator="jk" status="Complete" modifyDate="16.02.2017" istablet="false">rez. summa bez hdkp</string>
+    <string name="Scratch total" translator="jk" status="Complete" modifyDate="16.02.2017" istablet="true">Rez. summa bez hdkp</string>
+    <string name="Scratch Total" translator="jk" status="Complete" modifyDate="16.02.2017" istablet="false">Rez. Summa bez hdkp</string>
     <string name="Screenshot" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Ekrānuzņēmums</string>
     <string name="Search" translator="jk" status="Complete" modifyDate="27.05.2016" istablet="false">Meklēt</string>
     <string name="Search For Reservations" translator="jk" status="Complete" modifyDate="03.06.2016" istablet="false">Meklēt rezervācijas</string>
