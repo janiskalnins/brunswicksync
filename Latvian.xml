@@ -92,7 +92,7 @@
     <string name="Account Total" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Konta Summa</string>
     <string name="Account Wizard" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Konta vednis</string>
     <string name="Accounts" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Konti</string>
-    <string name="ACCOUNTS/BANKING" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">KONTI/KASE</string>
+    <string name="ACCOUNTS/BANKING" translator="jk" status="Complete" modifyDate="16.02.2017" istablet="false">KONTI / KASE</string>
     <string name="Achieve Greatness...Check" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Sasniegt Diženumu...darīts</string>
     <string name="Achievements" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Sasniegumi</string>
     <string name="Acknowledgement" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">Apliecinājums</string>
@@ -1207,7 +1207,7 @@ Atskaitīšana</string>
     <string name="Ended by Owner" translator="jk" status="Complete" modifyDate="13.02.2017" istablet="false">Īpašnieka noslēgts</string>
     <string name="Ended by Terminal" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Noslēgts uz Termināļa</string>
     <string name="Ending Fiscal Date" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Fiskālais beigu datums</string>
-    <string name="Ending Games Bowled" translator="Original Seed" status="New" modifyDate="8/17/2016" istablet="false">Ending Games Bowled</string>
+    <string name="Ending Games Bowled" translator="jk" status="Complete" modifyDate="16.02.2017" istablet="false">Izspēlētās spēles beigās</string>
     <string name="Ending Games Purchased" translator="Original Seed" status="New" modifyDate="8/17/2016" istablet="false">Ending Games Purchased</string>
     <string name="Ending Games Remaining" translator="Original Seed" status="New" modifyDate="8/17/2016" istablet="false">Ending Games Remaining</string>
     <string name="Ending Message" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Beigu ziņa</string>
@@ -1471,14 +1471,14 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="games" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">spēles</string>
     <string name="Games" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Spēles</string>
     <string name="Games Assigned:" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Games Assigned:</string>
-    <string name="Games Bowled by Transferring Players" translator="jk" status="Complete" modifyDate="16.02.2017" istablet="false">Pārcelto spēlētāju izspēlētās spēles </string>
+    <string name="Games Bowled by Transferring Players" translator="jk" status="Complete" modifyDate="16.02.2017" istablet="false">Pārceļamo spēlētāju izspēlētās spēles </string>
     <string name="Games Bowled:" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Izspēlētās spēles:</string>
-    <string name="Games Currently at Source" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Games Currently at Source</string>
+    <string name="Games Currently at Source" translator="jk" status="Complete" modifyDate="16.02.2017" istablet="false">Pašreizējais spēļu daudzums uz sākotnējā celiņa</string>
     <string name="Games each" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Spēles katram</string>
     <string name="Games Enabled" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Spēles iespējotas</string>
     <string name="Games Per Guest" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Spēles katram viesim</string>
-    <string name="Games Remaining at Source" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Games Remaining at Source</string>
-    <string name="Games Remaining for Transferring Players" translator="Original Seed" status="New" modifyDate="8/17/2016" istablet="false">Games Remaining for Transferring Players</string>
+    <string name="Games Remaining at Source" translator="jk" status="Complete" modifyDate="16.02.2017" istablet="false">Atlikušais spēļu daudzums uz sākotnējā celiņa</string>
+    <string name="Games Remaining for Transferring Players" translator="jk" status="Complete" modifyDate="16.02.2017" istablet="false">Atlikušās spēles pārceļamajiem spēlētājiem</string>
     <string name="Games Remaining:" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Atlikušās spēles:</string>
     <string name="Games to Transfer" translator="jk" status="Complete" modifyDate="2016.08.18." istablet="false">Pārcelt spēles</string>
     <string name="Games/Player:" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Spēles/Spēlētājs:</string>
@@ -2314,11 +2314,16 @@ katram</string>
     <string name="Monthly By Date" translator="jk" status="Complete" modifyDate="26.05.2016" istablet="false">Ik Mēnesi, pēc datuma</string>
     <string name="More" translator="jk" status="Complete" modifyDate="17.08.2016" istablet="false">Vairāk Rīku</string>
     <string name="more options" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">vairāk iespēju</string>
+    <string name="Move All" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Pārvietot visu</string>
     <string name="Move Down" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Pārvietot uz Leju</string>
     <string name="Move Items" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Pārvietot Rindas</string>
     <string name="Move Items Between Tabs" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Pārvietot Rindu Vienības starp Kvītīm</string>
+    <string name="Move Lane/Rental Unit" translator="jk" status="Complete" modifyDate="16.02.2017" istablet="false">Pārvietot celiņu/īres resursu</string>
+    <string name="Move Number" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Pārvietot skaitu</string>
+    <string name="Move One" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Pārvietot vienu</string>
     <string name="Move pair to the left &lt;&lt;--&lt;&lt;" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Pārvietot pāri pa kreisi &lt;&lt;--&lt;&lt;</string>
     <string name="Move pair to the right &gt;&gt;--&gt;&gt;" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Pārvietot pāri pa labi &gt;&gt;--&gt;&gt;</string>
+    <string name="Move Percentage" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Pārvietot procentuāli</string>
     <string name="Move Process" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Pārvietot Procesus</string>
     <string name="move score" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">pārvietot rezultātu</string>
     <string name="Move single lane to the left &lt;-&lt;" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Pārvietot vienu celiņu pa kreisi &lt;&lt;</string>
@@ -2930,8 +2935,8 @@ priekšskatījums</string>
     <string name="Proxy Path" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Starpniekserveris</string>
     <string name="Proxy User" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Starpniekservera lietotājs</string>
     <string name="Purchased Games" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Apmaksātās spēles</string>
-    <string name="Purchased Games at Source" translator="Original Seed" status="New" modifyDate="8/17/2016" istablet="false">Purchased Games at Source</string>
-    <string name="Purchased Games to Transfer" translator="Original Seed" status="New" modifyDate="8/17/2016" istablet="false">Purchased Games to Transfer</string>
+    <string name="Purchased Games at Source" translator="jk" status="Complete" modifyDate="16.02.2017" istablet="false">Nopirktās spēles uz sākotnējā celiņa</string>
+    <string name="Purchased Games to Transfer" translator="jk" status="Complete" modifyDate="16.02.2017" istablet="false">Noirktās spēles pārcelšanai</string>
     <string name="Purchased Time" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Apmaksātais laiks</string>
     <string name="Purge" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Dzēst</string>
     <string name="Purge Old Transactions" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Dzēst vecās transakcijas</string>
@@ -3532,7 +3537,7 @@ priekšskatījums</string>
     <string name="Sort by Transaction" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Kārtot pēc transakcijas</string>
     <string name="Sort Order" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Kārtas numurs</string>
     <string name="Sort: " translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Kārtot:</string>
-    <string name="Source" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Avots</string>
+    <string name="Source" translator="jk" status="Complete" modifyDate="16.02.2017" istablet="false">Sākotnēji</string>
     <string name="Source Device" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Izcelsmes iekārta</string>
     <string name="Source Devices" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Izcelsmes iekārtas</string>
     <string name="Source Lane" translator="jk" status="Complete" modifyDate="2016.08.18." istablet="false">Sākotnējais celiņš</string>
@@ -3597,9 +3602,9 @@ priekšskatījums</string>
     <string name="Started" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Sācies</string>
     <string name="Starting Fiscal Date" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Fiskālais sākuma datums</string>
     <string name="Starting Game" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Sākt Ar spēli Nr.</string>
-    <string name="Starting Games Bowled" translator="Original Seed" status="New" modifyDate="8/17/2016" istablet="false">Starting Games Bowled</string>
-    <string name="Starting Games Purchased" translator="Original Seed" status="New" modifyDate="8/17/2016" istablet="false">Starting Games Purchased</string>
-    <string name="Starting Games Remaining" translator="Original Seed" status="New" modifyDate="8/17/2016" istablet="false">Starting Games Remaining</string>
+    <string name="Starting Games Bowled" translator="jk" status="Complete" modifyDate="16.02.2017" istablet="false">Izspēlētās spēles uz sākotnējā celiņa</string>
+    <string name="Starting Games Purchased" translator="jk" status="Complete" modifyDate="16.02.2017" istablet="false">Nopirktās spēles uz sākotnējā celiņa</string>
+    <string name="Starting Games Remaining" translator="jk" status="Complete" modifyDate="16.02.2017" istablet="false">Atlikušās spēles uz sākotnējā celiņa</string>
     <string name="Starting Lane Number" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Sākuma Celiņa Numurs</string>
     <string name="Starting Number" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Sākuma Nr.</string>
     <string name="State/Prov" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Novads</string>
@@ -3717,6 +3722,7 @@ priekšskatījums</string>
     <string name="Ten Pin" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="true">Desmit Ķegļu Boulings</string>
     <string name="Tender Total" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Saņemts kopā</string>
     <string name="Tendered" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Saņemts</string>
+    <string name="TenPin" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="true">Desmit Ķegļu Boulings</string>
     <string name="Terminal" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Terminālis</string>
     <string name="Terminal COM Port" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Termināļa COM Ports</string>
     <string name="Terminal Dispensed" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Terminal Dispensed</string>
@@ -3755,7 +3761,7 @@ priekšskatījums</string>
     <string name="The card could not be found.  This may be because the card has not yet been activated or because the number/swipe was bad." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">The card could not be found.  This may be because the card has not yet been activated or because the number/swipe was bad.</string>
     <string name="The card is currently disabled." translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Karte šobrīd ir bloķēta</string>
     <string name="The card number is invalid.  This may be because it is not a supported card or because the number/swipe was bad." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">The card number is invalid.  This may be because it is not a supported card or because the number/swipe was bad.</string>
-    <string name="The card was not swiped in time." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">The card was not swiped in time.</string>
+    <string name="The card was not swiped in time." translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">The card was not swiped in time.</string>
     <string name="The cool, retro stylings of Schtickman will charm little kids and take adults back to their childhood. Full of distinctive animations that can’t be found anywhere else in the industry." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="true">The cool, retro stylings of Schtickman will charm little kids and take adults back to their childhood. Full of distinctive animations that can’t be found anywhere else in the industry.</string>
     <string name="The coupon has already been used today.  Do you want to allow it to be used anyway?" translator="jk" status="Complete" modifyDate="2016.08.18." istablet="false">Šis kupons šodien jau tika izmantots. Vai jūs vēlaties pieļaut tā atkārtotu izmantošanu?</string>
     <string name="The coupon has expired.  Do you want to allow it to be used anyway?" translator="jk" status="Complete" modifyDate="2016.08.18." istablet="false">Šī kupona derīguma termiņš ir iztecējis. Vai jūs vēlaties pieļaut tā atkārtotu izmantošanu?</string>
@@ -3815,7 +3821,7 @@ priekšskatījums</string>
     <string name="The stored value system could not be contacted.  Please verify that the configuration is correct then retry the transaction." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">The stored value system could not be contacted.  Please verify that the configuration is correct then retry the transaction.</string>
     <string name="The tax table import failed - please verify that the file format is correct." translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">The tax table import failed - please verify that the file format is correct.</string>
     <string name="The tax table import was successful." translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">The tax table import was successful.</string>
-    <string name="The ticket printing timed out.  Do you want to attempt to reprint the ticket or cancel the printing of the ticket?" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">The ticket printing timed out.  Do you want to attempt to reprint the ticket or cancel the printing of the ticket?</string>
+    <string name="The ticket printing timed out.  Do you want to attempt to reprint the ticket or cancel the printing of the ticket?" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">The ticket printing timed out.  Do you want to attempt to reprint the ticket or cancel the printing of the ticket?</string>
     <string name="The transaction does not meet the minimum purchase amount defined on the coupon." translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Transakcija neatbilst minimālajai pirkuma summai, kas ir norādīta kuponā.</string>
     <string name="The transaction was cancelled." translator="jk" status="Complete" modifyDate="2016.05.04." istablet="false">Transakcija tika atcelta</string>
     <string name="The update could not be installed." translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Atjauninājumu nebija iespējams uzstādīt.</string>
@@ -3909,7 +3915,7 @@ priekšskatījums</string>
     <string name="This will erase all other balls in this frame" translator="jk" status="Complete" modifyDate="2016.05.05." istablet="false">Ar šo tiks dzēstas visi metieni šajā rāmī</string>
     <string name="This will immediately reduce the amount remaining on the lane or turn it off if all remaining bowling was refunded.  Are you sure you want to continue?" translator="jk" status="Complete" modifyDate="2016.05.20." istablet="false">Šī darbība nekavējoties samazinās uz celiņa pieejamo laiku/spēles vai izslēgs celiņu pavisam ja tiks atgriezts viss atlikušais boulings. Vai vēlaties turpināt?</string>
     <string name="This will immediately reduce the amount remaining on the rental unit or turn it off if all remaining usage was refunded.  Are you sure you want to continue?" translator="jk" status="Review" modifyDate="2016.05.20." istablet="false">Šī darbība nekavējoties samazinās pieejamo laiku izīrētajai vienībai vai izslēgs to pavisam ja tiks atgriezts viss atlikušais daudzums. Vai vēlaties turpināt?</string>
-    <string name="This will permanently close out all credit, debit, and gift transactions for this terminal and may take some time.  Are you sure you want to continue?" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">This will permanently close out all credit, debit, and gift transactions for this terminal and may take some time.  Are you sure you want to continue?</string>
+    <string name="This will permanently close out all credit, debit, and gift transactions for this terminal and may take some time.  Are you sure you want to continue?" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">This will permanently close out all credit, debit, and gift transactions for this terminal and may take some time.  Are you sure you want to continue?</string>
     <string name="This will permanently delete the account and all of its activity records.  Are you sure you want to do this?" translator="jk" status="Complete" modifyDate="07.02.2017" istablet="false">Ar šo neatgriezeniski tiks dzēsts konts un visa ar tiem saistītās darbības. Vai tiešām vēlaties veikt šo darbību?</string>
     <string name="This will permanently delete the Account Category, all attached accounts, and all of the activity records for those accounts.  Are you sure you want to do this?" translator="kl" status="Complete" modifyDate="07.02.2017" istablet="false">Ar šo neatgriezeniski tiks dzēsta kontu kategorija, visi ar to saistītie konti un visa ar tiem saistītās darbības. Vai tiešām vēlaties veikt šo darbību?</string>
     <string name="This will permanently delete the accounts and all of their activity records.  Are you sure you want to do this?" translator="jk" status="Complete" modifyDate="07.02.2017" istablet="false">Ar šo neatgriezeniski tiks dzēsts konts(i) un visa ar tiem saistītās darbības. Vai tiešām vēlaties veikt šo darbību?</string>
@@ -3923,13 +3929,13 @@ priekšskatījums</string>
     <string name="Ticket Footer" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Pasūtījuma Kājene</string>
     <string name="Ticket Header" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Pasūtījuma Galvene</string>
     <string name="Time" translator="Original Seed" status="Complete" modifyDate="2016.05.21." istablet="false">Laiks</string>
-    <string name="Time Currently at Source" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Time Currently at Source</string>
-    <string name="Time Dispensed" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Time Dispensed</string>
-    <string name="Time Out waiting for server response" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Time Out waiting for server response</string>
+    <string name="Time Currently at Source" translator="jk" status="Complete" modifyDate="16.02.2017" istablet="false">Pieejamais laiks uz sākotnējā celiņa</string>
+    <string name="Time Dispensed" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Time Dispensed</string>
+    <string name="Time Out waiting for server response" translator="jk" status="Complete" modifyDate="16.02.2017" istablet="false">Iestājās laika noildze gaidot servera atbildi</string>
     <string name="Time Per Frame" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Laiks uz Rāmi</string>
     <string name="Time Per Frame:" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Laiks uz Rāmi:</string>
     <string name="Time Range" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Laika posms</string>
-    <string name="Time Remaining at Source" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Time Remaining at Source</string>
+    <string name="Time Remaining at Source" translator="jk" status="Complete" modifyDate="16.02.2017" istablet="false">Atlikušais laiks uz sākotnējā celiņa</string>
     <string name="Time Sold" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Pārdotais Laiks</string>
     <string name="Time to Transfer" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Laiks Pārcelšanai</string>
     <string name="Time Usage by Lane" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Laika lietojums pa celiņiem</string>
