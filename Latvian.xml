@@ -444,7 +444,7 @@
     <string name="Both" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Abi</string>
     <string name="bowl now" translator="Original Seed" status="Complete" modifyDate="12.06.2016" istablet="true">sākt spēli</string>
     <string name="BOWL NOW" translator="jk" status="Complete" modifyDate="12.06.2016" istablet="false">SĀKT SPĒLI</string>
-    <string name="Bowl Out" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">Izspēlēt spēli ātrāk</string>
+    <string name="Bowl Out" translator="jk" status="Complete" modifyDate="29.03.2017" istablet="true">Izspēlēt spēli ātrāk</string>
     <string name="Bowled" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Spēlēja</string>
     <string name="Bowler" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Spēlētājs</string>
     <string name="Bowler / Frame" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Spēlētāji / Rāmis</string>
@@ -3113,7 +3113,7 @@ priekšskatījums</string>
     <string name="REFUND" translator="jk" status="Complete" modifyDate="17.08.2016" istablet="false">ATGRIEZT</string>
     <string name="Refund All" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Atgriezt Visu</string>
     <string name="Refund Bowling" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Atgriezt Boulingu</string>
-    <string name="Refund Lane" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Atgriezt no Celiņa</string>
+    <string name="Refund Lane" translator="jk" status="Complete" modifyDate="29.03.2017" istablet="false">Atgriezt no celiņa</string>
     <string name="Refund Prepaid Lanes/Rental Units" translator="jk" status="Complete" modifyDate="2016.08.31." istablet="false">Atgriezt priekšapmaksātos celiņus/īres resursus</string>
     <string name="Refund Rental Control" translator="jk" status="Complete" modifyDate="2016.08.31." istablet="false">Atgriezt īres res.</string>
     <string name="Refund Transactions" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Atgriezt Transakcijas</string>
@@ -3181,7 +3181,7 @@ priekšskatījums</string>
     <string name="Repeat Amount Tax" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Repeat Amount Tax</string>
     <string name="Repeats" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Atkārtojas</string>
     <string name="Repeats On" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Atkārtojas:</string>
-    <string name="Reply" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Atkārtot</string>
+    <string name="Reply" translator="jk" status="Complete" modifyDate="29.03.2017" istablet="false">Atbildēt</string>
     <string name="Report Error" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Atskaites kļūda</string>
     <string name="Report generation failed" translator="jk" status="Complete" modifyDate="04.03.2017" istablet="false">Neizdevās ģenerēt atskaiti</string>
     <string name="Reporting Hierarchy" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Atskaites hierarhija</string>
@@ -3907,7 +3907,7 @@ priekšskatījums</string>
     <string name="The customer could not be added." translator="jk" status="Complete" modifyDate="04.03.2017" istablet="false">Nevarēja pievienot klientu.</string>
     <string name="The customer export download has started.  When it is completed, the export file will be located in the export directory on the server." translator="jk" status="Complete" modifyDate="04.03.2017" istablet="false">Klientu eksporta faila lejupielāde ir sākusies. Kad tā tiks pabeigta, eksporta fails tiks nokopēts uz eksporta mapi, kas atrodas uz servera datora.</string>
     <string name="The database was successfully restored.  Please go to System Control and reboot all devices." translator="jk" status="Complete" modifyDate="04.03.2017" istablet="false">Datubāze tika veiksmīgi atjaunota. Lūdzu dodaties uz Sistēmas Konfigurāciju un restartējiet visas iekārtas.</string>
-    <string name="The database was successfully restored. Please go to System Control and reboot all devices." translator="jk" status="Complete" modifyDate="13.02.2017" istablet="false">Datubāze tika veiksmīgi atjaunota. Lūdzu atvērt Sistēmas Konfigurāciju un atkārtoti palaist visas iekārtas. </string>
+    <string name="The database was successfully restored. Please go to System Control and reboot all devices." translator="jk" status="Complete" modifyDate="29.03.2017" istablet="false">Datubāze tika veiksmīgi atjaunota no kopijas. Lūdzu atvērt Sistēmas Konfigurāciju un atkārtoti palaist visas iekārtas. </string>
     <string name="The email address entered was invalid." translator="jk" status="Complete" modifyDate="04.03.2017" istablet="false">Ievadītā e-pasta adrese ir nederīga.</string>
     <string name="The email address you entered is invalid. Please try again." translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">Ievaditā e-pasta adrese ir kļūdaina. Lūdzu mēģiniet vēlreiz.</string>
     <string name="The email was sent." translator="jk" status="Complete" modifyDate="04.03.2017" istablet="false">e-pasts tika nosūtīts.</string>
