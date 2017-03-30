@@ -1551,7 +1551,7 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Generate New ID" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Ģenerēt jaunu ID</string>
     <string name="Generate Test Scores" translator="jk" status="Complete" modifyDate="2016.05.14." istablet="false">Ģenerēt Testa Rezultātus</string>
     <string name="Generating Content For Page:" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Ģenerē saturu lapai:</string>
-    <string name="German" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">German</string>
+    <string name="German" translator="jk" status="Complete" modifyDate="30.03.2017" istablet="false">Vācu</string>
     <string name="Get Balance" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Skatīt Bilanci</string>
     <string name="Get Current Picture" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Saņemt pašreizējo attēlu</string>
     <string name="Get Free TESTValueMeal Package on $10 Transaction" translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Get Free TESTValueMeal Package on $10 Transaction</string>
@@ -3344,7 +3344,7 @@ priekšskatījums</string>
     <string name="Scan the coupon or enter it manually" translator="jk" status="Complete" modifyDate="03.06.2016" istablet="false">Kupons:</string>
     <string name="Schedule Error" translator="jk" status="Complete" modifyDate="24.01.2017" istablet="false">Grafika kļūda</string>
     <string name="Schedule:" translator="jk" status="Complete" modifyDate="24.01.2017" istablet="false">Grafiks:</string>
-    <string name="Schtick Man" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Schtick Man</string>
+    <string name="Schtick Man" translator="jk" status="Review" modifyDate="30.03.2017" istablet="false">Nūjiņcilvēks</string>
     <string name="Schtickman" translator="jk" status="Review" modifyDate="28.03.2017" istablet="true">Nūjiņcilvēks</string>
     <string name="Score" translator="jk" status="Complete" modifyDate="24.01.2017" istablet="false">Rezultāts</string>
     <string name="Score Changed for Game" translator="jk" status="Complete" modifyDate="24.01.2017" istablet="false">Rediģēts spēles rezultāts</string>
@@ -3521,7 +3521,7 @@ priekšskatījums</string>
     <string name="Shift Closed" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Maiņa Aizvērts</string>
     <string name="Shift Ended" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Maiņa noslēgta</string>
     <string name="Shift Management" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Maiņu Pārvaldnieks</string>
-    <string name="Shift Management Failed" translator="Original Seed" status="Complete" modifyDate="24.01.2017" istablet="false">Maiņa noslēgta neveiksmīgi</string>
+    <string name="Shift Management Failed" translator="jk" status="Complete" modifyDate="24.01.2017" istablet="false">Maiņa noslēgta neveiksmīgi</string>
     <string name="Shift Management Successful" translator="jk" status="Complete" modifyDate="24.01.2017" istablet="false">Maiņa noslēgta veiksmīgi</string>
     <string name="Shifts" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Maiņas</string>
     <string name="Shifts were successfully created." translator="jk" status="Complete" modifyDate="04.03.2017" istablet="false">Maiņas tika veiksmīgi izveidotas</string>
@@ -3831,7 +3831,7 @@ priekšskatījums</string>
     <string name="team info" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">komandas info</string>
     <string name="Team Info" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Komandas Info</string>
     <string name="Team lane select" translator="jk" status="Complete" modifyDate="22.03.2017" istablet="false">Komandas celiņš</string>
-    <string name="Team Name" translator="Original Seed" status="Complete" modifyDate="2016.04.29." istablet="false">Komandas Nosaukums</string>
+    <string name="Team Name" translator="jk" status="Complete" modifyDate="30.03.2017" istablet="false">Komandas nosaukums</string>
     <string name="Team Scratch Leaderboard" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="true">Komandu rez. līderi</string>
     <string name="Team Stats" translator="jk" status="Complete" modifyDate="2016.05.04." istablet="false">Komandas Statistika</string>
     <string name="team track" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">sekot komandai</string>
@@ -3868,7 +3868,7 @@ priekšskatījums</string>
     <string name="Thai (874)" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Thai (874)</string>
     <string name="Thanks for calling. We're on our way" translator="jk" status="Complete" modifyDate="2016.05.14." istablet="false">Paldies par zvanu. Mēs esam jau ceļā!</string>
     <string name="That level is not available to add." translator="jk" status="Complete" modifyDate="22.03.2017" istablet="false">Tas līmenis nav pieejams pievienošanai.</string>
-    <string name="The Active Manifest has changed." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">The Active Manifest has changed.</string>
+    <string name="The Active Manifest has changed." translator="jk" status="Complete" modifyDate="30.03.2017" istablet="false">Aktīvais manifests ir mainījies</string>
     <string name="The automatic backup operation failed.  Please check the Application Log for details." translator="jk" status="Complete" modifyDate="04.03.2017" istablet="false">Automātiskā rezerves kopijas izveide neizdevās. Lūdzu pārbaudiet Lietotņu Žurnālfailu lai skatītu vairāk informācijas par šo gadījumu.</string>
     <string name="The backup operation was successful." translator="jk" status="Complete" modifyDate="14.02.2017" istablet="false">Rezerves kopijas izveide noritēja veiksmīgi.</string>
     <string name="The banking adjustment could not be created." translator="jk" status="Complete" modifyDate="04.03.2017" istablet="false">Nevarēja izveidot kases korekciju.</string>
@@ -4205,7 +4205,7 @@ priekšskatījums</string>
     <string name="This will immediately reduce the amount remaining on the rental unit or turn it off if all remaining usage was refunded.  Are you sure you want to continue?" translator="jk" status="Review" modifyDate="2016.05.20." istablet="false">Šī darbība nekavējoties samazinās pieejamo laiku izīrētajai vienībai vai izslēgs to pavisam ja tiks atgriezts viss atlikušais daudzums. Vai vēlaties turpināt?</string>
     <string name="This will permanently close out all credit, debit, and gift transactions for this terminal and may take some time.  Are you sure you want to continue?" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">This will permanently close out all credit, debit, and gift transactions for this terminal and may take some time.  Are you sure you want to continue?</string>
     <string name="This will permanently delete the account and all of its activity records.  Are you sure you want to do this?" translator="jk" status="Complete" modifyDate="07.02.2017" istablet="false">Ar šo neatgriezeniski tiks dzēsts konts un visa ar tiem saistītās darbības. Vai tiešām vēlaties veikt šo darbību?</string>
-    <string name="This will permanently delete the Account Category, all attached accounts, and all of the activity records for those accounts.  Are you sure you want to do this?" translator="kl" status="Complete" modifyDate="07.02.2017" istablet="false">Ar šo neatgriezeniski tiks dzēsta kontu kategorija, visi ar to saistītie konti un visa ar tiem saistītās darbības. Vai tiešām vēlaties veikt šo darbību?</string>
+    <string name="This will permanently delete the Account Category, all attached accounts, and all of the activity records for those accounts.  Are you sure you want to do this?" translator="jk" status="Complete" modifyDate="07.02.2017" istablet="false">Ar šo neatgriezeniski tiks dzēsta kontu kategorija, visi ar to saistītie konti un visa ar tiem saistītās darbības. Vai tiešām vēlaties veikt šo darbību?</string>
     <string name="This will permanently delete the accounts and all of their activity records.  Are you sure you want to do this?" translator="jk" status="Complete" modifyDate="07.02.2017" istablet="false">Ar šo neatgriezeniski tiks dzēsts konts(i) un visa ar tiem saistītās darbības. Vai tiešām vēlaties veikt šo darbību?</string>
     <string name="This will put every lane in the center into emergency.  Are you sure you want to continue?" translator="jk" status="Complete" modifyDate="2016.05.20." istablet="false">Šī darbība pārslēgs visas iekārtas Avārijas režīmā. Vai esat pārliecināts(a) ka vēlaties turpināt?</string>
     <string name="This will set the password for all tablets that are currently running. Any tablet that is not running will not be affected by this change. Are you sure?" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Ar šo darbību tiks mainīta parole visām strādājošajām planšetēm. Tās planšetes, kas nestrādā, šīs izmaiņas neietekmēs. Vai vēlaties turpināt?</string>
