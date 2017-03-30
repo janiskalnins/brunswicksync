@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <TRNExportImportModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Culture="lv-LV" DisplayLanguage="Latvian" IsModifiable="false" IsLocal="true">
   <resources>
     <string name="  Then By: " translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Pēc tam pēc: </string>
@@ -506,7 +506,7 @@
     <string name="Canadian" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Kanādiešu</string>
     <string name="Canadian Duck Pin" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Canadian Duck Pin</string>
     <string name="cancel" translator="jk" status="Complete" modifyDate="2016.05.04." istablet="true">atcelt</string>
-    <string name="Cancel" translator="jk" status="Complete" modifyDate="05.03.2017" istablet="false">atcelt</string>
+    <string name="Cancel" translator="jk" status="Complete" modifyDate="05.03.2017" istablet="false">atcelt ⛔</string>
     <string name="CANCEL" translator="jk" status="Complete" modifyDate="2016.05.04." istablet="false">ATCELT</string>
     <string name="Cancel All" translator="jk" status="Complete" modifyDate="2016.05.04." istablet="false">Atcelt Visu</string>
     <string name="Cancel Request" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">Atcelt Pieprasījumu</string>
@@ -2612,7 +2612,7 @@ katram</string>
     <string name="Office" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Ofiss</string>
     <string name="Office Login" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">OFISA LIETOTNE</string>
     <string name="Offline" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Bezsaitē</string>
-    <string name="OK" translator="jk" status="Complete" modifyDate="05.03.2017" istablet="true">labi</string>
+    <string name="OK" translator="jk" status="Complete" modifyDate="05.03.2017" istablet="true">labi ✓</string>
     <string name="Old Password" translator="jk" status="Complete" modifyDate="24.01.2017" istablet="false">Vecā parole</string>
     <string name="Old Tickets Detected - Please Select Action To Take" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Atrasti veci pasūtījumi - Lūdzu norādiet veicamo darbību</string>
     <string name="Old Transactions" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Vecās Transakcijas</string>
@@ -2724,8 +2724,10 @@ katram</string>
     <string name="Pay All Later" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Maksāt Visu Vēlāk</string>
     <string name="Pay By Bowler" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Maksāt par Spēlētāju</string>
     <string name="Pay In" translator="jk" status="Complete" modifyDate="17.08.2016" istablet="false">Iemaksāt kasē</string>
-    <string name="Pay Later" translator="jk" status="Complete" modifyDate="05.03.2017" istablet="false">Maksāt Vēlāk</string>
-    <string name="Pay Now" translator="jk" status="Complete" modifyDate="05.03.2017" istablet="false">Maksāt tagad</string>
+    <string name="Pay Later" translator="jk" status="Complete" modifyDate="05.03.2017" istablet="false">Maksāt Vēlāk
+⬇</string>
+    <string name="Pay Now" translator="jk" status="Complete" modifyDate="05.03.2017" istablet="false">Maksāt tagad
+€</string>
     <string name="Pay Out" translator="jk" status="Complete" modifyDate="17.08.2016" istablet="false">Izmaksāt no kases</string>
     <string name="Pay Out Gratuities" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Izmaksāt pateicības</string>
     <string name="Pay Out Gratuities for Other Users" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Izmaksāt pateicības citiem lietotājiem</string>
@@ -3321,7 +3323,7 @@ priekšskatījums</string>
     <string name="Sample" translator="jk" status="Complete" modifyDate="24.01.2017" istablet="false">Paraugs</string>
     <string name="Samsung" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Samsung</string>
     <string name="Saturday" translator="jk" status="Complete" modifyDate="27.05.2016" istablet="false">Sestdienu</string>
-    <string name="Save" translator="jk" status="Complete" modifyDate="27.05.2016" istablet="false">Saglabāt</string>
+    <string name="Save" translator="jk" status="Complete" modifyDate="27.05.2016" istablet="false">saglabāt 💾</string>
     <string name="Save and Update" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Saglabāt un Atjaunināt</string>
     <string name="Save As" translator="jk" status="Complete" modifyDate="27.05.2016" istablet="false">Saglabāt kā</string>
     <string name="Save As New" translator="jk" status="Complete" modifyDate="27.05.2016" istablet="false">Saglabāt kā jaunu</string>
@@ -3945,7 +3947,7 @@ priekšskatījums</string>
     <string name="The item to which this coupon applies is not on the current transaction." translator="jk" status="Complete" modifyDate="22.03.2017" istablet="false">Produkts, uz kuru attiecas šis kupons, nav atrodams pašreizējajā transakcijā.</string>
     <string name="The item was successfully voided." translator="jk" status="Complete" modifyDate="22.03.2017" istablet="false">Postenis tika veiksmīgi anulēts.</string>
     <string name="The Keglars" translator="jk" status="Complete" modifyDate="2016.05.03." istablet="true">Bumbotāji</string>
-    <string name="The Keglars are all about having good, old-fashioned family fun, and they do it with pin-smashing success. You might even see a resemblance to your own family." translator="jk" status="Review" modifyDate="2016.05.03." istablet="true">Bumbotāji iestājas par kārtīgu, varbūt vecmodīgu, kopīgu ģimenes izklaidi. Un viņi to dara ar ķegļus satriecošiem panākumiem. Iespējams, vari pat saskatīt kādu līdzību ar savu ģimeni.</string>
+    <string name="The Keglars are all about having good, old-fashioned family fun, and they do it with pin-smashing success. You might even see a resemblance to your own family." translator="Original Seed" status="Complete" modifyDate="2016.05.03." istablet="true">Bumbotāji iestājas par kārtīgu, varbūt vecmodīgu, kopīgu ģimenes izklaidi. Un viņi to dara ar ķegļus satriecošiem panākumiem. Iespējams, vari pat saskatīt kādu līdzību ar savu ģimeni.</string>
     <string name="The Keglers" translator="jk" status="Complete" modifyDate="2016.05.03." istablet="false">Bumbotāji</string>
     <string name="The lanes could not be balanced because one of the products used to issued the lanes has been deleted." translator="jk" status="Complete" modifyDate="22.03.2017" istablet="false">Celiņus nevar līdzsvarot jo viens no produktiem, kas tika izmantots celiņa ieslēgšanai, tika dzēsts.</string>
     <string name="The lanes could not be balanced because one of the session records could not be found." translator="jk" status="Complete" modifyDate="22.03.2017" istablet="false">Celiņus nevar līdzsvarot jo viens no sesijas ierakstiem netika atrasts.</string>
