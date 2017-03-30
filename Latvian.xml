@@ -252,7 +252,7 @@
     <string name="Apply Payment" translator="jk" status="Complete" modifyDate="2016.05.20." istablet="false">Pievienot Apmaksu</string>
     <string name="Apply Payment To Transaction" translator="jk" status="Complete" modifyDate="2016.05.20." istablet="false">Pievienot Apmaksu Transakcijai</string>
     <string name="Apply Refund" translator="jk" status="Review" modifyDate="2016.05.20." istablet="false">Izpildīt Atgriešanu</string>
-    <string name="Apply To All" translator="jk" status="Review" modifyDate="20.01.2017" istablet="false">Attiecināt visiem</string>
+    <string name="Apply To All" translator="jk" status="Complete" modifyDate="30.03.2017" istablet="false">Lietot visiem</string>
     <string name="Aqua" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Zilganzaļš</string>
     <string name="Arabic (864)" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Arabic (864)</string>
     <string name="Archived" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Arhivēts</string>
@@ -413,7 +413,7 @@
     <string name="Batch Processing Special Functions" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Pakešu apstrāde - Speciālās f-jas</string>
     <string name="Batch Settlement" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Pakešu apstrādes norēķini</string>
     <string name="Batch Status" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Pakešu statuss</string>
-    <string name="Bcc" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Bcc</string>
+    <string name="Bcc" translator="Original Seed" status="Complete" modifyDate="30.03.2017" istablet="false">BCC</string>
     <string name="Beeps" translator="Original Seed" status="Complete" modifyDate="25.01.2017" istablet="false">pīkstieni</string>
     <string name="Begin" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Sākt</string>
     <string name="Begin Installation" translator="jk" status="Review" modifyDate="22.08.2016" istablet="false">Sākt Ustādīšanu</string>
@@ -504,7 +504,7 @@
     <string name="Call Lane" translator="jk" status="Complete" modifyDate="2016.05.14." istablet="false">Zvanīt Celiņam</string>
     <string name="Camera Calibration" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Kameras kalibrācija</string>
     <string name="Canadian" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Kanādiešu</string>
-    <string name="Canadian Duck Pin" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Canadian Duck Pin</string>
+    <string name="Canadian Duck Pin" translator="jk" status="Review" modifyDate="30.03.2017" istablet="false">Kanādas Duck Pin</string>
     <string name="cancel" translator="jk" status="Complete" modifyDate="2016.05.04." istablet="true">atcelt</string>
     <string name="Cancel" translator="jk" status="Complete" modifyDate="05.03.2017" istablet="false">atcelt</string>
     <string name="CANCEL" translator="jk" status="Complete" modifyDate="2016.05.04." istablet="false">ATCELT</string>
@@ -1261,7 +1261,7 @@ Count Up Packages must be 1</string>
     <string name="Enforce Password History" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Kontrolēt paroļu vēsturi</string>
     <string name="English" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">English</string>
     <string name="English-US (437)" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">English-US (437)</string>
-    <string name="enter" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">enter</string>
+    <string name="enter" translator="jk" status="Review" modifyDate="30.03.2017" istablet="false">ievadīt</string>
     <string name="Enter" translator="jk" status="Review" modifyDate="24.01.2017" istablet="false">Ievadīt</string>
     <string name="Enter Diagnostic Number" translator="jk" status="Complete" modifyDate="04.03.2017" istablet="false">Ievadiet diagnostikas numuru</string>
     <string name="Enter disconnected mode" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Sākt atvienoto režīmu</string>
@@ -1464,7 +1464,7 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Fiscal End Date" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Fiskālais beigu datums</string>
     <string name="Fiscal Start Date" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Fiskālais sākuma datums</string>
     <string name="Five" translator="jk" status="Complete" modifyDate="2016.05.05." istablet="false">Pieci</string>
-    <string name="Five Pin" translator="jk" status="Review" modifyDate="2016.05.05." istablet="false">PiecuĶegļu</string>
+    <string name="Five Pin" translator="jk" status="Review" modifyDate="30.03.2017" istablet="false">Piecu Ķegļu</string>
     <string name="Five Pin Control" translator="Original Seed" status="Review" modifyDate="8/17/2016" istablet="false">Five Pin Control</string>
     <string name="Five Pin No Tap" translator="jk" status="Complete" modifyDate="2016.05.04." istablet="false">5 Ķ. Straiks</string>
     <string name="Five Pin Red Head Pin" translator="Original Seed" status="Review" modifyDate="8/17/2016" istablet="false">Five Pin Red Head Pin</string>
@@ -2385,7 +2385,7 @@ katram</string>
     <string name="Modifiers in this type of category are available only to the products associated with this category." translator="Original Seed" status="New" modifyDate="4/26/2016" istablet="false">Modifiers in this type of category are available only to the products associated with this category.</string>
     <string name="Modifiers in this type of category are available to all products." translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Modifikatori no šī Kategoriju veida ir vienmēr pieejami visiem produktiem</string>
     <string name="Modifiers Required" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Nepieciešams norādīt modifikatorus</string>
-    <string name="Mon" translator="jk" status="Review" modifyDate="18.01.2017" istablet="false">P</string>
+    <string name="Mon" translator="jk" status="Review" modifyDate="30.03.2017" istablet="false">Pirmd</string>
     <string name="Monday" translator="jk" status="Complete" modifyDate="27.05.2016" istablet="false">Pirmdienu</string>
     <string name="Monitor" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Ekrāns</string>
     <string name="Monitor Configuration" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Ekrānu konfigurācija</string>
@@ -3514,7 +3514,7 @@ priekšskatījums</string>
     <string name="Seventh" translator="jk" status="Complete" modifyDate="27.05.2016" istablet="false">7. dat.</string>
     <string name="Seventh Heaven" translator="jk" status="Review" modifyDate="2016.05.05." istablet="false">Septītās Debesis</string>
     <string name="shift" translator="jk" status="Complete" modifyDate="2016.05.04." istablet="true">ABC</string>
-    <string name="Shift" translator="Original Seed" status="Complete" modifyDate="23.01.2017" istablet="false">Maiņa</string>
+    <string name="Shift" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Maiņa</string>
     <string name="SHIFT" translator="JK" status="Complete" modifyDate="2016.05.02." istablet="true">abc</string>
     <string name="Shift Closed" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Maiņa Aizvērts</string>
     <string name="Shift Ended" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Maiņa noslēgta</string>
