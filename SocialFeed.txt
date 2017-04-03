@@ -1,114 +1,50 @@
 Boulinga bumbas apkārtmērs ir 27 collas (686mm)
-A bowling ball has a circumference of 27 inches.
 292 ir retākais spēles rezultāts
-A 292 is the rarest score.
 Boulinga ķeglis sver 1 644 gramus
-A bowling pin weighs 3 lbs. 10 oz.
 Pirmais boulinga centrs iekštelpās tika atvērts 1840. gadā, Ņujorkā
-The first indoor bowling lanes were built in New York City in 1840.
 Boulinga ķegļa augstums ir 15 collas (38 centimetri)
-The height of a pin is 15 inches.
-
-The fifth frame is known as the "Beer Frame." Typically, the person with the lowest score buys a round.
-
-A bowling ball impacts the lane with a force of 1800 lbs. per square inch.
-
-A bowling ball may have up to 7 holes - 5 for gripping, 1 for ventilation, and 1 for balance.
-
-Bowling balls were made of wood until the early 1900s.
-
-Bowling pins are made from hard maple wood.
-
-Each pin is 12 inches from its neighbor.
-
-The Inazawa Grand Bowl in Japan is the largest bowling center in the world - 116 lanes.
-
-The length of a lane from foul line to head pin is 60 feet.
-
-There is no minimum weight for a bowling ball.
-
-Automatic pin setters were introduced in 1952. Until then, pins were reset by hand.
-
-Bowling burns 100 calories per hour.
-
-Bowling three games is the equivalent of walking one mile.
-
-The oldest known historical trace of bowling dates back to 3200 B.C. in Egypt.
-
-On a proper strike, the ball only comes into contact with 4 pins.
-
-The surface of the lane is level to within 40/1000th of an inch.
-
-The width of the lane is 41 inches excluding the gutters.
-
-Did you hear about the two guys that stole a calendar? They each got six months
-
-What do you call an alligator wearing a vest? An investigator.
-
-What is green and has four wheels? Grass. I lied about the wheels.
-
-The Earth weighs around 6,588,000,000,000,000,000,000,000 tons.
-
-111,111,111 x 111,111,111 = 12,345,678,987,654,321
-
-A "jiffy-acumirklis" is an actual unit of time for 1/100th of a second.
-
-A giraffe can clean its ears with its 21-inch tongue.
-
-The name Wendy was made up for the book "Peter Pan."
-
-A hummingbird weighs less than a penny.
-
-A sneeze travels out your mouth at over 100 m.p.h.
-
-The penguin is the only bird who can swim, but not fly.
-
-Bats always turn left when exiting a cave.
-
-Your foot and forearm are the same length.
-
-The bloodhound is the only animal whose evidence is admissible in an American court.
-
-Your stomach has to produce a new layer of mucus every two weeks otherwise it will digest itself.
-
-Donald Duck comics were banned from Finland because he doesn't wear pants.
-
-Every person has a unique tongue print.
-
-February 1865 is the only month in recorded history not to have a full moon.
-
-Human thigh bones are stronger than concrete.
-
-If NASA sent birds into space they would soon die; they need gravity to swallow.
-
-Leonardo Da Vinci invented the scissors.
-
-More Monopoly money is printed in a year, than real money printed throughout the world.
-
-One quarter of the bones in your body, are in your feet.
-
-Our eyes are always the same size from birth, but our nose and ears never stop growing.
-
-Polar Bears trying to blend in with the ice will sometimes cover up their black nose with their paws.
-
-"Typewriter" is the longest word that can be typed using only the top line of keys on the keyboard.
-
-Since 1896, the beginning of the modern Olympics, only Greece and Australia have participated in every Games.
-
-Honey is the only food that does not spoil.
-
-Venus is the only planet in our solar system that spins backwards.
-
-The first CD pressed in the US was Bruce Springsteen's "Born in the USA."
-
-95% of people feel uncomfortable when the TV volume is an odd number.
-
-The Amazon rainforest produces half of the world's oxygen supply.
-
-Months that start on a Sunday always have a Friday the 13th.
-
-To help themselves dive deeper, crocodiles swallow rocks.
-
-A moment is a unit of time measuring one and a half minutes.
-
-Mercury is the only metal that is liquid at room temperature.
+Piektais rāmis ir pazīstams kā "Alus Rāmis". Parasti spēlētājs ar zemāko rezultātu 'uzsauc' biedriem. 
+Boulinga bumbas trieciens pret celiņa virsmu ar 126 kg/cm² spēku
+Boulinga bumbai var būt līdz pat 7 caurumiem - 5 satvērienam, 1 ventilācijai un 1 līdzsvaram
+Līdz pat 1900-to gadu sākumam boulinga bumbas taisīja no koka.
+Boulinga ķegļi ir taisīti no cieta Kanādas kļavas koka.
+Attālums starp blakus stāvošiem ķegļiem ir 12 collas (30,5 cm)
+Pasaulē lielākais boulinga centrs ir 'Inazawa Grand Bowl' Japānā – 116 celiņi
+Celiņa garums no soda līnijas līdz 1. ķeglim ir 60 pēdas (18,28 metri)
+Boulinga bumbai nav noteikts minimālais svars
+Automātiskās ķegļu uzstādīšanas mašīnas tika prezentētas 1952. gadā. Līdz tam ķegļus uzstādīja manuāli
+Spēlējot boulingu var sadedzināt 100 kalorijas stundā
+Divas boulinga spēles līdzinās vienam noietam kilometram. 
+Vecākās zināmās vēsturiskās boulinga liecības datējamas ar 3200 g.p.m.ē.
+Pareiza straika gadījumā, bumba saskaras tikai ar četriem ķegļiem
+Celiņa līmenis ir viena milimetra robežās
+Celiņa platums ir 41 colla (1,04 m) neieskaitot renes
+Vai dzirdējāt par diviem zagļiem, kas nozaga kalendāru? Katram no tiem tika 6 mēneši...
+Kas ir zaļā krāsā un uz 4 riteņiem? Zāle. Es sameloju par riteņiem
+Zemeslode sver aptuveni 6 588 000 000 000 000 000 000 000 tonnas
+111 111 111 * 111 111 111 = 12 345 678 987 654 321
+'Acumirklis' patiesībā ir laika mērvienība un ir vienāda ar 1/100 sekundes
+Žirafe var iztīrīt sev ausis ar savu 55 cm garo mēli
+Vārds "Vendija" tika izdomāts grāmatai "Pīters Pens"
+Mazākie kolibri putni sver mazāk nekā 1 centa monēta
+Pingvīns ir vienīgais putns kas var peldēt, bet ne lidot
+Sikspārņi no alas vienmēr lido uz kreiso pusi
+Tava pēda un apakšdelms ir vienāda garuma
+Tavam kuņģim katras divas nedēļas jāatjauno gļotu slānis. Pretējā gadījumā tas 'saēdīs' pats sevi
+Donalda Daka komiksi tika aizliegti Somijā jo viņš nenēsāja bikses 
+Katram cilvēkam ir unikāls mēles nospiedums
+Cilvēka augšstilba kauli ir stiprāki par betonu
+Ja NASA nosūtītu putnus atklātā kosmosā, ti mirtu; Putniem vajag gravitāti lai norītu barību
+Leonardo Da Vinci izgudroja šķēres
+Spēles "Monopols" nauda ir visvairāk drukātā nauda pasaulē
+Ceturtdaļa cilvēka ķermeņa kaulu atrodas pēdās
+Mūsu acis ir viena un tā paša izmēra no dzimšanas, bet ausis un deguns nekad nepārstāj augt
+Polārlāči maskēšanās nolūkā dažkārt aizsedz savus melnos degunus ar ķepām
+Kopš 1896.g., kad sākās mūsdienu Olimpiskās Spēles, tikai Grieķija un Austrālija ir piedalījušās visās Spēlēs
+Medus ir vienīgais pārtikas produkts kas nebojājas
+Venēra ir vienīgā planēta mūsu saules sistēmā kas griežas uz otru pusi
+95% cilvēku jūt diskomfortu ja TV skaļums ir nepāra skaitlis
+Amazones lietus meži ražo pusi no pasaulei nepieciešamā skābekļa
+Krokodīli, lai varētu ienirt dziļāk, rij akmeņus
+Moments ir laika mērvienība, kas ir vienāds ar 1,5 minūti
+Merkūrijs ir vienīgais metāls kas ir šķidrs istabas temperatūrā
