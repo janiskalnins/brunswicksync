@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TRNExportImportModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Culture="lv-LV" DisplayLanguage="Latvian" IsModifiable="false" IsLocal="true">
+<?xml version="1.0" encoding="utf-8"?>
+<TRNExportImportModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Culture="lv-LV" DisplayLanguage="Latvian Dingbat" IsModifiable="false" IsLocal="true">
   <resources>
     <string name="  Then By: " translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Pēc tam pēc: </string>
     <string name="${0} off" translator="jk" status="Complete" modifyDate="2016.08.22." istablet="false">€{0} atlaide</string>
