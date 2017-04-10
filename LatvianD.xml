@@ -510,8 +510,8 @@
     <string name="Bowling Sales" translator="Original Seed" status="New" modifyDate="4/3/2017" istablet="false">Bowling Sales</string>
     <string name="Bowlopolis" translator="jk" status="Review" modifyDate="28.03.2017" istablet="true">Boulingpole</string>
     <string name="Broadcast" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Apraide</string>
-    <string name="Broken" translator="jk" status="Complete" modifyDate="07.04.2017" istablet="false">Salūzis
-🔧</string>
+    <string name="Broken" translator="jk" status="Complete" modifyDate="10.04.2017" istablet="false">Salūzis
+☹</string>
     <string name="Brown" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Brūns</string>
     <string name="Browse" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Pārlūkot</string>
     <string name="Brunswick" translator="kl" status="Complete" modifyDate="2016.04.29." istablet="true">Brunswick</string>
@@ -552,8 +552,8 @@
     <string name="Canadian" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Kanādiešu</string>
     <string name="Canadian Duck Pin" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Canadian Duck Pin</string>
     <string name="cancel" translator="jk" status="Complete" modifyDate="2016.05.04." istablet="true">atcelt</string>
-    <string name="Cancel" translator="jk" status="Complete" modifyDate="08.04.2017" istablet="false">Atcelt
-🚫</string>
+    <string name="Cancel" translator="jk" status="Complete" modifyDate="10.04.2017" istablet="false">🚫
+Atcelt</string>
     <string name="CANCEL" translator="jk" status="Complete" modifyDate="2016.05.04." istablet="false">ATCELT</string>
     <string name="Cancel All" translator="jk" status="Complete" modifyDate="2016.05.04." istablet="false">Atcelt Visu</string>
     <string name="Cancel Request" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">Atcelt Pieprasījumu</string>
@@ -1463,8 +1463,10 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Exempt Line Item from taxes" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Atbrīvot kvīts rindu no nodokļiem</string>
     <string name="Existing waiting list and all entries will be deleted." translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Esošie gaidīšanas saraksti un to ieraksti tiks dzēsti</string>
     <string name="exit" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">iziet</string>
-    <string name="Exit" translator="jk" status="Complete" modifyDate="08.04.2017" istablet="true">Iziet ✖</string>
-    <string name="EXIT" translator="JK" status="Complete" modifyDate="08.04.2017" istablet="true">IZIET  ✖</string>
+    <string name="Exit" translator="jk" status="Complete" modifyDate="10.04.2017" istablet="true">✖
+Iziet</string>
+    <string name="EXIT" translator="JK" status="Complete" modifyDate="10.04.2017" istablet="true">✖
+IZIET</string>
     <string name="Exit Stand Alone" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Iziet no savrupā režīma</string>
     <string name="exit to android" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">iziet uz Andriod</string>
     <string name="Exited" translator="jk" status="Complete" modifyDate="05.03.2017" istablet="false">Izgāja</string>
@@ -2778,8 +2780,8 @@ katram</string>
     <string name="Office" translator="jk" status="Complete" modifyDate="2016.05.06." istablet="false">Ofiss</string>
     <string name="Office Login" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">OFISA LIETOTNE</string>
     <string name="Offline" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Bezsaitē</string>
-    <string name="OK" translator="jk" status="Complete" modifyDate="07.04.2017" istablet="true">labi
-✓</string>
+    <string name="OK" translator="jk" status="Complete" modifyDate="10.04.2017" istablet="true">✓
+Labi</string>
     <string name="Old Password" translator="jk" status="Complete" modifyDate="24.01.2017" istablet="false">Vecā parole</string>
     <string name="Old Tickets Detected - Please Select Action To Take" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Atrasti veci pasūtījumi - Lūdzu norādiet veicamo darbību</string>
     <string name="Old Transactions" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Vecās Transakcijas</string>
@@ -3258,7 +3260,7 @@ priekšskatījums</string>
     <string name="Quickly change the bowler's handicap" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="false">Nomainīt spēlētāja hdkp</string>
     <string name="Quick-Pay Amounts" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Ātrās maksāšanas summas</string>
     <string name="Quit" translator="jk" status="Complete" modifyDate="05.03.2017" istablet="true">Iziet  ❌</string>
-    <string name="quit?" translator="Original Seed" status="Complete" modifyDate="09.04.2017" istablet="true">iziet?</string>
+    <string name="quit?" translator="jk" status="Complete" modifyDate="09.04.2017" istablet="true">iziet?</string>
     <string name="Rake Drop Picture Delay (ms)" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Rake Drop Picture Delay (ms)</string>
     <string name="random" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">nejaušs</string>
     <string name="RANDOM" translator="JK" status="Complete" modifyDate="12.06.2016" istablet="true">NEJAUŠI</string>
@@ -4621,8 +4623,8 @@ priekšskatījums</string>
     <string name="Turn Off All Power" translator="jk" status="Complete" modifyDate="08.04.2017" istablet="false">Izslēgt VISU
 ✖ Σ</string>
     <string name="Turn Off Crosslane - Allocate Assigned Games" translator="jk" status="Review" modifyDate="14.01.2017" istablet="false">Izslēgt krustisko spēli - iedalīt piešķirtās spēles</string>
-    <string name="Turn Off Power" translator="jk" status="Complete" modifyDate="07.04.2017" istablet="false">Izslēgt Gaismu
-☀</string>
+    <string name="Turn Off Power" translator="jk" status="Complete" modifyDate="10.04.2017" istablet="false">Izslēgt Gaismu
+☽</string>
     <string name="Turn On" translator="Original Seed" status="Complete" modifyDate="2016.05.06." istablet="false">Ieslēgt</string>
     <string name="Turn On All Power" translator="jk" status="Complete" modifyDate="08.04.2017" istablet="false">Ieslēgt VISU
 ✅ Σ</string>
