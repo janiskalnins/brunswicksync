@@ -552,12 +552,16 @@
     <string name="Canadian" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Kanādiešu</string>
     <string name="Canadian Duck Pin" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Canadian Duck Pin</string>
     <string name="cancel" translator="jk" status="Complete" modifyDate="2016.05.04." istablet="true">atcelt</string>
+<<<<<<< HEAD:Latvian.xml.orig
 <<<<<<< HEAD:Latvian.xml
     <string name="Cancel" translator="jk" status="Complete" modifyDate="11.04.2017" istablet="false">Atcelt</string>
 =======
     <string name="Cancel" translator="jk" status="Complete" modifyDate="08.04.2017" istablet="false">Atcelt
 🚫</string>
 >>>>>>> refs/remotes/origin/arpiktogrammaam:Latvian.xml.orig
+=======
+    <string name="Cancel" translator="jk" status="Complete" modifyDate="05.03.2017" istablet="false">atcelt</string>
+>>>>>>> parent of 880a896... 4:Latvian.xml
     <string name="CANCEL" translator="jk" status="Complete" modifyDate="2016.05.04." istablet="false">ATCELT</string>
     <string name="Cancel All" translator="jk" status="Complete" modifyDate="2016.05.04." istablet="false">Atcelt Visu</string>
     <string name="Cancel Request" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">Atcelt Pieprasījumu</string>
@@ -1467,6 +1471,7 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Exempt Line Item from taxes" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Atbrīvot kvīts rindu no nodokļiem</string>
     <string name="Existing waiting list and all entries will be deleted." translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Esošie gaidīšanas saraksti un to ieraksti tiks dzēsti</string>
     <string name="exit" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">iziet</string>
+<<<<<<< HEAD:Latvian.xml.orig
 <<<<<<< HEAD:Latvian.xml
     <string name="Exit" translator="jk" status="Complete" modifyDate="11.04.2017" istablet="true">Iziet</string>
     <string name="EXIT" translator="JK" status="Complete" modifyDate="11.04.2017" istablet="true">IZIET</string>
@@ -1474,6 +1479,10 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Exit" translator="jk" status="Complete" modifyDate="08.04.2017" istablet="true">Iziet ✖</string>
     <string name="EXIT" translator="JK" status="Complete" modifyDate="08.04.2017" istablet="true">IZIET  ✖</string>
 >>>>>>> refs/remotes/origin/arpiktogrammaam:Latvian.xml.orig
+=======
+    <string name="Exit" translator="jk" status="Complete" modifyDate="05.03.2017" istablet="true">iziet  ❌</string>
+    <string name="EXIT" translator="JK" status="Complete" modifyDate="05.03.2017" istablet="true">IZIET  ❌</string>
+>>>>>>> parent of 880a896... 4:Latvian.xml
     <string name="Exit Stand Alone" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Iziet no savrupā režīma</string>
     <string name="exit to android" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">iziet uz Andriod</string>
     <string name="Exited" translator="jk" status="Complete" modifyDate="05.03.2017" istablet="false">Izgāja</string>
@@ -2150,11 +2159,15 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Lane ID Number is the unique number used to identify the lane internally and is not visible elsewhere" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Celiņa ID Numurs ir unikāls numurs, ko izmanto lai identificētu celiņu sistēmā un tas nav redzams gala lietotājam vai operatoram.</string>
     <string name="LANE ISSUE" translator="JK" status="Complete" modifyDate="2016.08.31." istablet="false">IESLĒGT CELIŅU</string>
     <string name="Lane Issued with a Free Product" translator="jk" status="Complete" modifyDate="2016.08.31." istablet="false">Celiņš ieslēgts ar Bezmaksas Produktu</string>
+<<<<<<< HEAD:Latvian.xml.orig
 <<<<<<< HEAD:Latvian.xml
     <string name="Lane Marked as Broken" translator="jk" status="Complete" modifyDate="11.04.2017" istablet="false">Celiņš ir atzīmēts kā salūzis</string>
 =======
     <string name="Lane Marked as Broken" translator="jk" status="Complete" modifyDate="07.04.2017" istablet="false">Celiņš ir atzīmēts kā salūzis</string>
 >>>>>>> refs/remotes/origin/arpiktogrammaam:Latvian.xml.orig
+=======
+    <string name="Lane Marked as Broken" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="false">Celiņš ir atzīmēts kā salūzis     :(</string>
+>>>>>>> parent of 880a896... 4:Latvian.xml
     <string name="Lane Monitor" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Celiņu ekrāns</string>
     <string name="Lane Monitors" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Celiņu ekrāni</string>
     <string name="Lane Not Found" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Celiņš nav atrasts</string>
@@ -2189,11 +2202,15 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Lane(s) already issued" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="false">Celiņš jau ir ieslēgts</string>
     <string name="Lane(s) in Emergency Off" translator="jk" status="Complete" modifyDate="2016.05.20." istablet="false">Celiņš(i) Avārijas režīmā</string>
     <string name="Lane(s) in Mechanic's Hold" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Celiņš(i) kas aizņemts mehāniķim</string>
+<<<<<<< HEAD:Latvian.xml.orig
 <<<<<<< HEAD:Latvian.xml
     <string name="Lane(s) marked as Broken" translator="jk" status="Complete" modifyDate="11.04.2017" istablet="false">Celiņš ir atzīmēts kā Salūzis</string>
 =======
     <string name="Lane(s) marked as Broken" translator="jk" status="Complete" modifyDate="07.04.2017" istablet="false">Celiņš(i) ir atzīmēts(i) kā Salūzis</string>
 >>>>>>> refs/remotes/origin/arpiktogrammaam:Latvian.xml.orig
+=======
+    <string name="Lane(s) marked as Broken" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="false">Celiņš ir atzīmēts kā Salūzis       :(</string>
+>>>>>>> parent of 880a896... 4:Latvian.xml
     <string name="Lane(s) not connected" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Nav savienojuma ar celiņu</string>
     <string name="Lane(s):" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="false">Celiņš(i)</string>
     <string name="Lane/Rental" translator="jk" status="Complete" modifyDate="2016.08.31." istablet="false">Celiņš/īres res.</string>
@@ -2311,6 +2328,7 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Log Details" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Žurnāla detaļas</string>
     <string name="Log In" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Pieteikšanās</string>
     <string name="Log of all system-generation actions." translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Reģistrēt visas sistēmas ģenerētās darbības</string>
+<<<<<<< HEAD:Latvian.xml.orig
 <<<<<<< HEAD:Latvian.xml
     <string name="Log Out" translator="jk" status="Complete" modifyDate="11.04.2017" istablet="false">iziet</string>
     <string name="LOG OUT" translator="jk" status="Complete" modifyDate="11.04.2017" istablet="false">IZIET</string>
@@ -2318,6 +2336,10 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Log Out" translator="jk" status="Complete" modifyDate="07.04.2017" istablet="false">iziet ❌</string>
     <string name="LOG OUT" translator="jk" status="Complete" modifyDate="07.04.2017" istablet="false">IZIET ❌</string>
 >>>>>>> refs/remotes/origin/arpiktogrammaam:Latvian.xml.orig
+=======
+    <string name="Log Out" translator="jk" status="Complete" modifyDate="05.03.2017" istablet="false">iziet  ❌</string>
+    <string name="LOG OUT" translator="jk" status="Complete" modifyDate="05.03.2017" istablet="false">IZIET  ❌</string>
+>>>>>>> parent of 880a896... 4:Latvian.xml
     <string name="Logged At" translator="jk" status="Complete" modifyDate="26.02.2017" istablet="false">Pieteikšanās terminālis</string>
     <string name="Logging" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Notikumu reģistrēšana</string>
     <string name="Login" translator="jk" status="Complete" modifyDate="09.04.2017" istablet="false">Pieteikties</string>
@@ -3279,7 +3301,7 @@ priekšskatījums</string>
     <string name="Quick Tender" translator="jk" status="Review" modifyDate="2016.05.21." istablet="false">Ātrā Saņemšana</string>
     <string name="Quickly change the bowler's handicap" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="false">Nomainīt spēlētāja hdkp</string>
     <string name="Quick-Pay Amounts" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Ātrās maksāšanas summas</string>
-    <string name="Quit" translator="jk" status="Complete" modifyDate="11.04.2017" istablet="true">Iziet</string>
+    <string name="Quit" translator="jk" status="Complete" modifyDate="05.03.2017" istablet="true">Iziet  ❌</string>
     <string name="quit?" translator="Original Seed" status="Complete" modifyDate="09.04.2017" istablet="true">iziet?</string>
     <string name="Rake Drop Picture Delay (ms)" translator="Original Seed" status="Review" modifyDate="4/26/2016" istablet="false">Rake Drop Picture Delay (ms)</string>
     <string name="random" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">nejaušs</string>
