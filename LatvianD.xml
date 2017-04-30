@@ -1198,16 +1198,18 @@ Count Up Packages must be 1</string>
     <string name="Edit Location" translator="jk" status="Complete" modifyDate="27.05.2016" istablet="false">Mainīt vietu</string>
     <string name="Edit Locker" translator="jk" status="Complete" modifyDate="27.05.2016" istablet="false">Rediģēt Skapīti</string>
     <string name="edit names" translator="Original Seed" status="Complete" modifyDate="2016.04.29." istablet="true">rediģēt vārdus</string>
-    <string name="Edit Names" translator="Original Seed" status="Complete" modifyDate="2016.04.29." istablet="false">Rediģēt Vārdus</string>
+    <string name="Edit Names" translator="Original Seed" status="Complete" modifyDate="29.04.2017" istablet="false">Rediģēt vārdus
+✎👤</string>
     <string name="Edit Person" translator="jk" status="Complete" modifyDate="2016.05.21." istablet="false">Rediģēt Personu</string>
-    <string name="Edit Player" translator="jk" status="Complete" modifyDate="24.01.2017" istablet="false">Rediģēt spēlētāju</string>
+    <string name="Edit Player" translator="jk" status="Complete" modifyDate="29.04.2017" istablet="false">Rediģēt spēlētāju</string>
     <string name="Edit Point of Sale Policies" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Rediģēt POS politiku</string>
     <string name="Edit Quantity" translator="jk" status="Complete" modifyDate="27.05.2016" istablet="false">Mainīt daudzumu</string>
     <string name="Edit Receipt Definition" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Rediģēt Čeka/Kvīts Definīcijas</string>
     <string name="Edit reservation" translator="jk" status="Complete" modifyDate="2016.08.18." istablet="false">Rediģēt rezervāciju</string>
     <string name="Edit Resource Block" translator="jk" status="Review" modifyDate="25.01.2017" istablet="false">Rediģēt resursu bloku</string>
     <string name="edit score" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">rediģēt rezultātus</string>
-    <string name="Edit Score" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">Rediģēt Rezultātus</string>
+    <string name="Edit Score" translator="jk" status="Complete" modifyDate="29.04.2017" istablet="true">Rediģēt Rezultātus
+✎📄</string>
     <string name="Edit Scores" translator="jk" status="Complete" modifyDate="09.04.2017" istablet="false">Rediģēt rezultātus</string>
     <string name="Edit Tab Name" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Rediģēt Kvīts Nosaukumu</string>
     <string name="Edit Team" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Rediģēt komandu</string>
@@ -2680,8 +2682,9 @@ katram</string>
     <string name="Next" translator="jk" status="Complete" modifyDate="24.01.2017" istablet="false">Nākošais</string>
     <string name="Next Assignment" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">Nākošais celiņš</string>
     <string name="next bowler" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">nākošais spēlētājs</string>
-    <string name="Next Bowler" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="true">Nākošais Spēlētājs</string>
-    <string name="Next Player" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Nākošais Spēlētājs</string>
+    <string name="Next Bowler" translator="jk" status="Complete" modifyDate="29.04.2017" istablet="true">Nākošais spēlētājs</string>
+    <string name="Next Player" translator="jk" status="Complete" modifyDate="29.04.2017" istablet="false">Nākošais spēlētājs
+➔👤</string>
     <string name="Next Squad" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="true">Nākošā maiņa</string>
     <string name="Next Team" translator="jk" status="Complete" modifyDate="2016.04.29." istablet="false">Nākošā komanda</string>
     <string name="Nice Clover" translator="jk" status="Complete" modifyDate="2016.05.05." istablet="false">Lieliskais Četrinieks</string>
