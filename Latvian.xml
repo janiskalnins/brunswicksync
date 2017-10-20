@@ -3730,7 +3730,7 @@ priekšskatījums</string>
     <string name="Services Restart Time" translator="jk" status="Complete" modifyDate="2016.08.18." istablet="false">Servisu restartēšanas laiks</string>
     <string name="SES String Pin" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">SES Striķu</string>
     <string name="Session Expiration" translator="Original Seed" status="New" modifyDate="4/3/2017" istablet="false">Session Expiration</string>
-    <string name="Session Expired" translator="Original Seed" status="New" modifyDate="4/3/2017" istablet="false">Session Expired</string>
+    <string name="Session Expired" translator="jk" status="Complete" modifyDate="06.10.2017" istablet="false">Sesijas laiks iztecējis</string>
     <string name="Session Manager" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Sesijas Pārvaldnieks</string>
     <string name="Session Time" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Sesijas laiks</string>
     <string name="Session Time Remaining" translator="Original Seed" status="New" modifyDate="4/3/2017" istablet="false">Session Time Remaining</string>
@@ -3842,7 +3842,7 @@ priekšskatījums</string>
     <string name="Shutdown devices for selected lanes?" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Vai vēlaties izslēgt iekārtas iezīmētajiem celiņiem?</string>
     <string name="Sign In" translator="jk" status="Complete" modifyDate="2016.04.30." istablet="true">Pierakstīties</string>
     <string name="Signature" translator="jk" status="Complete" modifyDate="2016.05.04." istablet="false">Paraksts</string>
-    <string name="Simple" translator="Original Seed" status="New" modifyDate="4/3/2017" istablet="false">Simple</string>
+    <string name="Simple" translator="jk" status="Complete" modifyDate="06.10.2017" istablet="false">Vienkāršs</string>
     <string name="Single Lane (instead of pair) Issue Panel" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Viens celiņš, nevis divi, ieslēgšanas panelī</string>
     <string name="single pin spares" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="false">viena ķ. aizvērts</string>
     <string name="Single pin spares" translator="jk" status="Complete" modifyDate="2016.05.02." istablet="true">Viena ķ. aizvērts</string>
