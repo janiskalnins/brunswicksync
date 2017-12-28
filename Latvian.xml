@@ -276,7 +276,7 @@
     <string name="Another System" translator="jk" status="Review" modifyDate="15.01.2017" istablet="false">Cita Sistēma</string>
     <string name="Application Access" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Pieeja lietotnei</string>
     <string name="Application is already running" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Lietotne jau darbojas</string>
-    <string name="Application Log" translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Lietotņu Žurnālfaili</string>
+    <string name="Application Log" translator="jk" status="Complete" modifyDate="20.11.2017" istablet="false">Lietotņu žurnālfails</string>
     <string name="Application Log Clear Date" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Lietotņu žurnālfaila iztīrīšanas datums</string>
     <string name="Application Log Cleared" translator="jk" status="Complete" modifyDate="14.02.2017" istablet="false">Lietotņu žurnālfails dzēsts</string>
     <string name="Application Log Entry Details" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Lietotnes žurnāla ierakstu detaļas</string>
@@ -2463,7 +2463,7 @@ Nindzjas Straiks satur vairāk nekā 30 dažādas austrumu cīņas mākslas iedv
     <string name="Lockers" translator="jk" status="Complete" modifyDate="2016.05.14." istablet="false">Skapīši</string>
     <string name="Log Details" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Žurnāla detaļas</string>
     <string name="Log In" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Pieteikšanās</string>
-    <string name="Log of all system-generation actions." translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Reģistrēt visas sistēmas ģenerētās darbības</string>
+    <string name="Log of all system-generation actions." translator="jk" status="Complete" modifyDate="20.11.2017" istablet="false">Žurnālfails ar visām sistēmas ģenerētajām darbībām</string>
     <string name="Log Out" translator="jk" status="Complete" modifyDate="23.06.2017" istablet="false">iziet ❌</string>
     <string name="LOG OUT" translator="jk" status="Complete" modifyDate="23.06.2017" istablet="false">IZIET❌</string>
     <string name="Logged At" translator="jk" status="Complete" modifyDate="26.02.2017" istablet="false">Pieteikšanās terminālis</string>
@@ -4386,7 +4386,7 @@ priekšskatījums</string>
     <string name="That level is not available to add." translator="jk" status="Complete" modifyDate="22.03.2017" istablet="false">Tas līmenis nav pieejams pievienošanai.</string>
     <string name="That selfie was sooooo last frame." translator="jk" status="Complete" modifyDate="10.11.2017" istablet="false">Tas selfijs bija tiiiiiiik vecss.</string>
     <string name="The Active Manifest has changed." translator="jk" status="Complete" modifyDate="12.11.2017" istablet="false">Aktīvais manifests tika mainīts</string>
-    <string name="The automatic backup operation failed.  Please check the Application Log for details." translator="jk" status="Complete" modifyDate="04.03.2017" istablet="false">Automātiskā rezerves kopijas izveide neizdevās. Lūdzu pārbaudiet Lietotņu Žurnālfailu lai skatītu vairāk informācijas par šo gadījumu.</string>
+    <string name="The automatic backup operation failed.  Please check the Application Log for details." translator="jk" status="Complete" modifyDate="20.11.2017" istablet="false">Automātiskā rezerves kopijas izveide neizdevās. Lūdzu pārbaudiet Lietotņu žurnālfailu lai skatītu vairāk informācijas par šo gadījumu.</string>
     <string name="The backup operation was successful." translator="jk" status="Complete" modifyDate="14.02.2017" istablet="false">Rezerves kopijas izveide noritēja veiksmīgi.</string>
     <string name="The banking adjustment could not be created." translator="jk" status="Complete" modifyDate="04.03.2017" istablet="false">Nevarēja izveidot kases korekciju.</string>
     <string name="The banking adjustment was added." translator="jk" status="Complete" modifyDate="04.03.2017" istablet="false">Kases korekcija tika pievienota.</string>
@@ -5140,7 +5140,7 @@ priekšskatījums</string>
     <string name="View Reports" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Skatīt atskaites</string>
     <string name="VIEW SCORES" translator="jk" status="Review" modifyDate="2016.08.18." istablet="true">REZULTATI</string>
     <string name="View Tabs of others" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Skatīt citu lietotāju kvītis</string>
-    <string name="View the Application Log." translator="jk" status="Complete" modifyDate="2016.08.29." istablet="false">Skatīt Lietotņu Žurnālfailu</string>
+    <string name="View the Application Log." translator="jk" status="Complete" modifyDate="20.11.2017" istablet="false">Skatīt Lietotņu žurnālfailu</string>
     <string name="View the details for this Account." translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Skatīt šī konta detaļas</string>
     <string name="View the log of credit card transactions." translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Skatīt kredītkaršu transakciju žurnālfailu</string>
     <string name="View Transaction Details" translator="jk" status="Complete" modifyDate="2016.05.13." istablet="false">Skatīt Transakcijas Detaļas</string>
