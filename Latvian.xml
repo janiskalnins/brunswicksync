@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TRNExportImportModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Culture="lv-LV" DisplayLanguage="Latviešu" IsModifiable="false" IsLocal="true" Version="4.1.1162">
   <resources>
-    <string name="  Then By: " translator="JK" status="Complete" modifyDate="09.03.2026" istablet="false"> Pēc tam pēc: </string>
+    <string name="  Then By: " translator="JK" status="Complete" modifyDate="05.03.2026" istablet="false"> Pēc tam pēc:</string>
     <string name=" (Unavailable)" translator="jk" status="Complete" modifyDate="01.03.2026" istablet="false">(Nav pieejams)</string>
     <string name=" cards not dispensed" translator="Original Seed" status="Review" modifyDate="02.10.2025" istablet="false">- cards not dispensed</string>
     <string name=" Cash Gratuities" translator="jk" status="Complete" modifyDate="27.02.2026" istablet="false">Pateicības Naudā</string>
@@ -2293,7 +2293,7 @@
     <string name="Disable" translator="jk" status="Complete" modifyDate="25.09.2025" istablet="false">Atspējot</string>
     <string name="Disable All" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Atspējot Visu</string>
     <string name="Disable Debit Authorization Adjustments" translator="Original Seed" status="Review" modifyDate="18.02.2026" istablet="false">Disable Debit Authorization Adjustments</string>
-    <string name="Disable Default OK Button on Payment Dialog" translator="jk" status="Complete" modifyDate="01.03.2026" istablet="false">Atspējot pogu 'Labi' Maksājuma Dialoga logā</string>
+    <string name="Disable Default OK Button on Payment Dialog" translator="jk" status="Complete" modifyDate="09.03.2026" istablet="false">Atspējot pogu 'Labi' Maksājuma Dialoga logā </string>
     <string name="Disable For All Bowlers" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Atspējot visiem spēlētājiem</string>
     <string name="Disable menu if players deny Food and Drink warning" translator="jk" status="Complete" modifyDate="16.01.2022" istablet="false">Atspējot ēdienkarti, ja klients noraida brīdinājumu par ēdieniem un dzērieniem</string>
     <string name="Disable Old Accounts" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Bloķēt vecos kontus</string>
@@ -2744,7 +2744,7 @@
     <string name="Enable Bar Code Scan for Reservation Lookup" translator="jk" status="Complete" modifyDate="28.03.2022" istablet="false">Iespējot Svītru koda skenēšanu rezervāciju uzmeklēšanai</string>
     <string name="enable bowl out" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="true">iespējot "izspēlēt ātrāk"</string>
     <string name="Enable Camera" translator="jk" status="Complete" modifyDate="06.03.2023" istablet="false">Iespējot kameru</string>
-    <string name="enable change language" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="true">iespējot "valodas"</string>
+    <string name="enable change language" translator="jk" status="Complete" modifyDate="09.03.2026" istablet="true">iespējot "valodas"</string>
     <string name="enable clear scores" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="true">iespējot "dzēst rezultātu"</string>
     <string name="enable competition play" translator="jk" status="Complete" modifyDate="29.04.2016" istablet="true">iespējot sacensību režīmu</string>
     <string name="enable edit names" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="true">iespējot "rediģēt vārdus"</string>
