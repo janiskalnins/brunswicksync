@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TRNExportImportModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Culture="lv-LV" DisplayLanguage="Latviešu" IsModifiable="false" IsLocal="true" Version="4.1.1162">
   <resources>
-    <string name="  Then By: " translator="JK" status="Complete" modifyDate="10.03.2026" istablet="false"> Pēc tam pēc::</string>
+    <string name="  Then By: " translator="JK" status="Complete" modifyDate="10.03.2026" istablet="false"> Pēc tam pēc:</string>
     <string name=" (Unavailable)" translator="jk" status="Complete" modifyDate="01.03.2026" istablet="false">(Nav pieejams)</string>
     <string name=" cards not dispensed" translator="Original Seed" status="Review" modifyDate="02.10.2025" istablet="false">- cards not dispensed</string>
     <string name=" Cash Gratuities" translator="jk" status="Complete" modifyDate="27.02.2026" istablet="false">Pateicības Naudā</string>
@@ -209,7 +209,7 @@
     <string name="Account Information" translator="jk" status="Complete" modifyDate="13.05.2016" istablet="false">Konta Informācija</string>
     <string name="Account Name Changed" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">Konta Nosaukums ir mainīts</string>
     <string name="Account names must be unique" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Kontu nosaukumiem jābūt unikāliem</string>
-    <string name="Account number cannot duplicate the 'Sales Tax Payable' account number." translator="Claude (AI)" status="Complete" modifyDate="05.03.2026" istablet="false">Konta numurs nevar būt identisks "Pārdošanas nodoklis maksājams" konta numuram.</string>
+    <string name="Account number cannot duplicate the 'Sales Tax Payable' account number." translator="Claude (AI)" status="Complete" modifyDate="10.03.2026" istablet="false">Konta numurs nevar būt identisks “Pārdošanas nodoklis maksājams” konta numuram.</string>
     <string name="Account Summary" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Kontu kopsavilkums</string>
     <string name="Account Type" translator="jk" status="Complete" modifyDate="21.05.2016" istablet="false">Konta Veids</string>
     <string name="Account Type (QuickBooks)" translator="Original Seed" status="Review" modifyDate="11.11.2024" istablet="false">Account Type (QuickBooks)</string>
@@ -278,7 +278,7 @@
     <string name="Add Game Card" translator="jk" status="Complete" modifyDate="16.01.2022" istablet="false">Pievienot spēļu karti</string>
     <string name="Add Gratuity" translator="jk" status="Complete" modifyDate="07.05.2023" istablet="false">Pievienot pateicību</string>
     <string name="Add Group" translator="jk" status="Complete" modifyDate="13.08.2020" istablet="false">Pievienot grupu</string>
-    <string name="Add your picture or edit your name from the Edit Bowlers screen." translator="jk" status="Complete" modifyDate="12.01.2022" istablet="false">Pievienojiet attēlu vai rediģējiet savu vārdu "Rediģēt Spēlētāju" ekrāna.</string>
+    <string name="Add your picture or edit your name from the Edit Bowlers screen." translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Pievienojiet attēlu vai rediģējiet savu vārdu “Rediģēt Spēlētāju” ekrāna.</string>
     <string name="Add Landmark" translator="jk" status="Complete" modifyDate="13.08.2020" istablet="false">Pievienot orientieri</string>
     <string name="Add Lanes" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Pievienot Celiņus</string>
     <string name="Add Lanes Wizard" translator="jk" status="Complete" modifyDate="25.04.2017" istablet="false">Celiņu pievienošana</string>
@@ -555,8 +555,8 @@
     <string name="Angry Birds" translator="jk" status="Complete" modifyDate="24.02.2019" istablet="true">Piktie putni</string>
     <string name="Angry Birds (10 pin)" translator="jk" status="Complete" modifyDate="10.11.2017" istablet="false">Piktie Putni (10 ķegļu)</string>
     <string name="Angry Birds Bowling" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="true">Piktie Putni</string>
-    <string name="Angry Birds Bowling is a furiously fast paced, bird flinging, pig smashing, ten pin bowling game. Join the flock as you race to dish out revenge on the greedy pigs who stole your eggs. Bring your “A” game" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="true">Pikto Putnu Boulings ir neganti strauja tempa, putnu mētājoša, cūku satriecoša, desmit ķegļu boulinga spēle. Pievienojies pulciņam kas triecās atriebties mantkārīgajām cūkām, kuras ir nozagušas olas. Parādi "A" klasi!!</string>
-    <string name="Angry Birds Bowling is a furiously fast paced, bird flinging, pig smashing, ten pin bowling game. Join the flock as you race to dish out revenge on the greedy pigs who stole your eggs. Bring your “A” game." translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Pikto Putnu Boulings ir neganti strauja tempa, putnu mētājoša, cūku satriecoša, desmit ķegļu boulinga spēle. Pievienojies pulciņam kas triecās atriebties mantkārīgajām cūkām, kuras ir nozagušas olas. Parādi "A" klasi!!</string>
+    <string name="Angry Birds Bowling is a furiously fast paced, bird flinging, pig smashing, ten pin bowling game. Join the flock as you race to dish out revenge on the greedy pigs who stole your eggs. Bring your “A” game" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="true">Pikto Putnu Boulings ir neganti strauja tempa, putnu mētājoša, cūku satriecoša, desmit ķegļu boulinga spēle. Pievienojies pulciņam kas triecās atriebties mantkārīgajām cūkām, kuras ir nozagušas olas. Parādi “A” klasi!!</string>
+    <string name="Angry Birds Bowling is a furiously fast paced, bird flinging, pig smashing, ten pin bowling game. Join the flock as you race to dish out revenge on the greedy pigs who stole your eggs. Bring your “A” game." translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Pikto Putnu Boulings ir neganti strauja tempa, putnu mētājoša, cūku satriecoša, desmit ķegļu boulinga spēle. Pievienojies pulciņam kas triecās atriebties mantkārīgajām cūkām, kuras ir nozagušas olas. Parādi “A” klasi!!</string>
     <string name="Anisotropic filtering mode" translator="tld" status="Complete" modifyDate="27.02.2021" istablet="false">Anizotropa filtrēšanas režīms</string>
     <string name="Anisotropic filtering setting" translator="tld" status="Complete" modifyDate="27.02.2021" istablet="false">Anizotropa filtrēšanas iestatījums</string>
     <string name="Any data lacking or possessing disparate general ledger assignments undergoes " translator="jk" status="Complete" modifyDate="21.11.2024" istablet="false">Visi dati, kuriem trūkst vai kuriem ir atšķirīgas virsgrāmatas piešķires</string>
@@ -720,7 +720,7 @@
     <string name="Article" translator="jk" status="Complete" modifyDate="25.02.2026" istablet="false">Artikuls</string>
     <string name="As many frames as it takes to beat the competition" translator="jk" status="Complete" modifyDate="24.02.2019" istablet="false">Tik daudz rāmju, cik nepieciešams lai uzveiktu sāncenšus</string>
     <string name="Ascending Order" translator="jk" status="Complete" modifyDate="25.09.2025" istablet="false">Augošā secībā</string>
-    <string name="Assemble your team and let the lanes crown the next champions. With Best Frame, groups of friends and family can join forces, each player bowling their turn with the frame’s best ball taken as the team’s score for the round. Can you crush the competition with the perfect 300? Only one way to find out." translator="jk" status="Complete" modifyDate="28.02.2020" istablet="false">Sapulcini savu komandu un ļauj celiņiem kronēt nākamos čempionus. Ar spēli "Labākais Rāmis", draugi un ģimenes var apvienot spēkus, katram spēlētājam mēģinot uzmest labāko rāmja rezultātu, kurš tiek izmantots komandas rezultāta noteikšanai. Vai vari satriekt pretinieka komandu ar perfekto 300? Ir tikai viens veids kā to var noskaidrot.</string>
+    <string name="Assemble your team and let the lanes crown the next champions. With Best Frame, groups of friends and family can join forces, each player bowling their turn with the frame’s best ball taken as the team’s score for the round. Can you crush the competition with the perfect 300? Only one way to find out." translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Sapulcini savu komandu un ļauj celiņiem kronēt nākamos čempionus. Ar spēli “Labākais Rāmis”, draugi un ģimenes var apvienot spēkus, katram spēlētājam mēģinot uzmest labāko rāmja rezultātu, kurš tiek izmantots komandas rezultāta noteikšanai. Vai vari satriekt pretinieka komandu ar perfekto 300? Ir tikai viens veids kā to var noskaidrot.</string>
     <string name="Assign" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Piešķirt</string>
     <string name="Assign Amount" translator="jk" status="Complete" modifyDate="14.11.2019" istablet="false">Piešķirt apjomu</string>
     <string name="Assign Bumpers" translator="jk" status="Complete" modifyDate="24.02.2019" istablet="false">Piešķirt bortiņus</string>
@@ -922,7 +922,7 @@
     <string name="Ball Detect Height Above Lane in Millimeters (0 for default):" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Bumbu sensora augstums virs celiņa milimetros (0 = rūpnīcas iestat.)</string>
     <string name="BALL GAME" translator="tld" status="Complete" modifyDate="27.04.2021" istablet="true">BUMBU (-AS) SPĒLE </string>
     <string name="Ball Lift" translator="jk" status="Complete" modifyDate="23.06.2017" istablet="false">Bumbu Lifts</string>
-    <string name="Ball Return Reset Button Action" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Bumbu atgriešanas mehānisma "Reset" pogas darbība</string>
+    <string name="Ball Return Reset Button Action" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Bumbu atgriešanas mehānisma “Reset” pogas darbība</string>
     <string name="Ball Speed" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Bubas Ātrums</string>
     <string name="Ball Speed Multiplication Factor" translator="jk" status="Complete" modifyDate="27.04.2021" istablet="true">Bumbas ātruma reizināšanas faktors</string>
     <string name="Ball Tracking" translator="tld" status="Complete" modifyDate="23.08.2020" istablet="false">Bumbas izsekošana</string>
@@ -1389,7 +1389,7 @@
     <string name="Changed Previously Assigned Gratuities" translator="Original Seed" status="Complete" modifyDate="23.11.2024" istablet="false">Mainītas iepriekš piešķirtās pateicības</string>
     <string name="Changes have been made to the following lanes without being saved.  Are you sure you want to continue?" translator="jk" status="Complete" modifyDate="23.08.2020" istablet="false">Ir veiktas izmaiņas sekojošos celiņos, nesaglabājot tās. Vai tiešām vēlaties turpināt?</string>
     <string name="Changes have been made to the following lanes without being saved. Are you sure you want to continue?\r\n\r\n" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Sekojošiem celiņiem ir nesaglabātas izmaiņas. Vai tiešām vēlaties turpināt?\r\n\r\n</string>
-    <string name="Changes made to Extend Lanes require you to enter the System Health page and restart services so that the change will take effect." translator="jk" status="Complete" modifyDate="25.02.2026" istablet="false">Veicot izmaiņas "Pagarināt Boulinga Laiku" opcijai, ir nepieciešams restartēt servisus Sistēmas Veselība sadaļā, lai izmaiņas stātos spēkā.</string>
+    <string name="Changes made to Extend Lanes require you to enter the System Health page and restart services so that the change will take effect." translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Veicot izmaiņas “Pagarināt Boulinga Laiku” opcijai, ir nepieciešams restartēt servisus Sistēmas Veselība sadaļā, lai izmaiņas stātos spēkā.</string>
     <string name="Changes Saved" translator="jk" status="Complete" modifyDate="25.02.2026" istablet="false">Izmaiņas saglabātas</string>
     <string name="Changing locations will leave users clocked in, which will need to be resolved in 7shifts. It will also clear all user mappings. Do you want to continue?" translator="Original Seed" status="Review" modifyDate="03.11.2025" istablet="false">Changing locations will leave users clocked in, which will need to be resolved in 7shifts. It will also clear all user mappings. Do you want to continue?</string>
     <string name="Changing the Availability Map will reset all pricing for the package back to the product's default price with a quantity of 1. Are you sure?" translator="jk" status="Complete" modifyDate="29.08.2016" istablet="false">Mainot Pieejamības Karti, Komplekta produktu cenas tiks nomainītas uz to noklusētajām vērtībām un daudzums uz 1 vienību. Vai vēlaties turpināt?</string>
@@ -1673,7 +1673,7 @@
     <string name="Configuration Name" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Konfigurācijas nosaukums</string>
     <string name="Configuration Successful" translator="jk" status="Complete" modifyDate="04.03.2017" istablet="false">Konfigurācija ir sekmīga</string>
     <string name="configuration summary" translator="jk" status="Complete" modifyDate="29.04.2016" istablet="true">konfigurācijas apkopojums</string>
-    <string name="Configuration was completed successfully. Please use the Test button to confirm." translator="jk" status="Complete" modifyDate="31.08.2019" istablet="false">Konfigurācija tika veiksmīgi pabeigta. Lūdzu nospiest pogu "Pārbaudīt" lai verificētu konfigurāciju.</string>
+    <string name="Configuration was completed successfully. Please use the Test button to confirm." translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Konfigurācija tika veiksmīgi pabeigta. Lūdzu nospiest pogu “Pārbaudīt” lai verificētu konfigurāciju.</string>
     <string name="configure" translator="jk" status="Complete" modifyDate="29.04.2016" istablet="true">konfigurēt</string>
     <string name="Configure" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Konfigurēt</string>
     <string name="Configure and manage the Spark Servers." translator="jk" status="Complete" modifyDate="24.08.2019" istablet="false">Konfigurēt un pārvaldīt Spark Serverus</string>
@@ -2742,13 +2742,13 @@
     <string name="Enable application for Optimus" translator="tld" status="Complete" modifyDate="22.08.2020" istablet="false">Iespējot programmu Optimus</string>
     <string name="Enable Automated Reboots" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Iespējot automātisko restartēšanu</string>
     <string name="Enable Bar Code Scan for Reservation Lookup" translator="jk" status="Complete" modifyDate="28.03.2022" istablet="false">Iespējot Svītru koda skenēšanu rezervāciju uzmeklēšanai</string>
-    <string name="enable bowl out" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="true">iespējot "izspēlēt ātrāk"</string>
+    <string name="enable bowl out" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="true">iespējot “izspēlēt ātrāk”</string>
     <string name="Enable Camera" translator="jk" status="Complete" modifyDate="06.03.2023" istablet="false">Iespējot kameru</string>
-    <string name="enable change language" translator="jk" status="Complete" modifyDate="09.03.2026" istablet="true">iespējot "valodas"</string>
-    <string name="enable clear scores" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="true">iespējot "dzēst rezultātu"</string>
+    <string name="enable change language" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="true">iespējot “valodas”</string>
+    <string name="enable clear scores" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="true">iespējot “dzēst rezultātu”</string>
     <string name="enable competition play" translator="jk" status="Complete" modifyDate="29.04.2016" istablet="true">iespējot sacensību režīmu</string>
-    <string name="enable edit names" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="true">iespējot "rediģēt vārdus"</string>
-    <string name="enable edit score" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="true">iespējot "rediģēt rezultātus"</string>
+    <string name="enable edit names" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="true">iespējot “rediģēt vārdus”</string>
+    <string name="enable edit score" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="true">iespējot “rediģēt rezultātus”</string>
     <string name="Enable Editing" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Iespējot rediģēšanu</string>
     <string name="Enable Effects" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Iespējot efektus</string>
     <string name="Enable EMV Mode" translator="jk" status="Complete" modifyDate="16.02.2017" istablet="false">Iespējot EMV režīmu</string>
@@ -2784,14 +2784,14 @@
     <string name="Enable Round Up for Charity" translator="jk" status="Complete" modifyDate="28.03.2022" istablet="false">Iespējot noapaļošanu labdarībai</string>
     <string name="Enable sample interleaving (MFAA)" translator="Original Seed" status="Review" modifyDate="11.08.2020" istablet="false">Enable sample interleaving (MFAA)</string>
     <string name="Enable Scroll" translator="jk" status="Complete" modifyDate="28.03.2022" istablet="false">Iespējot ritināšanu</string>
-    <string name="enable skip bowler" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="true">iespējot "izlaist spēlētāju"</string>
-    <string name="enable specials" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="true">iespējot "īpašie piedāvājumi"</string>
+    <string name="enable skip bowler" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="true">iespējot “izlaist spēlētāju”</string>
+    <string name="enable specials" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="true">iespējot “īpašie piedāvājumi”</string>
     <string name="Enable SSL" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Iespējot SSL</string>
-    <string name="enable start game" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="true">iespējot "sākt spēli"</string>
-    <string name="enable statistics" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="true">iespējot "statistika"</string>
+    <string name="enable start game" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="true">iespējot “sākt spēli”</string>
+    <string name="enable statistics" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="true">iespējot “statistika”</string>
     <string name="Enable Surcharging" translator="jk" status="Complete" modifyDate="26.11.2024" istablet="false">Iespējot papildmaksu</string>
     <string name="Enable Tablet Pinsetter Control" translator="jk" status="Complete" modifyDate="25.09.2025" istablet="false">Iespējot Pinsetera vadību Planšetē</string>
-    <string name="enable team info" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="true">iespējot "komandas info"</string>
+    <string name="enable team info" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="true">iespējot “komandas info”</string>
     <string name="Enable Using Seats for Guest Count" translator="tld" status="Complete" modifyDate="13.05.2023" istablet="false">Iespējot viesu skaita vietu izmantošanu</string>
     <string name="Enable VAT Rules" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Iespējot PVN noteikumus</string>
     <string name="Enable/Disable Kiosks" translator="jk" status="Complete" modifyDate="12.05.2023" istablet="false">Iespējot/Atspējot SSK Kioskus</string>
@@ -3337,8 +3337,8 @@ programmaparatūru</string>
     <string name="Force Override" translator="jk" status="Complete" modifyDate="13.05.2023" istablet="false">Pārņemt piespiedu kārtā</string>
     <string name="Force Pay Out Gratuities Before End Shift User" translator="jk" status="Complete" modifyDate="26.02.2026" istablet="false">Pieprasīt pateicību izmaksu pirms Noslēgt Maiņu.</string>
     <string name="Force Stereo shuttering" translator="Original Seed" status="Review" modifyDate="11.08.2020" istablet="false">Force Stereo shuttering</string>
-    <string name="Force Tabs to be Named before Pay Later" translator="jk" status="Complete" modifyDate="07.03.2021" istablet="false">Pieprasīt Rēķina nosaukumu pirms "Maksāt Vēlāk" veikšanas</string>
-    <string name="Force Tabs to be Named before Pay Now" translator="jk" status="Complete" modifyDate="07.03.2021" istablet="false">Pieprasīt Rēķina nosaukumu pirms "Maksāt Tagad" veikšanas</string>
+    <string name="Force Tabs to be Named before Pay Later" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Pieprasīt Rēķina nosaukumu pirms “Maksāt Vēlāk” veikšanas</string>
+    <string name="Force Tabs to be Named before Pay Now" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Pieprasīt Rēķina nosaukumu pirms “Maksāt Tagad” veikšanas</string>
     <string name="Foreign Currency" translator="tld" status="Complete" modifyDate="19.08.2020" istablet="false">Ārvalstu valūta</string>
     <string name="Forty Frame Game" translator="jk" status="Complete" modifyDate="25.09.2025" istablet="false">40 Rāmju Spēle</string>
     <string name="Forward Balance" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Pārsūtīšanas bilance</string>
@@ -4382,8 +4382,8 @@ Man nesanāca...</string>
     <string name="You must be a holy roller cuz that shot was a mircle!" translator="jk" status="Complete" modifyDate="01.10.2025" istablet="false">Tu noteikti esi burvis, jo šis metiens bija īsts brīnums!</string>
     <string name="You must first finish your current score edit." translator="jk" status="Complete" modifyDate="19.08.2020" istablet="true">Vispirms jums jāpabeidz tekošā rezultāta rediģēšanu</string>
     <string name="You must give this tab a name before continuing the selected operation." translator="jk" status="Complete" modifyDate="23.01.2022" istablet="false">Lai turpinātu atlasīto operāciju, šim rēķinam ir jāpiešķir nosaukums.</string>
-    <string name="You must give this tab a name before using Pay Later." translator="jk" status="Complete" modifyDate="23.11.2024" istablet="false">Pirms "Maksāt Vēlāk", šim Rēķinam ir jāpiešķir nosaukums</string>
-    <string name="You must give this tab a name before using Pay Now." translator="jk" status="Complete" modifyDate="23.11.2024" istablet="false">Pirms "Maksāt Tagad", šim Rēķinam ir jāpiešķir nosaukums</string>
+    <string name="You must give this tab a name before using Pay Later." translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Pirms “Maksāt Vēlāk”, šim Rēķinam ir jāpiešķir nosaukums</string>
+    <string name="You must give this tab a name before using Pay Now." translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Pirms “Maksāt Tagad”, šim Rēķinam ir jāpiešķir nosaukums</string>
     <string name="You must have at least 1 product in a package. Please add another product to this package before attempting to remove this product again." translator="jk" status="Complete" modifyDate="07.02.2017" istablet="false">Komplektā jābūt vismaz vienam produktam. Lūdzu pievienojiet citu produktu, pirms mēģinat dzēst šo produktu atkārtoti.</string>
     <string name="You must move all products/packages containing a coupon at once.  Additionally, two transactions can not have the same coupon applied to them." translator="jk" status="Complete" modifyDate="22.03.2017" istablet="false">Jums jāpārvieto visi kuponu saturošie produkti/komplekti vienlaicīgi. Papildus, divas transakcijas nevar saturēt vienu un to pašu kuponu.</string>
     <string name="You must refund the primary payment, not the gratuity payment." translator="tld" status="Complete" modifyDate="27.09.2025" istablet="false">Jums ir jāatmaksā primārais maksājums, nevis pateicības maksājums.</string>
@@ -4724,7 +4724,7 @@ Man nesanāca...</string>
     <string name="Leagues" translator="jk" status="Complete" modifyDate="19.08.2020" istablet="false">Boulinga Līgas</string>
     <string name="Lean, mean bowling machine!" translator="Original Seed" status="Complete" modifyDate="02.10.2025" istablet="false">Kas ilgi guļ, tas salmus kuļ.</string>
     <string name="Least Valuable Player" translator="tld" status="Complete" modifyDate="06.03.2021" istablet="false">Vismazāk vērtīgais spēlētājs</string>
-    <string name="Leave at 0 to let the bowler decide." translator="jk" status="Complete" modifyDate="10.11.2017" istablet="false">Atstājiet vērtību "0" lai ļautu izvēlēties spēlētājam.</string>
+    <string name="Leave at 0 to let the bowler decide." translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Atstājiet vērtību “0” lai ļautu izvēlēties spēlētājam.</string>
     <string name="Leave Check Open" translator="jk" status="Complete" modifyDate="09.04.2017" istablet="false">Atstāt čeku atvērtu</string>
     <string name="Leaving this blank will assign Service Fees to a blank user" translator="jk" status="Complete" modifyDate="26.09.2025" istablet="false">Atstājot šo tukšu, Apkalpošanas maksas tiks piešķirtas tukšam lietotājam</string>
     <string name="LED Type" translator="jk" status="Complete" modifyDate="25.02.2026" istablet="false">LED veids</string>
@@ -4893,7 +4893,7 @@ Man nesanāca...</string>
     <string name="Love The Game (Duckpin)" translator="Original Seed" status="Review" modifyDate="07.11.2017" istablet="false">Love The Game (Duckpin)</string>
     <string name="Love The Game (Five Pin)" translator="jk" status="Review" modifyDate="28.03.2017" istablet="false">Mīlu šo spēli (Five Pin)</string>
     <string name="Love the Game captures all the raw emotions of the great game of bowling. From the thrill of a 300 game to the agony of rolling a gutter ball and everything in between, we’ve captured it all." translator="jk" status="Review" modifyDate="28.03.2017" istablet="true">Visas kaislīgākās boulinga spēles emocijas ir apkopotas šajā noformējumā.</string>
-    <string name="Love the Game captures all the raw emotions of the great game of bowling. From the thrill of a 450 game to the agony of rolling a gutter ball and everything in between, we’ve captured it all." translator="jk" status="Complete" modifyDate="17.08.2020" istablet="false">"Mīlu Šo Spēli" tver visas boulinga spēles pirmatnējās emocijas.  No 450 punktu spēles saviļņojuma, līdz renē iemestās bumbas agonijai, mēs to visu esam ietvēruši.</string>
+    <string name="Love the Game captures all the raw emotions of the great game of bowling. From the thrill of a 450 game to the agony of rolling a gutter ball and everything in between, we’ve captured it all." translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">“Mīlu Šo Spēli” tver visas boulinga spēles pirmatnējās emocijas.  No 450 punktu spēles saviļņojuma, līdz renē iemestās bumbas agonijai, mēs to visu esam ietvēruši.</string>
     <string name="Love the Game captures all the raw emotions of the great game of bowling. From the thrill of a perfect game to the agony of rolling a gutter ball and everything in between, we’ve captured it all." translator="jk" status="Complete" modifyDate="09.04.2017" istablet="true">Visas kaislīgākās boulinga spēles emocijas ir apkopotas šajā noformējumā.</string>
     <string name="Low" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Zema</string>
     <string name="Low Priority" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Zema Prioritāte</string>
@@ -5424,7 +5424,7 @@ Man nesanāca...</string>
     <string name="Move single lane to the left &lt;-&lt;" translator="jk" status="Complete" modifyDate="18.01.2017" istablet="false">Pārvietot vienu celiņu pa kreisi &lt;&lt;</string>
     <string name="Move single lane to the right &gt;-&gt;" translator="jk" status="Complete" modifyDate="29.08.2016" istablet="false">Pārvietot vienu celiņu pa labi &gt;-&gt;</string>
     <string name="move to next assignment" translator="jk" status="Complete" modifyDate="29.04.2016" istablet="true">pāriet uz nākamo celiņu</string>
-    <string name="Move to OK" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Lai pārietu, nospiediet "Labi"</string>
+    <string name="Move to OK" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Lai pārietu, nospiediet “Labi”</string>
     <string name="Move Up" translator="jk" status="Complete" modifyDate="21.05.2016" istablet="false">Pārvietot uz Augšu</string>
     <string name="Move/Combine/Split Tabs" translator="jk" status="Complete" modifyDate="06.03.2021" istablet="false">Pārvietot/apvienot/sadalīt rēķinus</string>
     <string name="Moved by" translator="jk" status="Complete" modifyDate="18.02.2020" istablet="false">Pārvietoja:</string>
@@ -5719,7 +5719,7 @@ skaņu
     <string name="No Timed Access assignment with the scanned barcode could be found." translator="jk" status="Complete" modifyDate="18.01.2022" istablet="false">Ar skenēto svītrkodu nevarēja atrast Termiņa Piekļuves piešķiri</string>
     <string name="No tip" translator="jk" status="Complete" modifyDate="01.10.2025" istablet="false">Bez dzeramnaudas</string>
     <string name="No transactions occurred during the selected date range." translator="jk" status="Complete" modifyDate="06.03.2023" istablet="false">Atlasītajā datumu diapazonā netika veiktas nekādas darbības.</string>
-    <string name="No update found on removable media. Installation folder must begin with \&quot;Sync\&quot;" translator="jk" status="Complete" modifyDate="16.01.2022" istablet="true">Noņemamā datu nesējā nav atrasts neviens atjauninājums. Instalācijas mapei jāsākas ar \"Sync\"</string>
+    <string name="No update found on removable media. Installation folder must begin with \&quot;Sync\&quot;" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="true">Noņemamā datu nesējā nav atrasts neviens atjauninājums. Instalācijas mapei jāsākas ar \“Sync\”</string>
     <string name="No update found on removable media. Installation folder must begin with Sync" translator="jk" status="Complete" modifyDate="06.03.2023" istablet="false">Noņemamā datu nesējā nav atrasts neviens atjauninājums. Instalācijas mapei jāsākas ar Sync</string>
     <string name="No URL Defined In Configuration" translator="tld" status="Complete" modifyDate="17.08.2020" istablet="false">Konfigurācijā nav definēts vietrādis URL</string>
     <string name="No valid IP could be acquired. Please reboot this tablet after the Display Controller has been turned on." translator="jk" status="Complete" modifyDate="23.01.2022" istablet="true">Nevarēja iegūt derīgu IP. Lūdzu, atsāknējiet šo Planšeti pēc tam, kad ir ieslēgts Ekrānu Kontrolleris.</string>
@@ -5884,7 +5884,7 @@ skaņu
     <string name="One or more dates selected have not been processed for Fiscal Z reporting." translator="jk" status="Complete" modifyDate="23.01.2022" istablet="false">Fiskālā Z pārskatiem nav apstrādāts viens vai vairāki atlasītie datumi.</string>
     <string name="One or More Entitlements No Longer Exist in the Stored Value System" translator="JK" status="Complete" modifyDate="09.03.2026" istablet="false">Viena vai vairākas tiesības vairs nepastāv Priekšapmaksas norēķinu sistēmā</string>
     <string name="One or more items could not be printed to a remote order printer." translator="jk" status="Complete" modifyDate="29.08.2016" istablet="false">Vienu vai vairākus posteņus nevarēja izdrukāt uz attālinātā pasūtījuma printera.</string>
-    <string name="One or more of the selected lanes is issued.  Do you want to continue and put the issued lanes into lane cleaning?" translator="jk" status="Complete" modifyDate="31.08.2019" istablet="false">Viens vai vairāki no norādītajiem celiņiem ir ieslēgts. Vai vēlaties turpināt un pārslēgt ieslēgtos celiņus uz "Celiņu apkopes" režīmu?</string>
+    <string name="One or more of the selected lanes is issued.  Do you want to continue and put the issued lanes into lane cleaning?" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Viens vai vairāki no norādītajiem celiņiem ir ieslēgts. Vai vēlaties turpināt un pārslēgt ieslēgtos celiņus uz “Celiņu apkopes” režīmu?</string>
     <string name="One or more of the selected lanes is marked as reserved.  Do you want to continue and issue the lane?" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Viens vai vairāki celiņi ir atzīmēti kā rezervēti. Vai vēlaties turpināt un ieslēgt iezīmētos celiņus?</string>
     <string name="One or more of the selected lanes is waiting to be cleaned" translator="jk" status="Complete" modifyDate="17.08.2020" istablet="false">Viens vai vairāki no iezīmētajiem celiņiem gaida apkopi</string>
     <string name="One or more of the selected lanes is waiting to be cleaned.  Do you want to continue and issue the lane?" translator="jk" status="Complete" modifyDate="18.02.2020" istablet="false">Viens vai vairāki no iezīmētajiem celiņiem gaida apkopi. Vai vēlaties turpināt un ieslēgt celiņu?</string>
@@ -6373,8 +6373,8 @@ skaņu
     <string name="pinpix" translator="Original Seed" status="Complete" modifyDate="07.11.2017" istablet="true">pinpix</string>
     <string name="pinpix (10 pin)" translator="jk" status="Complete" modifyDate="12.11.2017" istablet="false">pinpix (10 ķegļu)</string>
     <string name="pinpix (Five Pin)" translator="Original Seed" status="Review" modifyDate="11.08.2020" istablet="false">pinpix (Five Pin)</string>
-    <string name="pinpix lets guests take their own photos and apply wacky accessories to their image while being photobombed through out the game. Great for kids but fun for all ages." translator="jk" status="Complete" modifyDate="10.11.2017" istablet="false">"pinpix" ļauj boulinga centra apmeklētājiem izmantot rezultātu tabulās savus attēlus un pielikt tiem dažādas uzlīmes un ķiņķēziņus spēles laikā. Lieliski piemērots bērniem bet spēs sagādāt jautrību jebkura vecuma spēlētājiem.</string>
-    <string name="pinpix lets guests take their own photos and apply wacky accessories to their image while being photobombed throughout the game. Great for kids but fun for all ages." translator="jk" status="Complete" modifyDate="13.05.2023" istablet="true">"pinpix" ļauj boulinga centra apmeklētājiem izmantot rezultātu tabulās savus attēlus un pielikt tiem dažādas uzlīmes un ķiņķēziņus spēles laikā. Lieliski piemērots bērniem bet spēs sagādāt jautrību jebkura vecuma spēlētājiem.</string>
+    <string name="pinpix lets guests take their own photos and apply wacky accessories to their image while being photobombed through out the game. Great for kids but fun for all ages." translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">“pinpix” ļauj boulinga centra apmeklētājiem izmantot rezultātu tabulās savus attēlus un pielikt tiem dažādas uzlīmes un ķiņķēziņus spēles laikā. Lieliski piemērots bērniem bet spēs sagādāt jautrību jebkura vecuma spēlētājiem.</string>
+    <string name="pinpix lets guests take their own photos and apply wacky accessories to their image while being photobombed throughout the game. Great for kids but fun for all ages." translator="jk" status="Complete" modifyDate="10.03.2026" istablet="true">“pinpix” ļauj boulinga centra apmeklētājiem izmantot rezultātu tabulās savus attēlus un pielikt tiem dažādas uzlīmes un ķiņķēziņus spēles laikā. Lieliski piemērots bērniem bet spēs sagādāt jautrību jebkura vecuma spēlētājiem.</string>
     <string name="pins" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">ķegļi</string>
     <string name="Pins" translator="jk" status="Complete" modifyDate="03.06.2016" istablet="false">Rādīt ķegļus</string>
     <string name="Pins are worth 1 point each" translator="jk" status="Complete" modifyDate="13.05.2023" istablet="false">Katrs ķeglis ir viena punkta vērts</string>
@@ -6517,9 +6517,9 @@ skaņu
     <string name="Please scan the assignment barcode to start or finalize an assignment, or enter a name to search for the customer." translator="jk" status="Complete" modifyDate="20.01.2022" istablet="false">Lūdzu noskenējiet piešķires svītru kodu lai sāktu vai noslēgtu piešķiri, vai ievadiet vārdu lai meklētu klientu.</string>
     <string name="Please scan the barcode now." translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Tagad skenējiet svītrukodu</string>
     <string name="Please scan the card now." translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Lūdzu noskanējiet karti tagad</string>
-    <string name="Please scan the QR code below again, and then click Confirm" translator="jk" status="Complete" modifyDate="31.08.2019" istablet="false">Lūdzu atkārtoti noskenēt zemāk atainoto QR kodu un nospiest pogu "Apstiprināt"</string>
+    <string name="Please scan the QR code below again, and then click Confirm" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Lūdzu atkārtoti noskenēt zemāk atainoto QR kodu un nospiest pogu “Apstiprināt”</string>
     <string name="Please scan the QR code below, and if nothing happens then the configuration was not successful" translator="jk" status="Complete" modifyDate="18.02.2020" istablet="false">Lūdzu noskenējiet zemāk atrodamo QR kodu un, ja nekas nenotiek, konfigurācija netika pabeigta veiksmīgi</string>
-    <string name="Please scan the QR code below, and then click Next. After that you will prompted to scan it again." translator="jk" status="Complete" modifyDate="14.11.2019" istablet="false">Lūdzu noskenējiet zemāk atrodamo QR kodu un nospiediet pogu "Tālāk". Pēc tā jums tik pieprasīts noskenēt kodu vēlreiz.</string>
+    <string name="Please scan the QR code below, and then click Next. After that you will prompted to scan it again." translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Lūdzu noskenējiet zemāk atrodamo QR kodu un nospiediet pogu “Tālāk”. Pēc tā jums tik pieprasīts noskenēt kodu vēlreiz.</string>
     <string name="Please scan the QR code first" translator="jk" status="Complete" modifyDate="11.11.2019" istablet="false">Vispirms lūdzu noskenējiet QR kodu</string>
     <string name="Please see an associate for updates on your reservation." translator="jk" status="Complete" modifyDate="13.05.2023" istablet="false">Lai saņemtu atjauninājumus par rezervāciju, lūdzu, sazinieties ar saistīto personu.</string>
     <string name="Please see desk for extension options." translator="jk" status="Complete" modifyDate="26.09.2025" istablet="true">Lūdzu, sazinieties ar personālu, lai uzzinātu par spēles laika pagarināšanas iespējām.</string>
@@ -6666,11 +6666,11 @@ skaņu
     <string name="Prepare to be shellshocked." translator="jk" status="Complete" modifyDate="21.01.2022" istablet="false">Gatavojies būt šokēts.</string>
     <string name="Preparing Report To Print" translator="jk" status="Complete" modifyDate="03.06.2016" istablet="false">Sagatavo atskaiti drukāšanai</string>
     <string name="press enter or throw a ball to start next game" translator="jk" status="Complete" modifyDate="04.05.2016" istablet="false">nospiediet enter vai ripiniet bumbu lai sāktu nākošo spēli</string>
-    <string name="press enter to pick another pattern" translator="jk" status="Complete" modifyDate="21.06.2017" istablet="false">nospiediet "enter" lai izvēlētos citu kombināciju</string>
+    <string name="press enter to pick another pattern" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">nospiediet “enter” lai izvēlētos citu kombināciju</string>
     <string name="press OK or throw a ball to start next game" translator="jk" status="Complete" modifyDate="26.03.2017" istablet="false">nospiediet 'labi' vai ripiniet bumbu lai sāktu nākošo spēli</string>
     <string name="Press OK or throw a ball to start next game." translator="jk" status="Complete" modifyDate="12.04.2022" istablet="false">Nospiediet 'labi' vai ripiniet bumbu lai sāktu nākošo spēli</string>
-    <string name="PRESS OK TO CONTINUE" translator="jk" status="Complete" modifyDate="13.05.2016" istablet="false">NOSPIEŽAT "Labi" LAI TURPINĀTU</string>
-    <string name="Press ok to select your mascot" translator="jk" status="Complete" modifyDate="31.10.2019" istablet="false">Nospiediet "labi" lai nomainītu talismanu</string>
+    <string name="PRESS OK TO CONTINUE" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">NOSPIEŽAT “LABI” LAI TURPINĀTU</string>
+    <string name="Press ok to select your mascot" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Nospiediet “Labi” lai nomainītu talismanu</string>
     <string name="press OK to view next lane assignment" translator="jk" status="Complete" modifyDate="02.05.2016" istablet="false">nospiežat Labi lai apskatītu nākamā celiņa numuru</string>
     <string name="press space to start next game" translator="jk" status="Complete" modifyDate="12.01.2017" istablet="false">nospiediet atstarpes taustiņu lai sāktu nākošo spēli</string>
     <string name="Preview Invoice" translator="jk" status="Complete" modifyDate="04.11.2025" istablet="false">Priekšskatīt rēķinu</string>
@@ -7605,8 +7605,8 @@ pirms automātiskās startēšanas</string>
     <string name="Security Policies" translator="jk" status="Complete" modifyDate="25.08.2016" istablet="false">Drošības Politika</string>
     <string name="Security Reports" translator="jk" status="Complete" modifyDate="25.08.2016" istablet="false">Drošības Atskaite</string>
     <string name="See each player's game stats." translator="jk" status="Complete" modifyDate="24.08.2019" istablet="true">Skatīt katra spēlētāja statistiku</string>
-    <string name="See if your team has what it takes. Compete in a \&quot;best frame\&quot; competition where everyone has a chance to win one for the team. The player with the best score in each frame counts toward the composite score for the team. It is the ultimate team game!" translator="jk" status="Complete" modifyDate="04.03.2020" istablet="false">Pārbaudat vai jūsu komanda ir labākā! Sacenšaties "labākais rāmis" sacensībās, kur ikvienam ir iespēja uzvarēt rāmi komandai. Spēlētājs ar labāko rezultātu katrā rāmī tiek ieskaitīts komandas kopējā punktu tabulā. Šī ir visīstākā komandas spēle!</string>
-    <string name="See if your team has what it takes. Compete in a best frame competition where everyone has a chance to win one for the team. The player with the best score in each frame counts toward the composite score for the team. It is the ultimate team game!" translator="jk" status="Complete" modifyDate="06.03.2021" istablet="true">Pārbaudat vai jūsu komanda ir labākā! Sacenšaties "labākais rāmis" sacensībās, kur ikvienam ir iespēja uzvarēt rāmi komandai. Spēlētājs ar labāko rezultātu katrā rāmī tiek ieskaitīts komandas kopējā punktu tabulā. Šī ir visīstākā komandas spēle!</string>
+    <string name="See if your team has what it takes. Compete in a \&quot;best frame\&quot; competition where everyone has a chance to win one for the team. The player with the best score in each frame counts toward the composite score for the team. It is the ultimate team game!" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Pārbaudat vai jūsu komanda ir labākā! Sacenšaties “labākais rāmis” sacensībās, kur ikvienam ir iespēja uzvarēt rāmi komandai. Spēlētājs ar labāko rezultātu katrā rāmī tiek ieskaitīts komandas kopējā punktu tabulā. Šī ir visīstākā komandas spēle!</string>
+    <string name="See if your team has what it takes. Compete in a best frame competition where everyone has a chance to win one for the team. The player with the best score in each frame counts toward the composite score for the team. It is the ultimate team game!" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="true">Pārbaudat vai jūsu komanda ir labākā! Sacenšaties “labākais rāmis” sacensībās, kur ikvienam ir iespēja uzvarēt rāmi komandai. Spēlētājs ar labāko rezultātu katrā rāmī tiek ieskaitīts komandas kopējā punktu tabulā. Šī ir visīstākā komandas spēle!</string>
     <string name="Seeking New Friends" translator="JK" status="Complete" modifyDate="09.03.2026" istablet="false">Meklē jaunus draugus</string>
     <string name="Select" translator="jk" status="Complete" modifyDate="24.11.2024" istablet="false">Atlasīt</string>
     <string name="Select a Bowler" translator="jk" status="Complete" modifyDate="24.08.2019" istablet="false">Norādiet spēlētāju</string>
@@ -9034,7 +9034,7 @@ pirms automātiskās startēšanas</string>
     <string name="The response received was invalid." translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Saņemtā atbilde bija nederīga</string>
     <string name="The resulting file contained no data, so no attachment has been included." translator="jk" status="Complete" modifyDate="26.02.2026" istablet="false">Ģenerētajā failā nebija datu, tāpēc tas nav iekļauts pielikumā.</string>
     <string name="The retrieving box is full" translator="Original Seed" status="Review" modifyDate="11.11.2024" istablet="false">The retrieving box is full</string>
-    <string name="The rival rumble game" translator="jk" status="Complete" modifyDate="14.11.2019" istablet="true">Neliela sāncensība draugu starpā nekaitēs. "Sāncenšu Dārdi" ir spēle ar sacensību noskaņu kur viena celiņa spēlētāji apvienojas komandā pret citu celiņu komandām.</string>
+    <string name="The rival rumble game" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="true">Neliela sāncensība draugu starpā nekaitēs. “Sāncenšu Dārdi” ir spēle ar sacensību noskaņu kur viena celiņa spēlētāji apvienojas komandā pret citu celiņu komandām.</string>
     <string name="The Rivalry" translator="jk" status="Complete" modifyDate="06.03.2020" istablet="true">Sāncensība</string>
     <string name="The Rivalry (10 pin)" translator="jk" status="Complete" modifyDate="06.03.2020" istablet="false">Sāncensība (10 ķ)</string>
     <string name="The Rivalry (5 pin)" translator="Original Seed" status="Review" modifyDate="06.03.2020" istablet="false">Sāncensība (5 pin)</string>
@@ -9111,7 +9111,7 @@ pirms automātiskās startēšanas</string>
     <string name="The system scheduler is not running or is not communicating" translator="jk" status="Complete" modifyDate="16.08.2020" istablet="false">Sistēmas plānotājs nedarbojas vai neveic komunikāciju</string>
     <string name="The system was unable to email the automated reports." translator="jk" status="Complete" modifyDate="28.02.2020" istablet="false">Sistēma nevarēja nosūtīt automātiski izveidotās atskaites.</string>
     <string name="The software could not be download to the pinpad." translator="jk" status="Complete" modifyDate="23.03.2017" istablet="false">Nevarēja lejupielādēt programmatūru uz 'pinpad'</string>
-    <string name="The source and destination lanes have conflicting Pay by Bowler settings" translator="jk" status="Complete" modifyDate="06.03.2021" istablet="false">Avota un galamērķa celiņiem ir konfliktējoši "Maksāt pa spēlētāju" iestatījumi</string>
+    <string name="The source and destination lanes have conflicting Pay by Bowler settings" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Avota un galamērķa celiņiem ir konfliktējoši “Maksāt pa spēlētāju” iestatījumi</string>
     <string name="The Spark server has been restored with the selected backup. Please verify ball tracking is correct when the system boots back up." translator="jk" status="Complete" modifyDate="23.01.2022" istablet="false">Spark serveris ir atjaunots ar atlasīto dublējumu. Lūdzu, pārbaudiet, vai bumbu izsekošana ir pareiza, kad sistēma ir atkārtoti ielādējusies</string>
     <string name="The starting date and hour must be the same in order to import multiple files." translator="jk" status="Complete" modifyDate="06.03.2021" istablet="false">Lai importētu vairākus failus, sākuma datumam un laikam ir jābūt vienādiem.</string>
     <string name="The stored value system could not be contacted.  Please verify that the configuration is correct then retry the transaction." translator="Original Seed" status="Review" modifyDate="26.04.2016" istablet="true">The stored value system could not be contacted. Please verify that the configuration is correct then retry the transaction.</string>
@@ -9129,7 +9129,7 @@ pirms automātiskās startēšanas</string>
     <string name="The time clock system could not be contacted.  Please verify that the configuration is correct then retry the action." translator="tld" status="Complete" modifyDate="01.10.2025" istablet="false">Nevarēja sazināties ar laika uzskaites sistēmu. Lūdzu, pārbaudiet, vai konfigurācija ir pareiza, un pēc tam mēģiniet veikt darbību vēlreiz.</string>
     <string name="The tranasaction was processed successfully. Please use Find to access the split transactions." translator="jk" status="Complete" modifyDate="23.01.2022" istablet="false">Transakcija tika veiksmīgi apstrādāta. Lūdzu, izmantojiet Meklēt, lai piekļūtu sadalītajām transakcijām.</string>
     <string name="The tranasaction was processed successfully. Please use Find to access the transactions." translator="jk" status="Complete" modifyDate="28.03.2022" istablet="false">Transakcija tika veiksmīgi apstrādāta. Lūdzu, izmantojiet Meklēt, lai piekļūtu transakcijām.</string>
-    <string name="The tranasaction was split successfully. Please use Find to access the split transactions." translator="jk" status="Complete" modifyDate="15.09.2019" istablet="false">Transakcij tika veiksmīgi sadalīta. Lūdzu izmantot "Meklēt" opciju lai piekļūtu sadalītajām transakcijām.</string>
+    <string name="The tranasaction was split successfully. Please use Find to access the split transactions." translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Transakcij tika veiksmīgi sadalīta. Lūdzu izmantot “Meklēt” opciju lai piekļūtu sadalītajām transakcijām.</string>
     <string name="The transaction attached to the item could not be opened." translator="jk" status="Complete" modifyDate="26.03.2017" istablet="false">Nevarēja atvērt ar vienumu saistīto transakciju.</string>
     <string name="The transaction attached to the payment could not be opened." translator="jk" status="Complete" modifyDate="26.03.2017" istablet="false">Nevarēja atvērt ar maksājumu saistīto transakciju.</string>
     <string name="The transaction could not be found" translator="jk" status="Complete" modifyDate="13.05.2023" istablet="false">Nevarēja atrast transakciju</string>
@@ -9328,12 +9328,12 @@ pirms automātiskās startēšanas</string>
     <string name="There was not enough available product to transfer." translator="jk" status="Complete" modifyDate="26.03.2017" istablet="false">Nepietiekams produktu daudzums lai veiktu pārcelšanu</string>
     <string name="There was nothing to export." translator="jk" status="Complete" modifyDate="23.01.2022" istablet="false">Nebija ko eksportēt.</string>
     <string name="There were no transactions in the batch" translator="jk" status="Complete" modifyDate="28.02.2021" istablet="false">Pakešapstrādē nebija nevienas transakcijas</string>
-    <string name="There’s nothing like a little rivalry among friends. The Rivalry combines the fun of open play experience with the intensity of competitive play. Loaded with facts and stats to fuel your rivalry for years to come." translator="jk" status="Complete" modifyDate="06.03.2020" istablet="true">Neliela sāncensība draugu starpā nekaitēs. "Sāncensība" ir spēle ar sacensību noskaņu. Iespējams, tā sniegs jums iemeslu draudzīgam jokam un jautrām atmiņām, kas saglabāsies vēl ilgus gadus.</string>
+    <string name="There’s nothing like a little rivalry among friends. The Rivalry combines the fun of open play experience with the intensity of competitive play. Loaded with facts and stats to fuel your rivalry for years to come." translator="jk" status="Complete" modifyDate="10.03.2026" istablet="true">Neliela sāncensība draugu starpā nekaitēs. “Sāncensība” ir spēle ar sacensību noskaņu. Iespējams, tā sniegs jums iemeslu draudzīgam jokam un jautrām atmiņām, kas saglabāsies vēl ilgus gadus.</string>
     <string name="Theres no crying in bowling!" translator="jk" status="Complete" modifyDate="11.11.2019" istablet="false">Boulingā neviens neraud!</string>
     <string name="There's no wait! Play now." translator="jk" status="Complete" modifyDate="28.03.2022" istablet="false">Nav ko gaidīt! Spēlē tūlīt.</string>
     <string name="These lovable and mischievous Pin Pals deliver frame after frame of giggles and grins with their offbeat antics and a penchant for mayhem, all animated in eye-popping 3D." translator="jk" status="Complete" modifyDate="28.03.2017" istablet="true">Šie mīlīgie bet palaidnīgie Ķegļu Čomi liks jums smaidīt pēc katra rāmja ar savām grimasēm un ķīvēšanos uz ekrāna.</string>
     <string name="THINK YOUR TEAM HAS WHAT IT TAKES?" translator="JK" status="Complete" modifyDate="11.11.2019" istablet="false">VAI TAVAI KOMANDAI IR VISS LAI UZVARĒTU?</string>
-    <string name="Think your team has what it takes?  Compete in a best frame competition where everyone has a chance to win one for the team.  The player with the best score in each frame counts toward the composite score for the team.  It is the ultimate team game!" translator="jk" status="Complete" modifyDate="04.03.2020" istablet="true">Vai jums šķit ka jūsu komanda ir labākā? Sacenšaties "labākais rāmis" sacensībās, kur ikvienam ir iespēja uzvarēt rāmi komandai. Spēlētājs ar labāko rezultātu katrā rāmī tiek ieskaitīts komandas kopējā punktu tabulā. Šī ir visīstākā komandas spēle!</string>
+    <string name="Think your team has what it takes?  Compete in a best frame competition where everyone has a chance to win one for the team.  The player with the best score in each frame counts toward the composite score for the team.  It is the ultimate team game!" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="true">Vai jums šķit ka jūsu komanda ir labākā? Sacenšaties “labākais rāmis” sacensībās, kur ikvienam ir iespēja uzvarēt rāmi komandai. Spēlētājs ar labāko rezultātu katrā rāmī tiek ieskaitīts komandas kopējā punktu tabulā. Šī ir visīstākā komandas spēle!</string>
     <string name="Third" translator="jk" status="Complete" modifyDate="28.02.2020" istablet="false">Trešo</string>
     <string name="Third Friday" translator="jk" status="Complete" modifyDate="27.05.2016" istablet="false">Trešo Piektdienu</string>
     <string name="Third Monday" translator="jk" status="Complete" modifyDate="27.05.2016" istablet="false">Trešo Pirmdienu</string>
@@ -9992,7 +9992,7 @@ Programmatūru</string>
     <string name="Use Authorize/Capture Mode" translator="Original Seed" status="Review" modifyDate="03.01.2017" istablet="false">Use Authorize/Capture Mode</string>
     <string name="Use Automatic Spacing Algorithm" translator="jk" status="Complete" modifyDate="28.09.2025" istablet="false">Automātiskās atstarpes algoritma izmantošana</string>
     <string name="Use Auto-Start Next Game" translator="jk" status="Complete" modifyDate="16.08.2020" istablet="false">Izmantot automātisko nākošās spēles sāknēšanu</string>
-    <string name="Use Best Frame Bypass" translator="jk" status="Complete" modifyDate="28.02.2020" istablet="false">Izmantot "Labākais Rāmis" apiešanu</string>
+    <string name="Use Best Frame Bypass" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Izmantot “Labākais Rāmis” apiešanu</string>
     <string name="Use Bowler Attached Coupons" translator="jk" status="Complete" modifyDate="28.03.2022" istablet="false">Izmantot spēlētājam pievienotus kuponus</string>
     <string name="Use Business Day Start/Length on reservation schedule" translator="jk" status="Complete" modifyDate="23.01.2022" istablet="false">Izmantot darba dienas sākumu/garumu rezervācijas grafikā</string>
     <string name="Use Card Token" translator="Original Seed" status="Review" modifyDate="11.11.2024" istablet="false">Use Card Token</string>
@@ -10018,7 +10018,7 @@ Programmatūru</string>
     <string name="Use Intercard Entitlements" translator="tld" status="Review" modifyDate="28.02.2021" istablet="false">Izmantot Intercard tiesības</string>
     <string name="Use Intercard Revenue Integration" translator="tld" status="Review" modifyDate="28.02.2021" istablet="false">Izmantot Intercard ieņēmumu integrāciju</string>
     <string name="Use Journal Data" translator="jk" status="Complete" modifyDate="23.01.2017" istablet="false">Izmantot žurnālfaila datus</string>
-    <string name="Use Lane Cleaning" translator="jk" status="Complete" modifyDate="31.08.2019" istablet="false">Izmantot "Celiņu apkope"</string>
+    <string name="Use Lane Cleaning" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Izmantot “Celiņu apkope”</string>
     <string name="Use LaneLogic" translator="jk" status="Complete" modifyDate="05.11.2025" istablet="false">Izmanto LaneLogic</string>
     <string name="Use Linked Account Numbers" translator="Original Seed" status="Review" modifyDate="03.09.2025" istablet="false">Use Linked Account Numbers</string>
     <string name="Use Log-in Cards?" translator="jk" status="Complete" modifyDate="28.02.2021" istablet="false">Izmantot pieteikšanās kartes?</string>
@@ -10034,7 +10034,7 @@ Programmatūru</string>
     <string name="Use Proxy Server:" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Izmantot starpniekserveri:</string>
     <string name="Use QR Pay" translator="jk" status="Complete" modifyDate="26.09.2025" istablet="false">Izmantot QR Maksājumus</string>
     <string name="Use QuickBooks" translator="jk" status="Complete" modifyDate="18.11.2024" istablet="false">Izmanto QuickBooks</string>
-    <string name="Use Quit/Continue" translator="jk" status="Complete" modifyDate="20.01.2017" istablet="false">Izmantot "Beigt/Turpināt"</string>
+    <string name="Use Quit/Continue" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Izmantot “Beigt/Turpināt”</string>
     <string name="Use Rate Maps?" translator="Original Seed" status="Review" modifyDate="26.04.2016" istablet="false">Use Rate Maps?</string>
     <string name="Use Reservation Check-In" translator="jk" status="Complete" modifyDate="12.05.2023" istablet="false">Izmantot Rezervāciju Reģistrāciju</string>
     <string name="Use Reservations" translator="jk" status="Complete" modifyDate="16.08.2020" istablet="false">Izmantot rezervācijas</string>
@@ -10056,7 +10056,7 @@ Programmatūru</string>
     <string name="use the tablet to continue or throw a ball to start next game" translator="jk" status="Complete" modifyDate="04.05.2016" istablet="false">izmantojiet planšetes ekrānu vai ripiniet bumbu lai turpinātu spēli</string>
     <string name="Use the tablet to continue or throw a ball to start next game." translator="jk" status="Complete" modifyDate="12.04.2022" istablet="false">Izmantojiet planšetes ekrānu vai ripiniet bumbu lai turpinātu spēli</string>
     <string name="use the tablet to pick a shot" translator="jk" status="Complete" modifyDate="17.01.2017" istablet="false">izvelaties kombinaciju uz plansetes</string>
-    <string name="Use the Team Track menu to follow teams on other lanes" translator="jk" status="Complete" modifyDate="26.03.2017" istablet="false">Izmantojiet "sekot komandai" izvēlni lai sekotu citas komandas spēles gaitai kas norisinās uz cita celiņa.</string>
+    <string name="Use the Team Track menu to follow teams on other lanes" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Izmantojiet “sekot komandai” izvēlni lai sekotu citas komandas spēles gaitai kas norisinās uz cita celiņa.</string>
     <string name="Use this tablet" translator="jk" status="Complete" modifyDate="10.11.2017" istablet="true">Izmantot šo planšeti</string>
     <string name="Use Validated Card" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Izmantot apstiprināto karti</string>
     <string name="Use Waiting List" translator="jk" status="Complete" modifyDate="28.03.2022" istablet="false">Izmanto Gaidīšanas Sarakstu</string>
@@ -10112,7 +10112,7 @@ Programmatūru</string>
     <string name="uses brunswick lighting environment" translator="jk" status="Complete" modifyDate="25.05.2021" istablet="true">Izmanto Brunswick apgaismojuma vidi</string>
     <string name="Uses Brunswick Lighting Environment" translator="jk" status="Complete" modifyDate="16.08.2020" istablet="true">Izmanto Brunswick apgaismojuma vidi</string>
     <string name="Uses Peripherals" translator="jk" status="Complete" modifyDate="22.03.2017" istablet="false">Izmanto Perifērijas ierīces</string>
-    <string name="Uses the Revenue Centers feature in Sync to divide revenue in sales exports. This option requires 'Use Revenue Centers' to be enabled under POS Policies → Accounting." translator="JK" status="Complete" modifyDate="09.03.2026" istablet="false">Izmanto rīku "Struktūrvienības" programmā Sync, lai sadalītu ieņēmumus pārdošanas datu eksportā. Lai izmantotu šo opciju, POS politika → Grāmatvedība ir jāiespējo "Izmanto struktūrvienības" opcija.</string>
+    <string name="Uses the Revenue Centers feature in Sync to divide revenue in sales exports. This option requires 'Use Revenue Centers' to be enabled under POS Policies → Accounting." translator="JK" status="Complete" modifyDate="10.03.2026" istablet="false">Izmanto rīku “Struktūrvienības” programmā Sync, lai sadalītu ieņēmumus pārdošanas datu eksportā. Lai izmantotu šo opciju, POS politika → Grāmatvedība ir jāiespējo “Izmanto struktūrvienības” opcija.</string>
     <string name="Using Warmup in Open Play is only available for 'Time' bowling products. The minutes set for this policy will not affect competitions." translator="jk" status="Complete" modifyDate="01.03.2026" istablet="false">Iesildīšanās Ikdienas spēlē ir pieejama tikai 'Laika' boulinga produktiem. Šeit norādītie iestatījumi neietekmēs sacensību produktus.</string>
     <string name="uTrust" translator="Original Seed" status="Complete" modifyDate="01.03.2026" istablet="false">uTrust</string>
     <string name="uTrust 4701" translator="Original Seed" status="Complete" modifyDate="01.03.2026" istablet="false">uTrust 4701</string>
@@ -10358,7 +10358,7 @@ Programmatūru</string>
     <string name="When I Play" translator="jk" status="Complete" modifyDate="27.09.2025" istablet="false">Kad es maksāju</string>
     <string name="When I said how stupid you can be, it wasn't a challenge." translator="Original Seed" status="Complete" modifyDate="02.10.2025" istablet="false">Kad es jautāju, cik stulbs tu vari būt, tas nebija izaicinājums.</string>
     <string name="When our phones fall we panic. When our friends fall we laugh." translator="Original Seed" status="Complete" modifyDate="02.10.2025" istablet="false">Kad telefons nokrīt, mums ir panika. Kad mūsu draugi nokrīt, mēs smejamies.</string>
-    <string name="When prompted please click Yes to run the updater" translator="jk" status="Complete" modifyDate="14.11.2019" istablet="false">Pēc pieprasījuma, nospiediet "Jā" lai sāktu atjaunināšanu</string>
+    <string name="When prompted please click Yes to run the updater" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Pēc pieprasījuma, nospiediet “Jā” lai sāktu atjaunināšanu</string>
     <string name="Where should we deliver your order?" translator="jk" status="Complete" modifyDate="23.01.2022" istablet="false">Kur mums jānogādā jūsu pasūtījums?</string>
     <string name="Which cash drawer would you like to use?" translator="jk" status="Complete" modifyDate="12.11.2017" istablet="false">Kuru kases lādi vēlaties izmantot?</string>
     <string name="Which one of you grabbed my ball?" translator="jk" status="Complete" modifyDate="10.11.2017" istablet="false">Kurš no jums paķēra manu bumbu?</string>
