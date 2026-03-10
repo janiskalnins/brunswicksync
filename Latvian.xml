@@ -37,7 +37,7 @@
     <string name="(USBC) Team" translator="Original Seed" status="Complete" modifyDate="01.03.2026" istablet="false">(USBC) Team</string>
     <string name="(USBC) USBC Singles 3 Player" translator="Original Seed" status="Complete" modifyDate="01.03.2026" istablet="false">(USBC) USBC Singles 3 Player</string>
     <string name="* = Voided Transaction" translator="jk" status="Complete" modifyDate="18.02.2020" istablet="false">* = Anulētā Transakcija</string>
-    <string name="*** The selected account exists exclusively within QuickBooks and isn't accessible anywhere else in Sync ***" translator="Original Seed" status="Review" modifyDate="11.11.2024" istablet="false">*** The selected account exists exclusively within QuickBooks and isn't accessible anywhere else in Sync ***</string>
+    <string name="*** The selected account exists exclusively within QuickBooks and isn't accessible anywhere else in Sync ***" translator="Original Seed" status="Complete" modifyDate="10.03.2026" istablet="false">*** The selected account exists exclusively within QuickBooks and isn't accessible anywhere else in Sync ***</string>
     <string name="**Changes apply after next sign-in**" translator="Claude (AI)" status="Complete" modifyDate="08.03.2026" istablet="false">**Izmaiņas stāsies spēkā pēc nākamās pierakstīšanās reizes**</string>
     <string name="*age restricted" translator="jk" status="Complete" modifyDate="13.08.2020" istablet="true">* vecuma ierobežojums</string>
     <string name="*incomplete game" translator="jk" status="Complete" modifyDate="13.08.2020" istablet="true">* nepabeigta spēle</string>
@@ -47,7 +47,7 @@
     <string name=".01 Off Value Meal" translator="JK" status="Review" modifyDate="01.03.2026" istablet="false">--.01 Off Value Meal</string>
     <string name=".NET Framework" translator="Original Seed" status="Complete" modifyDate="01.03.2026" istablet="false">.NET Framework</string>
     <string name=".Net Framework 4.8" translator="Original Seed" status="Complete" modifyDate="01.03.2026" istablet="false">.Net Framework 4.8</string>
-    <string name="\nUploading Date: " translator="jk" status="Complete" modifyDate="25.02.2026" istablet="false">\nAugšupielādes Detums: </string>
+    <string name="\nUploading Date: " translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">\nAugšupielādes Datums: </string>
     <string name="^ = Online Payment" translator="jk" status="Complete" modifyDate="25.02.2026" istablet="false">^ = Tiešsaites Maksājums</string>
     <string name="^ = QR Payment" translator="jk" status="Complete" modifyDate="18.11.2024" istablet="false">^ = QR Maksājums</string>
     <string name="{0} discount" translator="jk" status="Complete" modifyDate="10.11.2017" istablet="false">{0} atlaide</string>
@@ -1385,7 +1385,7 @@
     <string name="Change Training Mode Override" translator="jk" status="Complete" modifyDate="18.11.2024" istablet="false">Mainīt Apmācību Režīma pārņemšanu</string>
     <string name="Change Transaction Fiscal Date" translator="jk" status="Complete" modifyDate="25.09.2025" istablet="false">Mainīt Transakcijas Fiskālo Datumu</string>
     <string name="Change Transaction Owner" translator="jk" status="Complete" modifyDate="13.05.2016" istablet="false">Nomainīt Transakcijas Īpašnieku</string>
-    <string name="Change User View Panels" translator="jk" status="Complete" modifyDate="04.11.2025" istablet="false">Mainīt Lietotāja Skatu Kopas</string>
+    <string name="Change User View Panels" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Mainīt Lietotāja Skatu Kopu</string>
     <string name="Changed Previously Assigned Gratuities" translator="Original Seed" status="Complete" modifyDate="23.11.2024" istablet="false">Mainītas iepriekš piešķirtās pateicības</string>
     <string name="Changes have been made to the following lanes without being saved.  Are you sure you want to continue?" translator="jk" status="Complete" modifyDate="23.08.2020" istablet="false">Ir veiktas izmaiņas sekojošos celiņos, nesaglabājot tās. Vai tiešām vēlaties turpināt?</string>
     <string name="Changes have been made to the following lanes without being saved. Are you sure you want to continue?\r\n\r\n" translator="jk" status="Complete" modifyDate="01.02.2017" istablet="false">Sekojošiem celiņiem ir nesaglabātas izmaiņas. Vai tiešām vēlaties turpināt?\r\n\r\n</string>
@@ -2293,7 +2293,7 @@
     <string name="Disable" translator="jk" status="Complete" modifyDate="25.09.2025" istablet="false">Atspējot</string>
     <string name="Disable All" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Atspējot Visu</string>
     <string name="Disable Debit Authorization Adjustments" translator="Original Seed" status="Review" modifyDate="18.02.2026" istablet="false">Disable Debit Authorization Adjustments</string>
-    <string name="Disable Default OK Button on Payment Dialog" translator="jk" status="Complete" modifyDate="09.03.2026" istablet="false">Atspējot pogu 'Labi' Maksājuma Dialoga logā </string>
+    <string name="Disable Default OK Button on Payment Dialog" translator="jk" status="Complete" modifyDate="09.03.2026" istablet="false">Atspējot pogu 'Labi' Maksājuma Dialoga logā</string>
     <string name="Disable For All Bowlers" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Atspējot visiem spēlētājiem</string>
     <string name="Disable menu if players deny Food and Drink warning" translator="jk" status="Complete" modifyDate="16.01.2022" istablet="false">Atspējot ēdienkarti, ja klients noraida brīdinājumu par ēdieniem un dzērieniem</string>
     <string name="Disable Old Accounts" translator="jk" status="Complete" modifyDate="11.01.2017" istablet="false">Bloķēt vecos kontus</string>
@@ -6942,7 +6942,7 @@ skaņu
     <string name="Quick-Pay Amounts" translator="jk" status="Complete" modifyDate="25.01.2017" istablet="false">Ātrās maksāšanas summas</string>
     <string name="Quit" translator="jk" status="Complete" modifyDate="26.04.2017" istablet="true">Iziet</string>
     <string name="quit?" translator="jk" status="Complete" modifyDate="09.04.2017" istablet="false">iziet?</string>
-    <string name="Quoted" translator="jk" status="Complete" modifyDate="18.02.2020" istablet="false">Kvotēts</string>
+    <string name="Quoted" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Piedāvājums</string>
     <string name="R file" translator="jk" status="Complete" modifyDate="10.11.2017" istablet="false">R fails</string>
     <string name="Rainbow Rockets" translator="Original Seed" status="Complete" modifyDate="02.10.2025" istablet="false">Tīkams raksturs tirgū nav nopērkams.</string>
     <string name="Rake Drop Picture Delay (ms)" translator="Original Seed" status="Review" modifyDate="26.04.2016" istablet="false">Rake Drop Picture Delay (ms)</string>
@@ -8469,7 +8469,7 @@ pirms automātiskās startēšanas</string>
     <string name="Super Novas" translator="jk" status="Complete" modifyDate="11.11.2019" istablet="true">Super-Novas</string>
     <string name="Super Shriek Strike" translator="Original Seed" status="Complete" modifyDate="02.10.2025" istablet="false">No rīta bagāts, vakarā nabags.</string>
     <string name="Supernova Blaster" translator="jk" status="Complete" modifyDate="23.01.2022" istablet="false">Supernovas Spridzina</string>
-    <string name="Supporting Info" translator="jk" status="Complete" modifyDate="05.11.2025" istablet="false">Atbalsta informācija</string>
+    <string name="Supporting Info" translator="Claude (AI)" status="Complete" modifyDate="10.03.2026" istablet="false">Atbilstošā informācija</string>
     <string name="Surcharge" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Uzrēķins</string>
     <string name="Surcharge Bank Drop" translator="jk" status="Complete" modifyDate="25.09.2025" istablet="false">Uzrēķinu izmaksa</string>
     <string name="Surcharge Notice" translator="jk" status="Complete" modifyDate="25.09.2025" istablet="false">Paziņojums par Uzrēķinu</string>
@@ -8945,7 +8945,7 @@ pirms automātiskās startēšanas</string>
     <string name="The max amount of user views is 24" translator="jk" status="Complete" modifyDate="04.11.2025" istablet="false">Maksimālais Lietotāja Skatu Kopu skaits ir 24</string>
     <string name="The max amount of view panels is 24" translator="jk" status="Complete" modifyDate="04.11.2025" istablet="false">Maksimālais Skatu Paneļu skaits ir 24</string>
     <string name="The maximum number of modifiers from this category has already been reached" translator="Original Seed" status="Review" modifyDate="11.08.2020" istablet="false">The maximum number of modifiers from this category has already been reached</string>
-    <string name="The Mechanic" translator="JK" status="Complete" modifyDate="09.03.2026" istablet="false">Galvenais atslēdznieks</string>
+    <string name="The Mechanic" translator="JK" status="Complete" modifyDate="10.03.2026" istablet="false">Brīnumdaris</string>
     <string name="The member could not be found." translator="jk" status="Complete" modifyDate="01.03.2020" istablet="false">Nevarēja atrast kluba biedru</string>
     <string name="The member has been successfully signed up." translator="jk" status="Complete" modifyDate="01.03.2020" istablet="false">Kluba biedrs tika veiksmīgi pieteikts</string>
     <string name="The member's points are less than the minimum requirement for using Loyalty points." translator="jk" status="Complete" modifyDate="16.08.2020" istablet="false">Kluba biedra punktu skaits ir mazāks par minimālo nepieciešamo punktu skaitu lai varētu izmantot Lojalitātes punktus.</string>
