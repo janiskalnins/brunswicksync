@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TRNExportImportModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Culture="lv-LV" DisplayLanguage="Latviešu" IsModifiable="false" IsLocal="true" Version="4.1.1162">
   <resources>
-    <string name="  Then By: " translator="JK" status="Complete" modifyDate="10.03.2026" istablet="false"> Pēc tam pēc:</string>
+    <string name="  Then By: " translator="JK" status="Complete" modifyDate="10.03.2026" istablet="false"> Pēc tam pēc::</string>
     <string name=" (Unavailable)" translator="jk" status="Complete" modifyDate="01.03.2026" istablet="false">(Nav pieejams)</string>
     <string name=" cards not dispensed" translator="Original Seed" status="Review" modifyDate="02.10.2025" istablet="false">- cards not dispensed</string>
     <string name=" Cash Gratuities" translator="jk" status="Complete" modifyDate="27.02.2026" istablet="false">Pateicības Naudā</string>
