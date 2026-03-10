@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TRNExportImportModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Culture="lv-LV" DisplayLanguage="Latviešu" IsModifiable="false" IsLocal="true" Version="4.1.1162">
   <resources>
-    <string name="  Then By: " translator="JK" status="Complete" modifyDate="05.03.2026" istablet="false"> Pēc tam pēc:</string>
+    <string name="  Then By: " translator="JK" status="Complete" modifyDate="10.03.2026" istablet="false"> Pēc tam pēc:</string>
     <string name=" (Unavailable)" translator="jk" status="Complete" modifyDate="01.03.2026" istablet="false">(Nav pieejams)</string>
     <string name=" cards not dispensed" translator="Original Seed" status="Review" modifyDate="02.10.2025" istablet="false">- cards not dispensed</string>
     <string name=" Cash Gratuities" translator="jk" status="Complete" modifyDate="27.02.2026" istablet="false">Pateicības Naudā</string>
@@ -2934,7 +2934,7 @@
     <string name="Error posting, payment VOIDED." translator="Original Seed" status="Review" modifyDate="11.11.2024" istablet="false">Error posting, payment VOIDED.</string>
     <string name="Error Reading CDE File" translator="jk" status="Complete" modifyDate="04.11.2025" istablet="false">Kļūda nolasot CDE failu</string>
     <string name="Error reading import file for " translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Kļūda nolasot importa failu priekš</string>
-    <string name="Error reading the firmware file." translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Kļūda nolasot aparātprogrammatūras failu</string>
+    <string name="Error reading the firmware file." translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Kļūda nolasot programmaparatūras failu</string>
     <string name="Error Removing Modifier" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Kļūda dzēšot modifikatoru</string>
     <string name="Error retreiving status" translator="jk" status="Complete" modifyDate="26.09.2025" istablet="false">Atjaunojot statusu, radās kļūda</string>
     <string name="Error Rounding Item" translator="jk" status="Complete" modifyDate="18.01.2022" istablet="false">Kļūda noapaļojot Posteni</string>
@@ -3224,8 +3224,8 @@
     <string name="Find Backup" translator="jk" status="Complete" modifyDate="13.05.2016" istablet="false">Meklēt Rezerves Kopijas</string>
     <string name="Find Card" translator="jk" status="Complete" modifyDate="24.01.2017" istablet="false">Meklēt karti</string>
     <string name="Find card is not supported by this stored value system." translator="Original Seed" status="Review" modifyDate="01.03.2017" istablet="false">Find card is not supported by this stored value system.</string>
-    <string name="Find Firmware" translator="jk" status="Complete" modifyDate="27.09.2025" istablet="false">Atrast 
-aparātprogrammatūru</string>
+    <string name="Find Firmware" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Atrast 
+programmaparatūru</string>
     <string name="Find Guest List" translator="jk" status="Complete" modifyDate="24.01.2017" istablet="false">Meklēt viesu sarakstu</string>
     <string name="Find Person" translator="jk" status="Complete" modifyDate="21.05.2016" istablet="false">Meklēt Personu</string>
     <string name="Find Printer" translator="jk" status="Complete" modifyDate="15.01.2017" istablet="false">Meklēt printeri</string>
@@ -3243,9 +3243,9 @@ aparātprogrammatūru</string>
     <string name="FINISH WITHOUT REBOOT" translator="JK" status="Complete" modifyDate="15.01.2017" istablet="false">PABEIGT BEZ RESTARTA</string>
     <string name="Finished" translator="jk" status="Complete" modifyDate="19.08.2020" istablet="false">Pabeigts</string>
     <string name="FIRE" translator="JK" status="Complete" modifyDate="25.01.2017" istablet="false">UGUNI</string>
-    <string name="Firmware" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Aparātprogrammatūra</string>
-    <string name="Firmware Update Initiated" translator="jk" status="Complete" modifyDate="14.01.2017" istablet="false">Sākta aparātprogrammatūras atjaunināšana</string>
-    <string name="Firmware Version" translator="jk" status="Complete" modifyDate="25.02.2020" istablet="false">Aparātprogrammatūras versija</string>
+    <string name="Firmware" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Programmaparatūra</string>
+    <string name="Firmware Update Initiated" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Sākta programmaparatūras atjaunināšana</string>
+    <string name="Firmware Version" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Programmaparatūras versija</string>
     <string name="First" translator="jk" status="Complete" modifyDate="27.05.2023" istablet="false">Vārds</string>
     <string name="first ball" translator="jk" status="Complete" modifyDate="04.05.2016" istablet="false">1. met.</string>
     <string name="First Ball" translator="jk" status="Complete" modifyDate="25.02.2026" istablet="false">Pirmā Bumba</string>
@@ -9408,7 +9408,7 @@ pirms automātiskās startēšanas</string>
     <string name="This payment is not yet available to refund in Office and must be refunded from Desk.  You may need to Undo End Shift to perform this refund." translator="jk" status="Complete" modifyDate="26.02.2026" istablet="false">Šis maksājums nav pieejams atmaksai Ofisa lietotnē bet to ir jāveic no Operatoru Lietotnes. Iespējams būs jāatsauc Noslēgtu Maiņu lai varētu atmaksāt šo maksājumu.</string>
     <string name="This payment is not yet available to refund." translator="jk" status="Complete" modifyDate="27.09.2025" istablet="false">Šis maksājums vēl nav pieejams atmaksai..</string>
     <string name="This Payment Method" translator="jk" status="Complete" modifyDate="21.05.2016" istablet="false">Šo Apmaksas Veidu</string>
-    <string name="This pinsetter requires newer peripheral controller firmware.  Please make sure you have appropriate firmware before selecting this pinsetter." translator="jk" status="Complete" modifyDate="28.02.2020" istablet="false">Šim pinsetera veidam ir nepieciešama jaunāka perifērā kontroliera aparātprogrammatūra. Lūdzu pārliecināties ka ir uzstādīta atbilstoša aparātprogrammatūra pirms norādat šo pinsetera veidu.</string>
+    <string name="This pinsetter requires newer peripheral controller firmware.  Please make sure you have appropriate firmware before selecting this pinsetter." translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Šim pinsetera veidam ir nepieciešama jaunāka perifērā kontroliera programmaparatūra. Lūdzu pārliecināties ka ir uzstādīta atbilstoša programmaparatūra pirms norādat šo pinsetera veidu.</string>
     <string name="This process already exists" translator="jk" status="Complete" modifyDate="05.03.2017" istablet="false">Šis process jau eksistē</string>
     <string name="This process can take a 1 - 2 minutes to complete. Are you sure you want to continue?" translator="Original Seed" status="Review" modifyDate="03.09.2025" istablet="false">This process can take a 1 - 2 minutes to complete. Are you sure you want to continue?</string>
     <string name="This process may require several installs before it is completed." translator="Original Seed" status="Review" modifyDate="11.11.2024" istablet="false">This process may require several installs before it is completed.</string>
@@ -9918,8 +9918,8 @@ pirms automātiskās startēšanas</string>
     <string name="Update Devices" translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Atjaunināt Iekārtas</string>
     <string name="Update Distribution Boards" translator="jk" status="Complete" modifyDate="29.08.2016" istablet="false">Atjaunināt Perifēros Kontrolierus</string>
     <string name="Update Error" translator="jk" status="Complete" modifyDate="09.04.2017" istablet="false">Atjaunināšanas kļūda</string>
-    <string name="Update Firmware" translator="jk" status="Complete" modifyDate="27.09.2025" istablet="false">Atjaunināt 
-aparātprogrammatūru</string>
+    <string name="Update Firmware" translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Atjaunināt 
+programmaparatūru</string>
     <string name="update from attached media" translator="jk" status="Complete" modifyDate="30.04.2016" istablet="true">atjaunināt no pievienotā datu nesēja</string>
     <string name="update from usb" translator="jk" status="Complete" modifyDate="30.04.2016" istablet="true">atjaunināt no usb</string>
     <string name="Update Image Content Folder" translator="jk" status="Complete" modifyDate="28.03.2022" istablet="false">Atjaunināt attēlu mapes saturu</string>
@@ -9938,7 +9938,7 @@ Paroli</string>
     <string name="Update Software" translator="jk" status="Complete" modifyDate="27.09.2025" istablet="false">Atjaunināt 
 Programmatūru</string>
     <string name="Update the active installation." translator="jk" status="Complete" modifyDate="22.08.2016" istablet="false">Atjaunināt pašreizējo instalāciju</string>
-    <string name="Update the firmware running in the distribution boards, and firmware, software and password for tablets." translator="jk" status="Complete" modifyDate="29.08.2016" istablet="false">Atjaunināt Perifērā Kontroliera aparātprogrammatūru, un aparātprogrammatūru, programmatūru vai paroli Planšetei.</string>
+    <string name="Update the firmware running in the distribution boards, and firmware, software and password for tablets." translator="jk" status="Complete" modifyDate="10.03.2026" istablet="false">Atjaunināt Perifērā Kontroliera programmaparatūru, un programmaparatūru, programmatūru vai paroli Planšetei.</string>
     <string name="Update the number of guest for the current reciept" translator="jk" status="Complete" modifyDate="13.05.2023" istablet="false">Atlasīt pašreizējā čeka viesa skaitu</string>
     <string name="Update the number of guests for the current receipt" translator="jk" status="Complete" modifyDate="25.02.2026" istablet="false">Mainīt viesu skaitu tekošajam rēķinam</string>
     <string name="Update Translation Files" translator="jk" status="Complete" modifyDate="18.11.2024" istablet="false">Atjaunināt Tulkojumu Failus</string>
